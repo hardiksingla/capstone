@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load model once at startup
-MODEL_DIR = os.path.join(os.path.dirname(__file__), '..', 'models')
+MODEL_DIR = os.path.join(os.path.dirname(__file__), 'models')
 detector = LinearTypingDetector(model_dir=MODEL_DIR)
 
 
