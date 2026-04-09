@@ -4,14 +4,20 @@ import numpy as np
 import sys
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).parent))
+# Ensure local imports work
+BASE_DIR = Path(__file__).resolve().parent
+sys.path.append(str(BASE_DIR))
+
 from feature_extractor_v4 import ImprovedBehaviorExtractor
+
 
 class LinearTypingDetector:
     """Detect linear typing patterns using trained model"""
     
     def __init__(self, model_dir='models'):
-        self.model_dir = model_dir
+        # ✅ Convert to absolute path (CRITICAL FIX)
+        self.model_dir = BASE_DIR / model_dir
+        
         self.model = None
         self.scaler = None
         self.feature_names = None
@@ -24,21 +30,25 @@ class LinearTypingDetector:
         """Load trained model and metadata"""
         print("📦 Loading trained model...")
         
-        # Load model
-        with open(f'{self.model_dir}/best_model.pkl', 'rb') as f:
+        # Debug (optional)
+        print("MODEL DIR:", self.model_dir)
+        print("FILES:", list(self.model_dir.glob("*")))
+        
+        # ✅ Load model
+        with open(self.model_dir / 'best_model.pkl', 'rb') as f:
             self.model = pickle.load(f)
         
-        # Load scaler
-        with open(f'{self.model_dir}/feature_scaler.pkl', 'rb') as f:
+        # ✅ Load scaler
+        with open(self.model_dir / 'feature_scaler.pkl', 'rb') as f:
             self.scaler = pickle.load(f)
         
-        # Load feature names
-        with open(f'{self.model_dir}/feature_names.json', 'r') as f:
+        # ✅ Load feature names
+        with open(self.model_dir / 'feature_names.json', 'r') as f:
             self.feature_names = json.load(f)
         
-        # Load metadata
+        # ✅ Load metadata (optional)
         try:
-            with open(f'{self.model_dir}/model_metadata.json', 'r') as f:
+            with open(self.model_dir / 'model_metadata.json', 'r') as f:
                 self.metadata = json.load(f)
         except FileNotFoundError:
             self.metadata = None
@@ -50,7 +60,7 @@ class LinearTypingDetector:
         if self.metadata and 'best_model_metrics' in self.metadata:
             f1_mean = self.metadata['best_model_metrics']['f1']['mean']
             print(f"   ✓ CV F1-Score: {f1_mean:.3f}")
-    
+            
     def predict_session(self, session_path):
         """Predict on a single session"""
         # Extract features
