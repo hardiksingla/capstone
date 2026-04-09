@@ -1,0 +1,5298 @@
+{
+  "sessionId": "session_1775373335857_4r0hx2x1d",
+  "startTime": "2026-01-17T17:07:57.720Z",
+  "duration": 270661,
+  "problemUrl": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+  "problemTitle": "104. Maximum Depth of Binary Tree",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1098,
+      "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/description/",
+      "problemTitle": "104. Maximum Depth of Binary Tree"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5248,
+      "x": 606,
+      "y": 27
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5362,
+      "x": 693,
+      "y": 156
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5481,
+      "x": 728,
+      "y": 244
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5484,
+      "length": 434,
+      "lines": 21,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5818,
+      "x": 903,
+      "y": 382
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5932,
+      "x": 1039,
+      "y": 479
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 6046,
+      "x": 1048,
+      "y": 474
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 6160,
+      "x": 1059,
+      "y": 478
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 6274,
+      "x": 1057,
+      "y": 457
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 6390,
+      "x": 1072,
+      "y": 439
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6471,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 6722,
+      "x": 1061,
+      "y": 448,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 7045,
+      "x": 1068,
+      "y": 438
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 7158,
+      "x": 1047,
+      "y": 454
+    },
+    {
+      "type": "click",
+      "timestamp": 7352,
+      "x": 1036,
+      "y": 462,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7794,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7862,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7932,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8173,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8210,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8450,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8484,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8723,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8860,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8949,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8984,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9133,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9235,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9266,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9525,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9557,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9726,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9789,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9820,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10967,
+      "length": 450,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11080,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11108,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11159,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11389,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11428,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11668,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11758,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11797,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 11973,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12264,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12296,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12344,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12780,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12910,
+      "scrollY": 298
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12881,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12917,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13044,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13159,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13549,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13579,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13671,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13836,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13868,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14072,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14112,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14276,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14495,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14563,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14595,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 14669,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14788,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14843,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14889,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14982,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15486,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15516,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15856,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15893,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16069,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16203,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16235,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16336,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 16450,
+      "length": 468,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17103,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17136,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 21933,
+      "length": 469,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22071,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22118,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22103,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22163,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22300,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22337,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22346,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23031,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23065,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23211,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23473,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23508,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23640,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23741,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23773,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23844,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "blur",
+      "timestamp": 24202
+    },
+    {
+      "type": "focus",
+      "timestamp": 25394
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 26653,
+      "x": 1045,
+      "y": 453
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 26767,
+      "x": 1422,
+      "y": 520
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 26882,
+      "x": 1530,
+      "y": 568
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27003,
+      "x": 1539,
+      "y": 541
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 27417,
+      "length": 479,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27632,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27761,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27995,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28093,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28274,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28312,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28490,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28544,
+      "scrollY": 3
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28532,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28575,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28695,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 32900,
+      "length": 495,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33033,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44015,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44054,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44305,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44333,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44575,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44613,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44862,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44892,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45009,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46543,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46598,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46627,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46729,
+      "key": "Backspace"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46764,
+      "scrollY": 157
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46835,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47217,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47246,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47322,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47565,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47696,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47859,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47887,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47994,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48143,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48174,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48557,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48583,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48712,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49045,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49073,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 49350,
+      "length": 505,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0ans\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51635,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51662,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51758,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51792,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52271,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52420,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52448,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52540,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52755,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52943,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52977,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53070,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53165,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53477,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53528,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53603,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54334,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54362,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54669,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54699,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54738,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 54833,
+      "length": 509,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ma\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55024,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55050,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55609,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55812,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55842,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56132,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60316,
+      "length": 512,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans()\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62336,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62364,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62711,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63014,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63042,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63092,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63382,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63410,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64197,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64224,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64887,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64915,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65067,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65320,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65348,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65620,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65649,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65799,
+      "length": 521,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left)\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71878,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71975,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72018,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 72069,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72127,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72875,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72914,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73843,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73877,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74026,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74175,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74210,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74297,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75770,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75806,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76416,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76446,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76511,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 76766,
+      "length": 531,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.ri)\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76797,
+      "scrollY": 264
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76774,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76807,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76863,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76918,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77024,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77065,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77776,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77980,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78007,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 78084,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78205,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78239,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78277,
+      "scrollY": 80
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80008,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 80216,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80786,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80817,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81813,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81833,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 81968,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82103,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 82249,
+      "length": 537,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82272,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82413,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82562,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82834,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82897,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 83015,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83377,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 83524,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83592,
+      "scrollY": 5
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83783,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83879,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 83948,
+      "key": "Tab"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 87732,
+      "length": 541,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88251,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88330,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88570,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88644,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88805,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88914,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89049,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89079,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90686,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90818,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90895,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91152,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 91262,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91401,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91468,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91497,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92296,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92385,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92442,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92576,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92845,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93154,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93188,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 93215,
+      "length": 551,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93407,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93605,
+      "key": "*",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93634,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 93915,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94047,
+      "scrollY": 214
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94266,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94388,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95160,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95280,
+      "scrollY": 50
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95265,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95564,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 98698,
+      "length": 553,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec()\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100802,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100836,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100970,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101136,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101165,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102356,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 104182,
+      "length": 557,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root)\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107830,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107863,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108167,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108199,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108665,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108842,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 109110,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 109665,
+      "length": 559,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0)\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112379,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 112469,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114108,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114142,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115150,
+      "length": 560,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115853,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115966,
+      "key": ";",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116660,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 117123,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 123176,
+      "x": 1523,
+      "y": 496
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 123290,
+      "x": 1438,
+      "y": 486
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 123404,
+      "x": 1406,
+      "y": 468
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 123541,
+      "x": 1404,
+      "y": 467
+    },
+    {
+      "type": "click",
+      "timestamp": 123666,
+      "x": 1392,
+      "y": 479,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124154,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124187,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 124273,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124772,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124812,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124906,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124955,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125357,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125680,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125713,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 125926,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 126115,
+      "length": 574,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if ()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126356,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126515,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126642,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126672,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126758,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128598,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128628,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128736,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129247,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129273,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129388,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129626,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129653,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129777,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130336,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 130553,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130623,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 130746,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130862,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130890,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131015,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131259,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 131598,
+      "length": 584,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (root==null)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131688,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 131789,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 132742,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134122,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 134213,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134406,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134774,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134803,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 135031,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135143,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135179,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 135273,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135739,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135768,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135821,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136019,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136047,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136129,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136260,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136290,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136367,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136489,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136517,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136748,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136775,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 137081,
+      "length": 608,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139049,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139080,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139502,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139761,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 139968,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 142564,
+      "length": 608,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0a\u00a0binary\u00a0tree\u00a0node.\n\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 148047,
+      "length": 574,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155780,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 156145,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156774,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 156930,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157327,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 157446,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157644,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 157782,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157938,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158050,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158181,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158324,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158383,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158475,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158848,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158916,
+      "scrollY": 42
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158960,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159048,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159596,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159630,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159663,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159697,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159731,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159764,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159798,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159832,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159865,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159899,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159932,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159966,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159999,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160033,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160067,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160124,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160142,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160175,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160203,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160237,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160271,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160303,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 160320,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161876,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161905,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161963,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162213,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162239,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162470,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162616,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162645,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 162835,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163444,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163993,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164027,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164059,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164093,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164179,
+      "scrollY": 25
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164127,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164141,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164300,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164363,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164459,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 164497,
+      "length": 578,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left+1,root.right+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164547,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164666,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164755,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164889,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165329,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165357,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 165499,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165953,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 166082,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166242,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 166306,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166415,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 166544,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166977,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167004,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167030,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167272,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167301,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167666,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168254,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168284,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168479,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168960,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169509,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169544,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169577,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169611,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169644,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169678,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 169691,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169820,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 169912,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 169980,
+      "length": 583,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left)+1,rec(root.right+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169987,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170067,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170122,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170213,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170287,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170376,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170452,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170544,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170835,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171221,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171252,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171471,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172887,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 173041,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173131,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 173261,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173348,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 173473,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173757,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174265,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 174294,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 174584,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 175463,
+      "length": 584,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left)+1,rec(root.right)+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175807,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 175989,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176705,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 176819,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176898,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 176998,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177233,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 177369,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177459,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 177572,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178214,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178762,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178796,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178829,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178863,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178897,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178930,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178964,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178997,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179031,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179064,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179098,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 179120,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179396,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 179513,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179585,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 179703,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179773,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 179903,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179972,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 180089,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180289,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 180406,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180452,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180481,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 180603,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180868,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 180947,
+      "length": 580,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left),rec(root.right));\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181416,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181457,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181488,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181528,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181638,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181553,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181613,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181630,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181680,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181696,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181758,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181781,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181797,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181826,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181859,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181893,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181926,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181960,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181993,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 182007,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182705,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 182856,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182993,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 183102,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183466,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 183586,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184024,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184161,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184371,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184509,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184536,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184594,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184666,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185116,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185289,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 185542,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 186430,
+      "length": 582,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left),rec(root.right))+1;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195609,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196157,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196191,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196224,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196258,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196292,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196325,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196370,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196395,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196428,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196486,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196506,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196538,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196566,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196601,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196632,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196666,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196699,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196733,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196766,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196800,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196834,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196867,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196881,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197159,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 197253,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197324,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 197442,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197882,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 198101,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198741,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198773,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199608,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 199638,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200045,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 200075,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200283,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 200312,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200492,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200581,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 200612,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200674,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201479,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202027,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202063,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202095,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202129,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202163,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202196,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202230,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202263,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202297,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202331,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202364,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202398,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 202429,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202546,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 202671,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202840,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 202886,
+      "length": 589,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left,height),rec(root.right))+1;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 202927,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203030,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 203132,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203760,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203786,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204144,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204181,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204492,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204518,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204719,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204781,
+      "scrollY": 1
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204745,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205289,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 205406,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205681,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206040,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206067,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206126,
+      "scrollY": 3
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206436,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 206542,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206689,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206741,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206847,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206766,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207730,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207918,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 208117,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 208363,
+      "length": 596,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left,height),rec(root.right,height))+1;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a01;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208463,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 212164,
+      "x": 1399,
+      "y": 481
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 212279,
+      "x": 1369,
+      "y": 603
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 212393,
+      "x": 1339,
+      "y": 750
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212621,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216765,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217137,
+      "x": 1330,
+      "y": 740
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217251,
+      "x": 1193,
+      "y": 727
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217366,
+      "x": 1114,
+      "y": 718
+    },
+    {
+      "type": "click",
+      "timestamp": 217554,
+      "x": 1112,
+      "y": 719,
+      "target": "DIV"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217975,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 220054,
+      "x": 1129,
+      "y": 708
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 220169,
+      "x": 1138,
+      "y": 598
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 220679,
+      "x": 1146,
+      "y": 582
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 220793,
+      "x": 1157,
+      "y": 450
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 220984,
+      "x": 1155,
+      "y": 454
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 221151,
+      "x": 1146,
+      "y": 458
+    },
+    {
+      "type": "click",
+      "timestamp": 221402,
+      "x": 1149,
+      "y": 452,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221789,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 221871,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222094,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222121,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222230,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222463,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 222664,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 224812,
+      "length": 596,
+      "lines": 25,
+      "code": "\u00a0*\u00a0public\u00a0class\u00a0TreeNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0TreeNode(int\u00a0val,\u00a0TreeNode\u00a0left,\u00a0TreeNode\u00a0right)\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.val\u00a0=\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.left\u00a0=\u00a0left;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0this.right\u00a0=\u00a0right;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0maxDepth(TreeNode\u00a0root)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0rec(root,0);\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0rec(TreeNode\u00a0root,int\u00a0height){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0Math.ans(rec(root.left,height),rec(root.right,height))+1;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(root==null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228867,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228993,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 229129,
+      "key": "Control"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 229229,
+      "key": "Enter"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256069,
+      "x": 1154,
+      "y": 447
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256182,
+      "x": 1330,
+      "y": 121
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256297,
+      "x": 1396,
+      "y": 71
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256770,
+      "x": 1408,
+      "y": 70
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256897,
+      "x": 1371,
+      "y": 243
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 269714,
+      "x": 1375,
+      "y": 243
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 269828,
+      "x": 1531,
+      "y": 22
+    },
+    {
+      "type": "blur",
+      "timestamp": 270661
+    }
+  ],
+  "eventCount": 720
+}

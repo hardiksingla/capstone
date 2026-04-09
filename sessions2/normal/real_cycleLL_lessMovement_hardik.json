@@ -1,0 +1,4559 @@
+{
+  "sessionId": "session_1768662785596_aelxffzuv",
+  "startTime": "2026-01-17T15:13:06.604Z",
+  "duration": 260610,
+  "problemUrl": "https://leetcode.com/problems/linked-list-cycle/submissions/1887918364/",
+  "problemTitle": "141. Linked List Cycle",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 3518,
+      "url": "https://leetcode.com/problems/linked-list-cycle/description/",
+      "problemTitle": "141. Linked List Cycle"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5480,
+      "length": 1,
+      "lines": 1,
+      "code": "/"
+    },
+    {
+      "type": "focus",
+      "timestamp": 30728
+    },
+    {
+      "type": "focus",
+      "timestamp": 30730
+    },
+    {
+      "type": "focus",
+      "timestamp": 30730
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 31510,
+      "x": 1006,
+      "y": 11
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 31613,
+      "x": 715,
+      "y": 428
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31841,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32050,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32252,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32454,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35002,
+      "length": 273,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        \n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49327,
+      "x": 719,
+      "y": 474
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49432,
+      "x": 1050,
+      "y": 363
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49737,
+      "x": 1125,
+      "y": 354
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49841,
+      "x": 1124,
+      "y": 357
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49966,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 50300,
+      "x": 1121,
+      "y": 361,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50826,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50876,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50940,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51041,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51122,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51164,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51329,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51387,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52124,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52203,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52251,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52348,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52382,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52496,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52635,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52797,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52838,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52910,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53235,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53339,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53512,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53602,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53639,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53796,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54061,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54168,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54213,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 54260,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54351,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54422,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54464,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54540,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54608,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55001,
+      "length": 282,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55674,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55712,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55823,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55956,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55991,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56363,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56616,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56656,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56780,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56867,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56904,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58051,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58084,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58796,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 58872,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58967,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 59093,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59437,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59471,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59633,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59777,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59820,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59891,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59988,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60024,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60031,
+      "length": 293,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60362,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60403,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60606,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60644,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60735,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61201,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61267,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61333,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 61366,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61383,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61483,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61714,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61758,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62000,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62128,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62174,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62195,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62363,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62405,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62498,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62859,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62889,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63266,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63299,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63402,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63555,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63590,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63742,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63866,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63899,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64093,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64199,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64599,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64795,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64973,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65011,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65020,
+      "length": 322,
+      "lines": 18,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = hea\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65067,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65725,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66209,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66243,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66312,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69748,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69784,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69892,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70002,
+      "length": 335,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        wh\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70022,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70053,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70189,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70299,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70418,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72526,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74264,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74304,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74692,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75002,
+      "length": 341,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while ()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75372,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75511,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75568,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75691,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75861,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76405,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76444,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76629,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76678,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76717,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76932,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76965,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77079,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78894,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79042,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79146,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79214,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79849,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79883,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80002,
+      "length": 341,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while(f)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80052,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80089,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80167,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80823,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80857,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82158,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82417,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82460,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82479,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82807,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82840,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83201,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83233,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83387,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84643,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84683,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84825,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 350,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while(fast!=null)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86189,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86222,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86851,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87082,
+      "key": "|",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87115,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87248,
+      "key": "|",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 87479,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87740,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87774,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88145,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88181,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88219,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88295,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88866,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88898,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89740,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89873,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 89980,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90002,
+      "length": 354,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while(fast!=null || )\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90029,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91149,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91181,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91703,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91738,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91832,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92120,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92160,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93221,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93253,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93735,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93772,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93903,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94127,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94158,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94833,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94949,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94970,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95012,
+      "length": 362,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while(fast!=null || fast.nex)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95341,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95375,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98116,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98153,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98387,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98512,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98543,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98605,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98787,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98820,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99821,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99950,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100002,
+      "length": 368,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n    }\n        ListNode slow = head;\n        while(fast!=null || fast.next !=nu)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100132,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100163,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100279,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101330,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101431,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101503,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101761,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101791,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101991,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102002,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102046,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102124,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105002,
+      "length": 394,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125740,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125807,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126629,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126902,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126938,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127217,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127663,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127695,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128241,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 128327,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128392,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 128498,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129001,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129037,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129178,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129277,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129355,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129752,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129785,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130001,
+      "length": 402,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130440,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130971,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131006,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131121,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131214,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131253,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131974,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132123,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132311,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132345,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132474,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132878,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132975,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 133009,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133634,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 133755,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133813,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134563,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134599,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 134803,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134978,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135026,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135032,
+      "length": 442,
+      "lines": 23,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 135111,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135583,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135621,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135652,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135883,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135913,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136013,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136132,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136163,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136226,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136380,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136419,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137220,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137256,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137554,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137592,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137750,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137869,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137932,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138943,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139030,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 139151,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 139177,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139857,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140001,
+      "length": 449,
+      "lines": 23,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140006,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140043,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 140143,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140585,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 140698,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140712,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140909,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140944,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141374,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141408,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141451,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142251,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142284,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142899,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 143020,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143156,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143194,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 143292,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145002,
+      "length": 467,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147045,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147128,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147183,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147281,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147340,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147422,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147483,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147575,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147635,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147769,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149237,
+      "key": "Delete",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 149320,
+      "key": "Delete"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149385,
+      "key": "Delete",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 149474,
+      "key": "Delete"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149537,
+      "key": "Delete",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 149649,
+      "key": "Delete"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149778,
+      "key": "Delete",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 149900,
+      "key": "Delete"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 150001,
+      "length": 451,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        List slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150068,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150523,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150553,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 150695,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150782,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150811,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150903,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150995,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151024,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152140,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 152241,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152327,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 152404,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152489,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 152583,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152753,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 152840,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153100,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 153199,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153584,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 153742,
+      "key": "Tab"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153948,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 154090,
+      "key": "Tab"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 154189,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 154337,
+      "key": "Tab"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 155002,
+      "length": 467,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156966,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157007,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157159,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157270,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157303,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157577,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157606,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157999,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158035,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158223,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158261,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158306,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158923,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158955,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159079,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159195,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159234,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159479,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159511,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 160002,
+      "length": 478,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            fast = fast\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160094,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 160127,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160509,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 160538,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160806,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 160912,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161079,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161177,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161210,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161452,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161483,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161686,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161723,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162812,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162846,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164437,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164566,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 165002,
+      "length": 484,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            fast = fast.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165078,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165113,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165802,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165908,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166147,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166176,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166390,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166423,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167370,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167870,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167901,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167931,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167962,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167993,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168024,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168055,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168085,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168116,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168147,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168178,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168208,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168239,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168270,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168301,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168332,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168362,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168393,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168408,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168540,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168647,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168733,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168825,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169126,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169166,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 169294,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169586,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 169705,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 170001,
+      "length": 502,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            \n            fast = fast.next.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170341,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170373,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170667,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170695,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170830,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170941,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170970,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171143,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171172,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171307,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171747,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171851,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171889,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171985,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172312,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 172342,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172423,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172718,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 172750,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172865,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173029,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 173063,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173204,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173343,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 173376,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173837,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 173938,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174098,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174734,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 174766,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 175001,
+      "length": 516,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            slow = slow.ne\n            fast = fast.next.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175067,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 175102,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175341,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 175376,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176082,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 176115,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176927,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 176943,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 177052,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177325,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 177442,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177946,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 177988,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 178093,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179489,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179525,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179581,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 180002,
+      "length": 528,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            slow = slow.next;\n            fast = fast.next.next;\n        re\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180402,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180436,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180507,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180685,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180717,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181277,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 181416,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181950,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182012,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 182047,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182154,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182707,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 182745,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182876,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182973,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 183009,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183109,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183184,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 183219,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183768,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 183801,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183949,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184126,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184368,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185002,
+      "length": 539,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            slow = slow.next;\n            fast = fast.next.next;\n        return false;\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 189635,
+      "x": 1116,
+      "y": 370
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 189739,
+      "x": 1083,
+      "y": 661
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 189843,
+      "x": 1106,
+      "y": 811
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190002,
+      "length": 463,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n                return true;\n            }\n    }\n            slow = slow.next;\n            fast = fast.next.next;\n        return false;\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190095,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190296,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190947,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191148,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191350,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191586,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191787,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192399,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 193412,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 195662,
+      "x": 1133,
+      "y": 876
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 195768,
+      "x": 1205,
+      "y": 531
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 195871,
+      "x": 1249,
+      "y": 424
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 195975,
+      "x": 1255,
+      "y": 411
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 196461,
+      "x": 1265,
+      "y": 401
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 213871,
+      "x": 1260,
+      "y": 415
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 213975,
+      "x": 1194,
+      "y": 677
+    },
+    {
+      "type": "scroll",
+      "timestamp": 214186,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 214538,
+      "x": 1170,
+      "y": 712
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 214642,
+      "x": 1050,
+      "y": 708
+    },
+    {
+      "type": "click",
+      "timestamp": 214858,
+      "x": 1014,
+      "y": 701,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 215024,
+      "x": 1022,
+      "y": 705
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 215128,
+      "x": 1142,
+      "y": 765
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 215232,
+      "x": 1158,
+      "y": 781
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215378,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215899,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216100,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 216225,
+      "x": 1150,
+      "y": 772
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 216329,
+      "x": 1108,
+      "y": 694
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 216697,
+      "x": 1103,
+      "y": 670
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 216801,
+      "x": 1161,
+      "y": 771
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216989,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217378,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217683,
+      "x": 1168,
+      "y": 784
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217788,
+      "x": 1154,
+      "y": 485
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217891,
+      "x": 1184,
+      "y": 381
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 217996,
+      "x": 1229,
+      "y": 357
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218100,
+      "x": 1259,
+      "y": 367
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218204,
+      "x": 1274,
+      "y": 383
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218308,
+      "x": 1275,
+      "y": 394
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218426,
+      "x": 1275,
+      "y": 405
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218573,
+      "x": 1258,
+      "y": 402
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218686,
+      "x": 1009,
+      "y": 375
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 218789,
+      "x": 947,
+      "y": 372
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219485,
+      "key": "Alt",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219752,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219801,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219966,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220022,
+      "length": 491,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n            if(fast == slow){\n        }\n·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌slow·‌=·‌slow.next;\n    }\n·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌fast·‌=·‌fast.next.next;\n        return false;\n            }\n                return true;\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220056,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220144,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220233,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220387,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220463,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220779,
+      "key": "Alt"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222322,
+      "key": "Alt",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222677,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 222760,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 223224,
+      "key": "Alt"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223756,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224107,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 224368,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 224701,
+      "x": 966,
+      "y": 364
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 224802,
+      "x": 1146,
+      "y": 363
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 224906,
+      "x": 1245,
+      "y": 354
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 225002,
+      "length": 491,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n        }\n    }\n·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌fast·‌=·‌fast.next.next;\n        return false;\n            }\n                return true;\n            if(fast == slow){\n·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌·‌slow·‌=·‌slow.next;\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 225010,
+      "x": 1294,
+      "y": 332
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 225285,
+      "x": 1304,
+      "y": 335
+    },
+    {
+      "type": "click",
+      "timestamp": 225737,
+      "x": 1296,
+      "y": 355,
+      "target": "DIV"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 230002,
+      "length": 463,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null || fast.next !=null){\n        }\n    }\n            fast = fast.next.next;\n        return false;\n            }\n                return true;\n            if(fast == slow){\n            slow = slow.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242108,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 242236,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242351,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 242472,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242702,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 242810,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243144,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 243254,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243926,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 244071,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244229,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 244362,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244382,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 244504,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244632,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 245002,
+      "length": 461,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null  fast.next !=null){\n        }\n    }\n            fast = fast.next.next;\n        return false;\n            }\n                return true;\n            if(fast == slow){\n            slow = slow.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245686,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 245722,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245835,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 246272,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 246598,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 246769,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 246966,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 250002,
+      "length": 463,
+      "lines": 22,
+      "code": " *     ListNode next;\n *     ListNode(int x) {\n *         val = x;\n *         next = null;\n *     }\n * }\n */\npublic class Solution {\n    public boolean hasCycle(ListNode head) {\n        ListNode fast = head;\n        ListNode slow = head;\n        while(fast!=null && fast.next !=null){\n        }\n    }\n            fast = fast.next.next;\n        return false;\n            }\n                return true;\n            if(fast == slow){\n            slow = slow.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252335,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252470,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 252614,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 252702,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 259574,
+      "x": 1302,
+      "y": 344
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 259685,
+      "x": 1511,
+      "y": 119
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 259788,
+      "x": 1602,
+      "y": 50
+    },
+    {
+      "type": "blur",
+      "timestamp": 260610
+    }
+  ],
+  "eventCount": 640
+}

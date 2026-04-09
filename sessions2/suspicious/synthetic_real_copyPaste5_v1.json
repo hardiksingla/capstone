@@ -1,0 +1,288 @@
+{
+  "sessionId": "session_1775373434000_iv296cyb6",
+  "startTime": "2026-01-27T18:16:34.451Z",
+  "duration": 46313,
+  "problemUrl": "https://leetcode.com/problems/two-sum/submissions/1898972996/",
+  "problemTitle": "1. Two Sum",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1407,
+      "url": "https://leetcode.com/problems/two-sum/description/",
+      "problemTitle": "1. Two Sum"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1781,
+      "x": 461,
+      "y": 493
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1920,
+      "x": 427,
+      "y": 218
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2193,
+      "x": 366,
+      "y": 111
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2579,
+      "x": 313,
+      "y": 108
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3054,
+      "x": 171,
+      "y": 131
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3250,
+      "x": 143,
+      "y": 130
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3550,
+      "x": 68,
+      "y": 111
+    },
+    {
+      "type": "click",
+      "timestamp": 4069,
+      "x": 54,
+      "y": 113,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4071,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4079,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 4080
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4323,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 4325
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4455,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4549,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4605,
+      "x": 222,
+      "y": 49
+    },
+    {
+      "type": "blur",
+      "timestamp": 6365
+    },
+    {
+      "type": "blur",
+      "timestamp": 6377
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 7665,
+      "length": 466,
+      "lines": 16,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int[]\u00a0twoSum(int[]\u00a0nums,\u00a0int\u00a0target)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HashMap<Integer,Integer>\u00a0hm\u00a0=\u00a0new\u00a0HashMap<>();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for(int\u00a0i=0\u00a0;\u00a0i<nums.length\u00a0;\u00a0i++){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0hm.put(nums[i],i);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for(int\u00a0i=0\u00a0;\u00a0i<nums.length\u00a0;\u00a0i++){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0diff\u00a0=\u00a0target\u00a0=\u00a0nums[i];\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(hm.containsKey(diff)\u00a0&&\u00a0hm.get(diff)\u00a0!=\u00a0i){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0int[]{hm.get(diff),i};\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0int[]{-1,-1};\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "focus",
+      "timestamp": 29185
+    },
+    {
+      "type": "focus",
+      "timestamp": 29220
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 30132,
+      "x": 1230,
+      "y": 300
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30365,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30381,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "click",
+      "timestamp": 30477,
+      "x": 1213,
+      "y": 308,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30558,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31449,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 31463,
+      "length": 879,
+      "lines": 22
+    },
+    {
+      "type": "keyup",
+      "timestamp": 31662,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 32275,
+      "x": 1248,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 32422,
+      "x": 1341,
+      "y": 238
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32983,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 33582,
+      "length": 880,
+      "lines": 23,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int[]\u00a0twoSum(int[]\u00a0nums,\u00a0int\u00a0target)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0HashMap\u00a0to\u00a0store\u00a0number\u00a0value\u00a0as\u00a0key\u00a0and\u00a0its\u00a0index\u00a0as\u00a0value\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<Integer,\u00a0Integer>\u00a0numberToIndexMap\u00a0=\u00a0new\u00a0HashMap<>();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Iterate\u00a0through\u00a0the\u00a0array\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(int\u00a0i\u00a0=\u00a00;\u00a0;\u00a0++i)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0currentNumber\u00a0=\u00a0nums[i];\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0complement\u00a0=\u00a0target\u00a0-\u00a0currentNumber;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Check\u00a0if\u00a0the\u00a0complement\u00a0exists\u00a0in\u00a0the\u00a0map\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(numberToIndexMap.containsKey(complement))\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Found\u00a0the\u00a0pair\u00a0that\u00a0sums\u00a0to\u00a0target\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Return\u00a0the\u00a0indices:\u00a0[index\u00a0of\u00a0complement,\u00a0current\u00a0index]\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0int[]\u00a0{numberToIndexMap.get(complement),\u00a0i};\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Store\u00a0current\u00a0number\u00a0and\u00a0its\u00a0index\u00a0in\u00a0the\u00a0map\u00a0for\u00a0future\u00a0lookups\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0numberToIndexMap.put(currentNumber,\u00a0i);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33603,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39222,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39426,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39855,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 44456,
+      "x": 1359,
+      "y": 236
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 44596,
+      "x": 1454,
+      "y": 71
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 44795,
+      "x": 1540,
+      "y": 0
+    },
+    {
+      "type": "blur",
+      "timestamp": 46313
+    }
+  ],
+  "eventCount": 42
+}

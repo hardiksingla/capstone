@@ -1,0 +1,5845 @@
+{
+  "sessionId": "session_1768664745261_3l2rhaqmb",
+  "startTime": "2026-01-17T15:45:46.090Z",
+  "duration": 510324,
+  "problemUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "problemTitle": "19. Remove Nth Node From End of List",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1003,
+      "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/",
+      "problemTitle": "19. Remove Nth Node From End of List"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1107,
+      "x": 1114,
+      "y": 248
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1381,
+      "x": 1134,
+      "y": 320
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1486,
+      "x": 1128,
+      "y": 344
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1723,
+      "x": 1121,
+      "y": 356
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1795,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 2145,
+      "x": 1121,
+      "y": 356,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3446,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3849,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3929,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 3961,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3962,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 3994,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4403,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4531,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4637,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4772,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5001,
+      "length": 356,
+      "lines": 16,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        L\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5021,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5052,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5093,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5225,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5260,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5326,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5630,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5739,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5775,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5858,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5922,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5987,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6015,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6045,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6169,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6512,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6617,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6688,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6753,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6848,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6876,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7251,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7412,
+      "key": "Tab"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7535,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7679,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7707,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7805,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7915,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7941,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8095,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8364,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8391,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8687,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8748,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8773,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 8855,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8906,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8972,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8999,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9094,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10001,
+      "length": 363,
+      "lines": 16,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10669,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10697,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11653,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11755,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11975,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12006,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12202,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12228,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12328,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12854,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12880,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12942,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15001,
+      "length": 371,
+      "lines": 16,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = \n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 21229,
+      "x": 1129,
+      "y": 349
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 21333,
+      "x": 1371,
+      "y": 287
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23716,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23846,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23997,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24028,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24153,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24280,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24307,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24654,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 24928,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25001,
+      "length": 375,
+      "lines": 16,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = heas\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25014,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25129,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 25156,
+      "key": "Backspace"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25157,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25637,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25662,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25892,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 25995,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26054,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29104,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29135,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 29219,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30001,
+      "length": 385,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n    }\n        \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69114,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69149,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69172,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69294,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69712,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69871,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69906,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70001,
+      "length": 390,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n    }\n        for()\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 70072,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72594,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72626,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72683,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72740,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72855,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72881,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74135,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74438,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74604,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74634,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74737,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75001,
+      "length": 396,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n    }\n        for(int i<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75580,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75679,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76203,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76321,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76346,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76447,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76691,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76789,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76827,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76944,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77184,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 77305,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77461,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77487,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77698,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77729,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78210,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78236,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78387,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78525,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78553,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79119,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79144,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79510,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79793,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79826,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79901,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80001,
+      "length": 402,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n    }\n        for(int i=0 ; i<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80588,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80616,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81892,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81918,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82132,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82160,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82241,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82948,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82977,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83896,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84073,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84099,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84219,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84397,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84752,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84855,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84930,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85001,
+      "length": 409,
+      "lines": 17,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n    }\n        for(int i=0 ; i<n ; i++)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85045,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85071,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 85165,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85272,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85301,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 85383,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90001,
+      "length": 433,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91363,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91394,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91513,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91748,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91774,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92253,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92279,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94067,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94094,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94677,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94708,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94791,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95001,
+      "length": 440,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=ne\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95028,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95052,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95496,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95522,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96928,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96955,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97576,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97608,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97909,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97934,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98167,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98900,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98924,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99931,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100001,
+      "length": 448,
+      "lines": 19,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100076,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100211,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100239,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100347,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101100,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101222,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101425,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101454,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101560,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101665,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101695,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101765,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105001,
+      "length": 463,
+      "lines": 20,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n        while \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106039,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106127,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106207,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106285,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106357,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106427,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106510,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106584,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106643,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106734,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106937,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 107010,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107335,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107367,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 107444,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107569,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 107704,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108246,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108270,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108449,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108475,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108789,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 108880,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108915,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 109006,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109031,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109218,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109244,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 109339,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109420,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109503,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109528,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109715,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109740,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109948,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109999,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110027,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110034,
+      "length": 477,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n        ListN\n        while \n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 110102,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110172,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110206,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110231,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110286,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110448,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110473,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111758,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112438,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112463,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112620,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112732,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113172,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113199,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113269,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113412,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113435,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113570,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114304,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114329,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115001,
+      "length": 490,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n        ListNode h = head;\n        while \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115706,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115836,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116371,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116495,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116517,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116886,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116914,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 117086,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117774,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117800,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118029,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118059,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119249,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119277,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119610,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119635,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120001,
+      "length": 495,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n        ListNode h = head;\n        while(next)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124507,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124660,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124686,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 124763,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124942,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124968,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125003,
+      "length": 497,
+      "lines": 21,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n    }\n        ListNode h = head;\n        while(next!=)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125306,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125335,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125836,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 125935,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126262,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126459,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126483,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126677,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126700,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126805,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127473,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127570,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127613,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127819,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127846,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 128095,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128108,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128139,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 128210,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130001,
+      "length": 525,
+      "lines": 23,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next!=null){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138379,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138413,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138827,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139198,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139757,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139782,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140001,
+      "length": 529,
+      "lines": 23,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next!=null){\n            h=n.\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140096,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140121,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140258,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140921,
+      "key": "Alt",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141017,
+      "key": "Alt"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141169,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141193,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141752,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141870,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141979,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142527,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142556,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142712,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142953,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142984,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 143087,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145001,
+      "length": 547,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next!=null){\n            h=n.next;\n        }\n    }\n            \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156967,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156994,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157119,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157398,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157424,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157648,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157674,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158744,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158767,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159178,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159207,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159337,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159568,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159832,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159859,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 160001,
+      "length": 556,
+      "lines": 24,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next!=null){\n            h=n.next;\n        }\n    }\n            next=next\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160701,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 160735,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161153,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161185,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161285,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161488,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161519,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161780,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162138,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162165,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163329,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 163342,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 163475,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163648,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 163679,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 163834,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 165003,
+      "length": 571,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n        \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181491,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 181591,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181726,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 181864,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182422,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 182571,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182773,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 182885,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182942,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 183047,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183238,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183739,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183770,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183800,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183831,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183862,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183893,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183923,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 183935,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184051,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184143,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184690,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184717,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185001,
+      "length": 564,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185290,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185357,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185573,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185600,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185856,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186754,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 186861,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187037,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 187120,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187460,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 187475,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 187564,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189984,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190017,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190021,
+      "length": 575,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n\n        \n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 190141,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193825,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 193850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194293,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194316,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194875,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194903,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 195001,
+      "length": 576,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n\n        h\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195004,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195262,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195294,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195650,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195678,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196021,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196048,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196256,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196542,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196566,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196638,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196750,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196776,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197452,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197474,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197640,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197865,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197887,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198087,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198109,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198775,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198804,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 200001,
+      "length": 589,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n\n        h.next = next;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200030,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 200145,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200458,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 200603,
+      "key": "Tab"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200880,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 201000,
+      "key": "Tab"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201559,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201583,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201642,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201943,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202347,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 202464,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202787,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 202970,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203182,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203910,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 204032,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204278,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204374,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204474,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 205001,
+      "length": 604,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n        return \n        h.next = next;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206578,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206603,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206667,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206846,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206872,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206982,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207574,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207599,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207742,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207851,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 207973,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 210001,
+      "length": 609,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=n.next;\n        }\n    }\n            next=next.next;\n        return head;\n        h.next = next;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213744,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 213878,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214007,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214082,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214315,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214476,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214638,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214672,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214799,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215166,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215231,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215347,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215390,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215476,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215545,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215657,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215731,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215812,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216009,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 216129,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216452,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216479,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216832,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217072,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217220,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220001,
+      "length": 609,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n    }\n            next=next.next;\n        return head;\n        h.next = next;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232568,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 232662,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232751,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 232834,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232918,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233004,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233087,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233178,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233306,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233375,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233652,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233751,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234517,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 234568,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234696,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 234762,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234877,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 234954,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235033,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235130,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235196,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235313,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235378,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235486,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235550,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235677,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237914,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 238043,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238516,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 238621,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238767,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 238883,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239138,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 239314,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239993,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 240026,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 240037,
+      "length": 612,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        return head;\n        h.next = next;\n        \n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 240095,
+      "key": "Enter"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256850,
+      "x": 1466,
+      "y": 317
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256955,
+      "x": 1440,
+      "y": 561
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 257058,
+      "x": 1403,
+      "y": 718
+    },
+    {
+      "type": "scroll",
+      "timestamp": 257266,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 267836,
+      "x": 1388,
+      "y": 751
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 267940,
+      "x": 1310,
+      "y": 594
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268044,
+      "x": 1299,
+      "y": 517
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268148,
+      "x": 1312,
+      "y": 466
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268252,
+      "x": 1322,
+      "y": 439
+    },
+    {
+      "type": "keydown",
+      "timestamp": 271703,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 271822,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 272087,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 272204,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 286833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 286864,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 286978,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 289674,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 289698,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 289882,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 289905,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 290002,
+      "length": 616,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        return head;\n        h.next = next;\n        ifne\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290138,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 290166,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290463,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 290484,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291327,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 291428,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291491,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 291598,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291655,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 291766,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291823,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 291921,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 292700,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293358,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 293382,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293716,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294003,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294034,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294188,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294439,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294463,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294754,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294778,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 295001,
+      "length": 620,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        return head;\n        h.next = next;\n        if(next)\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300176,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300203,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300469,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300496,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300942,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300969,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 301127,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 301358,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 301383,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 301728,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 301753,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302360,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 302464,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302483,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302672,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 302697,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 302860,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302921,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 302958,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303040,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 305001,
+      "length": 606,
+      "lines": 25,
+      "code": "/**\n * Definition for singly-linked list.\n * public class ListNode {\n *     int val;\n *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            \n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319196,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 319223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319284,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319519,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 319542,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319634,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 320001,
+      "length": 577,
+      "lines": 25,
+      "code": " *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            retu\n        }\n        h.next = next;\n        return head;\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 320152,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 320179,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 320333,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 320797,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 320820,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321134,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 321157,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321246,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321457,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 321483,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 321757,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 322312,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 322342,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 322449,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 322611,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 322634,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 322820,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 325001,
+      "length": 585,
+      "lines": 25,
+      "code": " *     ListNode next;\n *     ListNode() {}\n *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 327010,
+      "x": 1318,
+      "y": 443
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 327114,
+      "x": 1293,
+      "y": 762
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327344,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327553,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327769,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327975,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 328183,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 328546,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 329829,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330079,
+      "x": 1296,
+      "y": 791
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330184,
+      "x": 1335,
+      "y": 522
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330323,
+      "x": 1347,
+      "y": 450
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 335001,
+      "length": 542,
+      "lines": 23,
+      "code": " *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 347369,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 347530,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 347716,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 347807,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 347946,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 348023,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 348162,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 348238,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 348364,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 348469,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 349830,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 349919,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 350057,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 350220,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 356212,
+      "x": 1331,
+      "y": 473
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 356316,
+      "x": 1282,
+      "y": 682
+    },
+    {
+      "type": "scroll",
+      "timestamp": 356552,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 357121,
+      "x": 1259,
+      "y": 740
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 357226,
+      "x": 982,
+      "y": 704
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 357329,
+      "x": 924,
+      "y": 684
+    },
+    {
+      "type": "scroll",
+      "timestamp": 357469,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 357587,
+      "x": 931,
+      "y": 682
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 357691,
+      "x": 1011,
+      "y": 704
+    },
+    {
+      "type": "click",
+      "timestamp": 358064,
+      "x": 1017,
+      "y": 706,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 358219,
+      "x": 1022,
+      "y": 706
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 358320,
+      "x": 1194,
+      "y": 722
+    },
+    {
+      "type": "scroll",
+      "timestamp": 358823,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 359865,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 360143,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 360449,
+      "x": 1203,
+      "y": 724
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 360574,
+      "x": 1194,
+      "y": 723
+    },
+    {
+      "type": "click",
+      "timestamp": 360729,
+      "x": 1194,
+      "y": 723,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 361085,
+      "x": 1194,
+      "y": 709
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 361191,
+      "x": 1300,
+      "y": 333
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 365001,
+      "length": 601,
+      "lines": 26,
+      "code": " *     ListNode(int val) { this.val = val; }\n *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n}\n *     ListNode() {}\n *     ListNode next;\n *     int val;\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 365114,
+      "x": 1294,
+      "y": 312
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 365219,
+      "x": 919,
+      "y": 273
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 365322,
+      "x": 498,
+      "y": 240
+    },
+    {
+      "type": "scroll",
+      "timestamp": 365468,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 365670,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 365871,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 366086,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 380955,
+      "x": 512,
+      "y": 239
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 381059,
+      "x": 857,
+      "y": 209
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 381163,
+      "x": 1133,
+      "y": 266
+    },
+    {
+      "type": "keydown",
+      "timestamp": 384366,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 384385,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 384432,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 384508,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 384569,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 384587,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 384660,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 384722,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 384788,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 385001,
+      "length": 497,
+      "lines": 22,
+      "code": " *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385191,
+      "x": 1140,
+      "y": 295
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385295,
+      "x": 1109,
+      "y": 345
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385441,
+      "x": 1109,
+      "y": 365
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385545,
+      "x": 1101,
+      "y": 386
+    },
+    {
+      "type": "scroll",
+      "timestamp": 385661,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 385745,
+      "x": 1100,
+      "y": 395,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385997,
+      "x": 1100,
+      "y": 396
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 386205,
+      "x": 1100,
+      "y": 399
+    },
+    {
+      "type": "click",
+      "timestamp": 386347,
+      "x": 1100,
+      "y": 399,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 386524,
+      "x": 1103,
+      "y": 399
+    },
+    {
+      "type": "keydown",
+      "timestamp": 386859,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 386900,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 386963,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 387267,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 387696,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 387726,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 387767,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 387922,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 387949,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 387994,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 388291,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 388318,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 388462,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 388505,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 388534,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 389248,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 389280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 389661,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 389692,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 389959,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 389994,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 390004,
+      "length": 515,
+      "lines": 23,
+      "code": " *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n        System.ou\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 390143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 390496,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 390521,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 390784,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 390818,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 391218,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 391243,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 391324,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 391391,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 391511,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 391539,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 392400,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 392430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 392616,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 392641,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 392796,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 393005,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393036,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 393307,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 394374,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 394400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 394781,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 394809,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 395001,
+      "length": 528,
+      "lines": 23,
+      "code": " *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n        System.out.println(h.)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 395107,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 395134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 395290,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 395419,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 395454,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 398265,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 398429,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 399034,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 399059,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 400001,
+      "length": 532,
+      "lines": 23,
+      "code": " *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n        System.out.println(h.val);\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 400202,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 400515,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 400778,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 406462,
+      "x": 1112,
+      "y": 409
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 406566,
+      "x": 1131,
+      "y": 573
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 406670,
+      "x": 1153,
+      "y": 675
+    },
+    {
+      "type": "scroll",
+      "timestamp": 406900,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 407733,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 408254,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 408491,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 409240,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 409581,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 410546,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 410600,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 410671,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 410766,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 411025,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 411139,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 411196,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 411305,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 411333,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 411466,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 411543,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 411643,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 412392,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 412419,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 412534,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413192,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413218,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413464,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413490,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413709,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413734,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413947,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413975,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 414253,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 414381,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 414563,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 415001,
+      "length": 535,
+      "lines": 23,
+      "code": " *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }\n * }\n */\nclass Solution {\n    public ListNode removeNthFromEnd(ListNode head, int n) {\n        ListNode next = head;\n        for(int i=0 ; i<n ; i++){\n            next=next.next;\n        }\n        ListNode h = head;\n        while(next.next!=null){\n            h=h.next;\n        }\n            next=next.next;\n        if(next==null){\n            return null;\n        }\n        h.next = next;\n        return head;\n    }\n        System.out.println(next.val);\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 419115,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 419657,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 494109,
+      "x": 1168,
+      "y": 738
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 494213,
+      "x": 1364,
+      "y": 518
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 494317,
+      "x": 1447,
+      "y": 472
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 494422,
+      "x": 1516,
+      "y": 196
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 494665,
+      "x": 1523,
+      "y": 165
+    },
+    {
+      "type": "blur",
+      "timestamp": 510324
+    }
+  ],
+  "eventCount": 832
+}

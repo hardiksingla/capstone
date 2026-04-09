@@ -1,0 +1,1060 @@
+{
+  "sessionId": "session_1775373433991_lwcq2zrnh",
+  "startTime": "2026-01-27T18:22:15.629Z",
+  "duration": 297040,
+  "problemUrl": "https://leetcode.com/problems/regular-expression-matching/submissions/1898984068/",
+  "problemTitle": "10. Regular Expression Matching",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1340,
+      "url": "https://leetcode.com/problems/palindrome-number/description/",
+      "problemTitle": "9. Palindrome Number"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1463,
+      "x": 623,
+      "y": 254
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1600,
+      "x": 603,
+      "y": 252
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1965,
+      "x": 597,
+      "y": 246
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2101,
+      "x": 423,
+      "y": 221
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2357,
+      "x": 406,
+      "y": 221
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2494,
+      "x": 429,
+      "y": 315
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2630,
+      "x": 401,
+      "y": 363
+    },
+    {
+      "type": "scroll",
+      "timestamp": 2740,
+      "scrollY": 264
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2772,
+      "x": 329,
+      "y": 369
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3007,
+      "x": 347,
+      "y": 356
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3226,
+      "x": 590,
+      "y": 374
+    },
+    {
+      "type": "click",
+      "timestamp": 3318,
+      "x": 609,
+      "y": 382,
+      "target": "DIV"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 3460,
+      "scrollY": 81
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3592,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3760,
+      "x": 599,
+      "y": 376
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3920,
+      "x": 566,
+      "y": 369
+    },
+    {
+      "type": "keyup",
+      "timestamp": 3920,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4061,
+      "x": 555,
+      "y": 378
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4199,
+      "x": 396,
+      "y": 375
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4331,
+      "x": 332,
+      "y": 356
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4489,
+      "x": 328,
+      "y": 342
+    },
+    {
+      "type": "click",
+      "timestamp": 4498,
+      "x": 340,
+      "y": 345,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4691,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4876,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 4876
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5282,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5421,
+      "scrollY": 157
+    },
+    {
+      "type": "copy",
+      "timestamp": 5282
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5351,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 5351
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5547,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 5548
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5805,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5876,
+      "x": 343,
+      "y": 337
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 6564,
+      "length": 75,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0boolean\u00a0isPalindrome(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "blur",
+      "timestamp": 7190
+    },
+    {
+      "type": "blur",
+      "timestamp": 7193
+    },
+    {
+      "type": "focus",
+      "timestamp": 35376
+    },
+    {
+      "type": "focus",
+      "timestamp": 35379
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 35775,
+      "x": 1376,
+      "y": 11
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 35911,
+      "x": 1255,
+      "y": 270
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36112,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36158,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "click",
+      "timestamp": 36170,
+      "x": 1233,
+      "y": 306,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36290,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37699,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 37702,
+      "length": 882,
+      "lines": 24
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 38035,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38318,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38561,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39016,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 39380,
+      "length": 867,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0public\u00a0boolean\u00a0isPalindrome(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Negative\u00a0numbers\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Numbers\u00a0ending\u00a0with\u00a00\u00a0(except\u00a00\u00a0itself)\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(x\u00a0<\u00a00\u00a0||\u00a0(x\u00a0>\u00a00\u00a0&&\u00a0x\u00a0%\u00a010\u00a0==\u00a00))\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0false;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Reverse\u00a0half\u00a0of\u00a0the\u00a0number\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0reversedHalf\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Continue\u00a0until\u00a0the\u00a0reversed\u00a0half\u00a0is\u00a0greater\u00a0than\u00a0or\u00a0equal\u00a0to\u00a0the\u00a0remaining\u00a0half\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(reversedHalf\u00a0<\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Extract\u00a0the\u00a0last\u00a0digit\u00a0of\u00a0x\u00a0and\u00a0append\u00a0it\u00a0to\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0reversedHalf\u00a0=\u00a0reversedHalf\u00a0*\u00a010\u00a0+\u00a0x\u00a0%\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Remove\u00a0the\u00a0last\u00a0digit\u00a0from\u00a0x\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x\u00a0/=\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0even\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0odd\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010\u00a0(ignore\u00a0the\u00a0middle\u00a0digit)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0x\u00a0==\u00a0reversedHalf\u00a0||\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43447,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 44286,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45346,
+      "x": 1231,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45483,
+      "x": 1098,
+      "y": 229
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45619,
+      "x": 1055,
+      "y": 170
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45756,
+      "x": 1028,
+      "y": 140
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45893,
+      "x": 1002,
+      "y": 121
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45944,
+      "length": 881,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0public\u00a0boolean\u00a0isPalindrome(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Negative\u00a0numbers\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Numbers\u00a0ending\u00a0with\u00a00\u00a0(except\u00a00\u00a0itself)\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(x\u00a0<\u00a00\u00a0||\u00a0(x\u00a0>\u00a00\u00a0&&\u00a0x\u00a0%\u00a010\u00a0==\u00a00))\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0false;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Reverse\u00a0half\u00a0of\u00a0the\u00a0number\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0reversedHalf\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Continue\u00a0until\u00a0the\u00a0reversed\u00a0half\u00a0is\u00a0greater\u00a0than\u00a0or\u00a0equal\u00a0to\u00a0the\u00a0remaining\u00a0half\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(reversedHalf\u00a0<\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Extract\u00a0the\u00a0last\u00a0digit\u00a0of\u00a0x\u00a0and\u00a0append\u00a0it\u00a0to\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0reversedHalf\u00a0=\u00a0reversedHalf\u00a0*\u00a010\u00a0+\u00a0x\u00a0%\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Remove\u00a0the\u00a0last\u00a0digit\u00a0from\u00a0x\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x\u00a0/=\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0even\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0odd\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010\u00a0(ignore\u00a0the\u00a0middle\u00a0digit)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0x\u00a0==\u00a0reversedHalf\u00a0||\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0}\nlass\u00a0Solution\u00a0{\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 46093,
+      "x": 998,
+      "y": 130
+    },
+    {
+      "type": "click",
+      "timestamp": 46319,
+      "x": 1022,
+      "y": 126,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47137,
+      "key": "ArrowLeft",
+      "char": null,
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47243,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47550,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47599,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47955,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48266,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 48468,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 52629,
+      "length": 882,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0public\u00a0boolean\u00a0isPalindrome(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Negative\u00a0numbers\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Numbers\u00a0ending\u00a0with\u00a00\u00a0(except\u00a00\u00a0itself)\u00a0are\u00a0not\u00a0palindromes\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(x\u00a0<\u00a00\u00a0||\u00a0(x\u00a0>\u00a00\u00a0&&\u00a0x\u00a0%\u00a010\u00a0==\u00a00))\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0false;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Reverse\u00a0half\u00a0of\u00a0the\u00a0number\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0reversedHalf\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Continue\u00a0until\u00a0the\u00a0reversed\u00a0half\u00a0is\u00a0greater\u00a0than\u00a0or\u00a0equal\u00a0to\u00a0the\u00a0remaining\u00a0half\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(reversedHalf\u00a0<\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Extract\u00a0the\u00a0last\u00a0digit\u00a0of\u00a0x\u00a0and\u00a0append\u00a0it\u00a0to\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0reversedHalf\u00a0=\u00a0reversedHalf\u00a0*\u00a010\u00a0+\u00a0x\u00a0%\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Remove\u00a0the\u00a0last\u00a0digit\u00a0from\u00a0x\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x\u00a0/=\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0even\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0odd\u00a0length\u00a0numbers:\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010\u00a0(ignore\u00a0the\u00a0middle\u00a0digit)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0x\u00a0==\u00a0reversedHalf\u00a0||\u00a0x\u00a0==\u00a0reversedHalf\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0}\nclass\u00a0Solution\u00a0{\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53108,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53317,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53485,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53725,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 57699,
+      "x": 1006,
+      "y": 134
+    },
+    {
+      "type": "blur",
+      "timestamp": 61285
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 63059,
+      "x": 1144,
+      "y": 177
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 63195,
+      "x": 1069,
+      "y": 165
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 63331,
+      "x": 1067,
+      "y": 165
+    },
+    {
+      "type": "focus",
+      "timestamp": 63409
+    },
+    {
+      "type": "click",
+      "timestamp": 63503,
+      "x": 1052,
+      "y": 171,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 63896,
+      "x": 973,
+      "y": 157
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 64035,
+      "x": 486,
+      "y": 25
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 64316,
+      "x": 481,
+      "y": 28
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 64448,
+      "x": 163,
+      "y": 29
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 64582,
+      "x": 131,
+      "y": 28
+    },
+    {
+      "type": "click",
+      "timestamp": 64845,
+      "x": 117,
+      "y": 24,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 65337,
+      "x": 114,
+      "y": 52
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 65473,
+      "x": 132,
+      "y": 249
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 65610,
+      "x": 126,
+      "y": 303
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 65746,
+      "x": 124,
+      "y": 332
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 66723,
+      "x": 119,
+      "y": 343
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 66858,
+      "x": 115,
+      "y": 493
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 66996,
+      "x": 132,
+      "y": 517
+    },
+    {
+      "type": "click",
+      "timestamp": 67647,
+      "x": 136,
+      "y": 556,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 69147,
+      "x": 155,
+      "y": 535
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 69386,
+      "x": 460,
+      "y": 474
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 72341,
+      "length": 83,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0boolean\u00a0isMatch(String\u00a0s,\u00a0String\u00a0p)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 72421,
+      "x": 321,
+      "y": 220
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 73200,
+      "x": 367,
+      "y": 111
+    },
+    {
+      "type": "blur",
+      "timestamp": 73243
+    },
+    {
+      "type": "focus",
+      "timestamp": 73710
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 73935,
+      "x": 143,
+      "y": 108
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74079,
+      "x": 265,
+      "y": 122
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74284,
+      "x": 389,
+      "y": 120
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74436,
+      "x": 402,
+      "y": 123
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74615,
+      "x": 398,
+      "y": 110
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74760,
+      "x": 411,
+      "y": 121
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 74902,
+      "x": 296,
+      "y": 115
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 75194,
+      "x": 148,
+      "y": 125
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 75343,
+      "x": 121,
+      "y": 114
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 75498,
+      "x": 96,
+      "y": 106
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 75645,
+      "x": 78,
+      "y": 114
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 75866,
+      "x": 68,
+      "y": 98
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 76043,
+      "x": 68,
+      "y": 108
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 76194,
+      "x": 66,
+      "y": 100
+    },
+    {
+      "type": "click",
+      "timestamp": 76227,
+      "x": 65,
+      "y": 108,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76343,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76602,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 76603
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76817,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76868,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 76819
+    },
+    {
+      "type": "keyup",
+      "timestamp": 77058,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 77361,
+      "x": 734,
+      "y": 29
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 77694,
+      "x": 825,
+      "y": 0
+    },
+    {
+      "type": "blur",
+      "timestamp": 78889
+    },
+    {
+      "type": "blur",
+      "timestamp": 78949
+    },
+    {
+      "type": "focus",
+      "timestamp": 273382
+    },
+    {
+      "type": "focus",
+      "timestamp": 273454
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273648,
+      "x": 1306,
+      "y": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273795,
+      "x": 1216,
+      "y": 111
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273949,
+      "x": 1191,
+      "y": 166
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 274611,
+      "x": 1176,
+      "y": 159
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 274751,
+      "x": 1138,
+      "y": 218
+    },
+    {
+      "type": "scroll",
+      "timestamp": 274835,
+      "scrollY": 177
+    },
+    {
+      "type": "click",
+      "timestamp": 278101,
+      "x": 1143,
+      "y": 243,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278679,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 278706,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 278734,
+      "x": 1095,
+      "y": 189
+    },
+    {
+      "type": "scroll",
+      "timestamp": 279019,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 279118,
+      "x": 1123,
+      "y": 187
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 280091,
+      "x": 1095,
+      "y": 190
+    },
+    {
+      "type": "scroll",
+      "timestamp": 280154,
+      "scrollY": 255
+    },
+    {
+      "type": "click",
+      "timestamp": 280363,
+      "x": 1093,
+      "y": 183,
+      "target": "DIV"
+    },
+    {
+      "type": "click",
+      "timestamp": 281544,
+      "x": 1075,
+      "y": 186,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 282080,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 282081,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 282221,
+      "length": 107,
+      "lines": 6,
+      "code": "class\u00b7\u200cSolution\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cpublic\u00b7\u200cboolean\u00b7\u200cisMatch(String\u00b7\u200cs,\u00b7\u200cString\u00b7\u200cp)\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 283197,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 283202,
+      "length": 3749,
+      "lines": 94
+    },
+    {
+      "type": "keydown",
+      "timestamp": 285067,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 285797,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 288785,
+      "length": 886,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Current\u00a0chars\u00a0match,\u00a0consume\u00a0text\u00a0char\u00a0and\u00a0keep\u00a0pattern\u00a0position\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0isMatch\u00a0=\u00a0matchHelper(textIndex\u00a0+\u00a01,\u00a0patternIndex);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0else\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0No\u00a0'*'\u00a0following\u00a0current\u00a0pattern\u00a0character\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Must\u00a0match\u00a0current\u00a0characters\u00a0exactly\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(textIndex\u00a0<\u00a0textLength)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char\u00a0textChar\u00a0=\u00a0text.charAt(textIndex);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char\u00a0patternChar\u00a0=\u00a0pattern.charAt(patternIndex);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(textChar\u00a0==\u00a0patternChar\u00a0||\u00a0patternChar\u00a0==\u00a0'.')\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Characters\u00a0match,\u00a0move\u00a0both\u00a0pointers\u00a0forward\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0isMatch\u00a0=\u00a0matchHelper(textIndex\u00a0+\u00a01,\u00a0patternIndex\u00a0+\u00a01);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Cache\u00a0the\u00a0result\u00a0before\u00a0returning\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0memo[textIndex][patternIndex]\u00a0=\u00a0isMatch;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0isMatch;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290135,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290293,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 290500,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 290628,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 295633,
+      "x": 1300,
+      "y": 24
+    },
+    {
+      "type": "blur",
+      "timestamp": 297040
+    }
+  ],
+  "eventCount": 162
+}

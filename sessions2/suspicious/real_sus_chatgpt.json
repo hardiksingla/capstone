@@ -1,0 +1,6856 @@
+{
+  "sessionId": "session_1768661594562_5emo5x52d",
+  "startTime": "2026-01-17T14:53:15.657Z",
+  "duration": 284824,
+  "problemUrl": "https://leetcode.com/problems/longest-palindromic-substring/submissions/1887880185/",
+  "problemTitle": "5. Longest Palindromic Substring _ copied from GPT and run in the terminal but when submitted didn't acccept soln out of bounds?",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1002,
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+      "problemTitle": "5. Longest Palindromic Substring"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 2525,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2563,
+      "x": 772,
+      "y": 183
+    },
+    {
+      "type": "click",
+      "timestamp": 2577,
+      "x": 772,
+      "y": 183,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4692,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4738,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4794,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4978,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5003,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5021,
+      "length": 86,
+      "lines": 6,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5134,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5902,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5942,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6135,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6170,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6209,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7335,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7374,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7497,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7892,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7986,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8473,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8513,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8736,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8777,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8835,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8929,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9382,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9690,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9719,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 9852,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10002,
+      "length": 100,
+      "lines": 6,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length()\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10411,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10429,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 10484,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11163,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11201,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11332,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 11436,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12782,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12820,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12901,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13663,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13979,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14018,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 14125,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14720,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14757,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15002,
+      "length": 115,
+      "lines": 7,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n    }\n        if(n)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15604,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15882,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15921,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 16034,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16781,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16821,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17298,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17317,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 17398,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17998,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18027,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18473,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18511,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18531,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18842,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18880,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19001,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19134,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19158,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19231,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19457,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19490,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20002,
+      "length": 125,
+      "lines": 7,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n    }\n        if(n<2) return \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20893,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20924,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21195,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21236,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21377,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 21492,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22813,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22854,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 22905,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23471,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23514,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23559,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23757,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23836,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25002,
+      "length": 141,
+      "lines": 9,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n    }\n        if(n<2) return s;\n\n        int \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25206,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25246,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25545,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25582,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25685,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25918,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25950,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26123,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26154,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27645,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27685,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28088,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28121,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28547,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28588,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29173,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29492,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29528,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29618,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29879,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29919,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30001,
+      "length": 153,
+      "lines": 9,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n    }\n        if(n<2) return s;\n\n        int start=0, max\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30113,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30284,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30324,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30360,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30536,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30574,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30642,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31250,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31290,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32638,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32672,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32838,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32887,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33018,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33146,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35003,
+      "length": 168,
+      "lines": 10,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n    }\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n        \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35196,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35247,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 35277,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35379,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35542,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35568,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35651,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35772,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35794,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37380,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37511,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37550,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 37659,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37824,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37922,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38106,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38256,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38472,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38502,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39159,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39198,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39287,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39624,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39659,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40003,
+      "length": 183,
+      "lines": 11,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0)\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40678,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40708,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40853,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41525,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41564,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41668,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41902,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42063,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42104,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 42128,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43444,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43473,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43647,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43683,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44063,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44102,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44197,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45003,
+      "length": 192,
+      "lines": 11,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; )\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45461,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45492,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45917,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46019,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46050,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46156,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46394,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46720,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46742,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46826,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46965,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47355,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47395,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47476,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47593,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47622,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47679,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49107,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49147,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49234,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49301,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49454,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49478,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50002,
+      "length": 223,
+      "lines": 13,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51010,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51049,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52395,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52434,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54385,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54416,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54677,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54717,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55002,
+      "length": 227,
+      "lines": 13,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56950,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56988,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57067,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57648,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57686,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60002,
+      "length": 230,
+      "lines": 13,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60861,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60900,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61028,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61195,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61220,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61488,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61528,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62413,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62453,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62536,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62707,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64063,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64095,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64159,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64267,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64306,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64494,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64529,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64549,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64642,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65001,
+      "length": 254,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65428,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65456,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65511,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65586,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65901,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65937,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66290,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68010,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68047,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68176,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68566,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68702,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68735,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 68851,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69579,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69619,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69684,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70002,
+      "length": 260,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71471,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71502,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71746,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71786,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72029,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72916,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73076,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73355,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73448,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73474,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74221,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74260,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74478,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74904,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74941,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75001,
+      "length": 267,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76095,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76135,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76217,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77386,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77427,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77815,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77845,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78043,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78072,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78394,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79152,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79181,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79295,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79501,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79711,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79740,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80002,
+      "length": 274,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r < n && )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80382,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80422,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80543,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80807,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80846,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80952,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81028,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81048,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81296,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81335,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82165,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82525,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82564,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82690,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82978,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83019,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83400,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83705,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83747,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84052,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85003,
+      "length": 284,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r < n && s.charAt())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86113,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86155,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86851,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86872,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 86967,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90003,
+      "length": 285,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r < n && s.charAt(l))\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90347,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90387,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90584,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90614,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90726,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90871,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90895,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91753,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91791,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91931,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92153,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92186,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92406,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92428,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92813,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93177,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93800,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93842,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 93992,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94297,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94338,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94808,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95002,
+      "length": 297,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95240,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95285,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 96000,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96554,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96596,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96840,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96858,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 96917,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99432,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99451,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 99569,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100002,
+      "length": 300,
+      "lines": 14,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n    }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r))\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100302,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100823,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100865,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100913,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101072,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101115,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101176,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104257,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104295,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104334,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104655,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104693,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104897,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105002,
+      "length": 335,
+      "lines": 16,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105070,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105110,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105289,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107054,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107094,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107201,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107420,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107456,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107985,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108012,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110003,
+      "length": 341,
+      "lines": 16,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - )\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110360,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110489,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111084,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111248,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111278,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 111361,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111733,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111773,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113220,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113262,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113417,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113674,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113709,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 113792,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113983,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114022,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114438,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114477,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114601,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114722,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114745,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114970,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115001,
+      "length": 351,
+      "lines": 16,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > max)\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115135,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115173,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115259,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115413,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115452,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115513,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116721,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116742,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116807,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117302,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117336,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117517,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117729,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117771,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 117914,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118058,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118097,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 118148,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119369,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119409,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119532,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119596,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119615,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119895,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119934,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120001,
+      "length": 397,
+      "lines": 17,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n            }\n                    star\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120170,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120211,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120889,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120928,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121094,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121143,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121175,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121528,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121563,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122560,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122588,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122692,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 122800,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123379,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123413,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123536,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123640,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123662,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123882,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124071,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124111,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 124176,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124362,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124448,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125002,
+      "length": 424,
+      "lines": 17,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n            }\n                    start = 1;\n                }\n                    maxLen\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125232,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125273,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125538,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125578,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125646,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126528,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126568,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127287,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127326,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127772,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127812,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128029,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128069,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128605,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128642,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128855,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128894,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129190,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129426,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129466,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 129509,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129803,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129844,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130001,
+      "length": 435,
+      "lines": 17,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n        }\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n            }\n                    start = 1;\n                }\n                    maxLen = r - l +1\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130538,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130577,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132163,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132185,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 132234,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132513,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132555,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 132615,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133520,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134024,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134057,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134513,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134553,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134912,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134949,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135001,
+      "length": 445,
+      "lines": 17,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n            }\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l \n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 135018,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135106,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 135200,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135354,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135395,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135515,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136250,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136289,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136420,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 136522,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137229,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137270,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137468,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137609,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137748,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 138002,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138399,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138440,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140002,
+      "length": 468,
+      "lines": 18,
+      "code": "class Solution {\n    public String longestPalindrome(String s) {\n        int n = s.length();\n        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141829,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141850,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141937,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142272,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142316,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 142369,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 144397,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 144425,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 144445,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145002,
+      "length": 399,
+      "lines": 18,
+      "code": "        if(n<2) return s;\n\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            \n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145163,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145203,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145309,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145574,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145613,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145690,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146436,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146477,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147370,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147410,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147467,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147572,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148300,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148339,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148577,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148600,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148801,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148829,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148909,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 150002,
+      "length": 396,
+      "lines": 18,
+      "code": "\n        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = \n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150115,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150156,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150356,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150394,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150555,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150722,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150756,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 150787,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151004,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151045,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151661,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151701,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151784,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 151936,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153872,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153910,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153992,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 154129,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 154151,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 154349,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 154389,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 154409,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 155001,
+      "length": 418,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155230,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155789,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155828,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 155895,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156648,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156690,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157252,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157756,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157799,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158020,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158063,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158269,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158540,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158569,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158795,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158838,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 160002,
+      "length": 425,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= )\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 160654,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160779,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161077,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162183,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162222,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162313,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 162712,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163091,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 163132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163994,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164024,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164412,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164453,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164559,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164737,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164780,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164876,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 165001,
+      "length": 433,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r <)\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166063,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166101,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166470,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166510,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166680,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166711,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167028,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167624,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167665,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167762,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168068,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168767,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168807,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169304,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169341,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169526,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169559,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169818,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169847,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 170001,
+      "length": 442,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.c)\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170286,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170327,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170509,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170542,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170786,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170826,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171032,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171698,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171737,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171977,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172228,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 172267,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173649,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174146,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 174189,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 174440,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174702,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 174733,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 175002,
+      "length": 450,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l))\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175483,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 175505,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 175628,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176739,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 176769,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177106,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 177144,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177228,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177334,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 177355,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178520,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178558,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178895,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178937,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179067,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179301,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179336,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179494,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179543,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179788,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179826,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 180002,
+      "length": 460,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.char)\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180073,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180500,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180539,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 180746,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180995,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 181032,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181470,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181859,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 181898,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 182069,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182918,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 182951,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183773,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 183792,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 183892,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184067,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184089,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184146,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184513,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184771,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184804,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184877,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185001,
+      "length": 467,
+      "lines": 18,
+      "code": "        int start=0, maxLen=1;\n\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){}\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185037,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185080,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 185179,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190001,
+      "length": 456,
+      "lines": 18,
+      "code": "\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                \n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190384,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190425,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190472,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191510,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191538,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191868,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192090,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192123,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 192250,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194316,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194357,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194552,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194585,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194681,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194847,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194874,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 195001,
+      "length": 465,
+      "lines": 18,
+      "code": "\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - )\n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195048,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195078,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195771,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195811,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195925,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196109,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196147,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196225,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196584,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196615,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198251,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198282,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 198384,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198392,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198640,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198681,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199469,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199726,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 199750,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 199867,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 200001,
+      "length": 471,
+      "lines": 18,
+      "code": "\n        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>)\n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200744,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 200779,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200984,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201008,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201231,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201436,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201475,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 201584,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202366,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 202406,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202496,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203799,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203822,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 203926,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204120,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204507,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204549,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 204622,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204726,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204761,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 204838,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 205002,
+      "length": 502,
+      "lines": 18,
+      "code": "        for (int i =0; i < n; i++){\n            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    \n                }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206314,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206355,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206498,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206565,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206584,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206772,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206803,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206928,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207305,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207346,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207574,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207606,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207659,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208143,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208251,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208384,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208409,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 208555,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209871,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209910,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209976,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 210016,
+      "length": 499,
+      "lines": 18,
+      "code": "            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    ma\n                }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 210174,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 210202,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 210578,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 210728,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 210756,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 210834,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 210994,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 211033,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211092,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211529,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 211571,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212020,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212061,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212143,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213306,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213340,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213606,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213644,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213949,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213990,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214279,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214502,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 214527,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214608,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214874,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 214916,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 215001,
+      "length": 511,
+      "lines": 18,
+      "code": "            int l= i, r = i;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1\n                }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215561,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215588,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215753,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215822,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215892,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217304,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217332,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217375,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217500,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217567,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217686,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217720,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217759,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217944,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217979,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218060,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218476,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218503,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218568,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218870,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218904,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218942,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219668,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219680,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219802,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220002,
+      "length": 497,
+      "lines": 18,
+      "code": "            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l +1 > maxLen) {\n                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220031,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220076,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220137,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221603,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222062,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222102,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222181,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222763,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222804,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222806,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 222975,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223603,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223643,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223928,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224163,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224195,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224288,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 224500,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224850,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224890,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 225001,
+      "length": 432,
+      "lines": 18,
+      "code": "                    start = 1;\n                }\n                    maxLen = r - l +1;\n                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225429,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 225446,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 225513,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227449,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227465,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 227575,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227995,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228037,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 228095,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228786,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228826,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228868,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229199,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229242,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229554,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229587,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229709,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229836,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229859,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 230001,
+      "length": 375,
+      "lines": 18,
+      "code": "                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n        }\n        return\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230712,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 230751,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231397,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231699,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231737,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232197,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232236,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232480,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232518,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232781,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232818,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233217,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233256,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233455,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233493,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233575,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233755,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233781,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233985,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 234023,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234665,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 235001,
+      "length": 387,
+      "lines": 18,
+      "code": "                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n        }\n        return s.substring\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235176,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235215,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235275,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235590,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235618,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235717,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235832,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235854,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236007,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236205,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 236235,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237773,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237799,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237832,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238331,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 238371,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238618,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 238655,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238754,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238896,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 238919,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239110,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 239137,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239939,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 239980,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 240001,
+      "length": 402,
+      "lines": 18,
+      "code": "                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n        }\n        return s.substring(start, start )\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240123,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240289,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 240326,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 240430,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240601,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 240641,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241023,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241061,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241117,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241303,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241331,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241480,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241672,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241710,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 241731,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241879,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241912,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242001,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243455,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243727,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 244348,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 245001,
+      "length": 410,
+      "lines": 18,
+      "code": "                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n        }\n        return s.substring(start, start + maxLen)\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 250046,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 250068,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 250155,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 250704,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 250747,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 250784,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 251550,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 251876,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 255000,
+      "length": 411,
+      "lines": 18,
+      "code": "                l--;\n                r++;\n            }\n\n            l = i;\n            r = i +1;\n            while(l >= 0 && r < n && s.charAt(l) == s.charAt(r)){\n                if (r - l + 1>maxLen){\n                    start = 1;\n                    maxLen = r-l+1;\n                }\n                l--;\n                r++;\n            }\n        }\n        return s.substring(start, start + maxLen);\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255806,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 256266,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 256851,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 257639,
+      "x": 773,
+      "y": 183
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 257747,
+      "x": 1011,
+      "y": 9
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 258289,
+      "x": 1127,
+      "y": 6
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 258397,
+      "x": 1212,
+      "y": 309
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278667,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278813,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 279017,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 283739,
+      "x": 1219,
+      "y": 329
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 283847,
+      "x": 1274,
+      "y": 105
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 283954,
+      "x": 1284,
+      "y": 32
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 284063,
+      "x": 1250,
+      "y": 22
+    },
+    {
+      "type": "blur",
+      "timestamp": 284824
+    }
+  ],
+  "eventCount": 965
+}

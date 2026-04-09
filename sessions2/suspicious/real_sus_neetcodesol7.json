@@ -1,0 +1,4479 @@
+{
+  "sessionId": "session_1768738166331_9g71t2443",
+  "startTime": "2026-01-18T12:09:27.182Z",
+  "duration": 147889,
+  "problemUrl": "https://leetcode.com/problems/longest-consecutive-sequence/submissions/1888846961/",
+  "problemTitle": "128. Longest Consecutive Sequence",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1002,
+      "url": "https://leetcode.com/problems/longest-consecutive-sequence/description/",
+      "problemTitle": "128. Longest Consecutive Sequence"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3700,
+      "x": 803,
+      "y": 177
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3807,
+      "x": 716,
+      "y": 238
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3908,
+      "x": 678,
+      "y": 259
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4016,
+      "x": 664,
+      "y": 259
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4123,
+      "x": 661,
+      "y": 258
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4126,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4233,
+      "x": 674,
+      "y": 249
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4341,
+      "x": 718,
+      "y": 215
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4442,
+      "x": 728,
+      "y": 203
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4558,
+      "x": 733,
+      "y": 192
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4666,
+      "x": 746,
+      "y": 183
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4783,
+      "x": 758,
+      "y": 176
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4908,
+      "x": 758,
+      "y": 176
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5001,
+      "length": 82,
+      "lines": 6,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        \n    }\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5059,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 5163,
+      "x": 759,
+      "y": 175,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5216,
+      "x": 758,
+      "y": 176
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5399,
+      "x": 759,
+      "y": 176
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5500,
+      "x": 768,
+      "y": 183
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5816,
+      "x": 769,
+      "y": 186
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5933,
+      "x": 772,
+      "y": 170
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 6108,
+      "x": 774,
+      "y": 168
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7705,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8091,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8126,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 8191,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8354,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8385,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8597,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8630,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8969,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9254,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9292,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 9422,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9841,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10001,
+      "length": 86,
+      "lines": 6,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10076,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10110,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 10192,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10431,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10466,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11035,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11075,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11407,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11446,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11559,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11704,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11908,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11944,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12530,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12849,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12882,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12979,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13227,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13265,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13641,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13948,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14321,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14346,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14491,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14696,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14725,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15002,
+      "length": 98,
+      "lines": 6,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> num\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15016,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15309,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15348,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 15411,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15588,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15626,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15762,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17070,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17108,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17268,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17315,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17342,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18177,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18214,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18262,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18387,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18424,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18474,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18738,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18951,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18988,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 19006,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19179,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19206,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19295,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19416,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19439,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19590,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19821,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19851,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20001,
+      "length": 113,
+      "lines": 6,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashS\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 20022,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20210,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20250,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20339,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20651,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21224,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21262,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21355,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22281,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22324,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22833,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22859,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 23500,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23830,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23865,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23960,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 24068,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25001,
+      "length": 129,
+      "lines": 7,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n    }\n        \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25439,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25548,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25622,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25970,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26007,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26305,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26440,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26476,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 26520,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27065,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27107,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27250,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27434,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27462,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27650,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27685,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28072,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28112,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28164,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28419,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28458,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28662,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28700,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28870,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29034,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29071,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 29092,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29174,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30002,
+      "length": 145,
+      "lines": 7,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n    }\n        for (int num : )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30638,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30672,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30749,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30951,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30980,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31057,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32007,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32028,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 32083,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32667,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33080,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33109,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33278,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33454,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33495,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33576,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35001,
+      "length": 173,
+      "lines": 9,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35025,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35064,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35118,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35368,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35403,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35630,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35883,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35920,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 35978,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36126,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36164,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36237,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37031,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37071,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37170,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37377,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37407,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37979,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38011,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 38087,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38162,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38220,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38320,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39672,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39919,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39959,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40001,
+      "length": 185,
+      "lines": 9,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add()\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 40026,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40256,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40294,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40343,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40564,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40592,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41152,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41171,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 41263,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41847,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42966,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42984,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 43053,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43281,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43320,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 43367,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43971,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44009,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44087,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44209,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44229,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44298,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44710,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44747,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44958,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44994,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45015,
+      "length": 204,
+      "lines": 10,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n    }\n        int lo\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45200,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45238,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45683,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45714,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45737,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46151,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46189,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46388,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46426,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46914,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46937,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47137,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47177,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47242,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47503,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47542,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47870,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47908,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48215,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48259,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 48324,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49582,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49622,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 49646,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50002,
+      "length": 224,
+      "lines": 12,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n    }\n        \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50114,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50195,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50404,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50433,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51075,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51269,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51310,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51329,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51571,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51607,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51696,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51857,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51882,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52043,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52088,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52831,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52863,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53183,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53512,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53546,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53739,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53882,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53921,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53921,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54007,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54813,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54865,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55000,
+      "length": 241,
+      "lines": 12,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n    }\n        for(int num : nu)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55185,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55222,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55906,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56176,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56209,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56259,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56553,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56593,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56926,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56964,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57839,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57858,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57976,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58372,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58621,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58654,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 58731,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58854,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58884,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 58979,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60002,
+      "length": 269,
+      "lines": 14,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60848,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60874,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60993,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61855,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61893,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62063,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62203,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62242,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62312,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62901,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63403,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63441,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63553,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63964,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64000,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64054,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64349,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64387,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64663,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65002,
+      "length": 278,
+      "lines": 14,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!num)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65168,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65206,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65322,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65561,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65663,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66497,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66536,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66838,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66865,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66939,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67184,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67222,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67404,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67438,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67610,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67654,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67783,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67999,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68034,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68112,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69222,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69704,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69742,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 69895,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70002,
+      "length": 292,
+      "lines": 14,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains())\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70164,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70200,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70263,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70623,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70663,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71816,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71839,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72004,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72053,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72336,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72373,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72729,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74223,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74236,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74337,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74532,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74552,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74637,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74997,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75017,
+      "length": 299,
+      "lines": 14,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1))\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75330,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75362,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75472,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75624,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75662,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75720,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77591,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77630,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77730,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77837,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77858,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77937,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78409,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78447,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78651,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78689,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78770,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79041,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79079,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79407,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79447,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79960,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79999,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80018,
+      "length": 342,
+      "lines": 16,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80163,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80209,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80262,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80811,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81578,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81616,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81905,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81941,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82016,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82423,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82464,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82545,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82763,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82794,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83110,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83208,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83672,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84091,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84130,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84365,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 370,
+      "lines": 17,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n    }\n                while()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85052,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85091,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85112,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85363,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85389,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85797,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86101,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 86174,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86315,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86353,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86437,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87900,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87938,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89869,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89937,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90001,
+      "length": 379,
+      "lines": 17,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n    }\n                while(numSet.co)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90109,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90280,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90494,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90528,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90624,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90785,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90809,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90923,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91422,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92644,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92682,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92872,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93522,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93542,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93828,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94437,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94578,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94809,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94846,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95001,
+      "length": 392,
+      "lines": 17,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n    }\n                while(numSet.contains(num +))\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95212,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95251,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95292,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95815,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95854,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95975,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96180,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96213,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96320,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96515,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96542,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96629,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98177,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98192,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98264,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98370,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98393,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98484,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98759,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99134,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99179,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 99256,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99436,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99482,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 99557,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100001,
+      "length": 439,
+      "lines": 19,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    \n                }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101213,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101241,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101469,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101508,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101667,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101718,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101820,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102098,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102212,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102602,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102959,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103002,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103104,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 103363,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103790,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103831,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104959,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104983,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105000,
+      "length": 448,
+      "lines": 19,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105042,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105248,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105294,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105322,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105866,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105894,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106034,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106281,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106320,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106460,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106643,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106670,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106850,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106879,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107027,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108090,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108128,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108745,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108789,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108831,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109477,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109725,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 109770,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110002,
+      "length": 476,
+      "lines": 20,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = M\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110119,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110157,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110363,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110394,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110622,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110661,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111361,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111782,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111818,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111904,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112063,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112087,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113052,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113710,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113749,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114392,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114725,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114764,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114913,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115001,
+      "length": 487,
+      "lines": 20,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = Math.max(lo)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115159,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115200,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115919,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115960,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116070,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116302,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116335,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116454,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118221,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118260,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118325,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119608,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119644,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119745,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119998,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120037,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120058,
+      "length": 497,
+      "lines": 20,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = Math.max(longest, len)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120149,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120458,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120495,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120584,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121900,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121919,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 122036,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122641,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122673,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124295,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124316,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 124401,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124727,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124741,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 124837,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125001,
+      "length": 501,
+      "lines": 20,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = Math.max(longest, length);\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125424,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125469,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 125511,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127552,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127588,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127608,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127890,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127932,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128058,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128198,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128221,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128571,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128604,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129665,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129704,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129875,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129910,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130001,
+      "length": 519,
+      "lines": 21,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = Math.max(longest, length);\n        return lo\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130096,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130124,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130602,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130641,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130725,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130906,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130932,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131063,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131824,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131849,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132489,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132695,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 132893,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135001,
+      "length": 525,
+      "lines": 21,
+      "code": "class Solution {\n    public int longestConsecutive(int[] nums) {\n        Set<Integer> numSet = new HashSet<>();\n        for (int num : nums){\n            numSet.add(num);\n        }\n        int longest = 0;\n\n        for(int num : numSet){\n            if (!numSet.contains(num - 1)){\n        }\n                int length = 1;\n            }\n                while(numSet.contains(num + length)){\n                    length++;\n                }\n    }\n                longest = Math.max(longest, length);\n        return longest;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140179,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140351,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 140634,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142100,
+      "x": 774,
+      "y": 168
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142209,
+      "x": 778,
+      "y": 166
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142310,
+      "x": 783,
+      "y": 161
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142413,
+      "x": 787,
+      "y": 158
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142516,
+      "x": 789,
+      "y": 158
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142625,
+      "x": 796,
+      "y": 158
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142726,
+      "x": 805,
+      "y": 158
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142829,
+      "x": 812,
+      "y": 159
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142933,
+      "x": 820,
+      "y": 161
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 143036,
+      "x": 826,
+      "y": 164
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 143142,
+      "x": 830,
+      "y": 170
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 143245,
+      "x": 832,
+      "y": 174
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 143384,
+      "x": 833,
+      "y": 175
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 146874,
+      "x": 833,
+      "y": 175
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 146975,
+      "x": 937,
+      "y": 117
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 147078,
+      "x": 1127,
+      "y": 38
+    },
+    {
+      "type": "blur",
+      "timestamp": 147889
+    }
+  ],
+  "eventCount": 629
+}

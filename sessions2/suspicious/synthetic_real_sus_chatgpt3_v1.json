@@ -1,0 +1,4280 @@
+{
+  "sessionId": "session_1775373434206_pi0r5i9jo",
+  "startTime": "2026-01-17T15:17:26.114Z",
+  "duration": 145764,
+  "problemUrl": "https://leetcode.com/problems/group-anagrams/submissions/1887919387/",
+  "problemTitle": "49. Group Anagrams copied from chatgpt less backspaces",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 957,
+      "url": "https://leetcode.com/problems/group-anagrams/description/",
+      "problemTitle": "49. Group Anagrams"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 977,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 1583,
+      "x": 792,
+      "y": 185,
+      "target": "DIV"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1585,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3756,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 4741,
+      "length": 95,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4757,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4796,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4990,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5311,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5342,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5464,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5549,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5975,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7098,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7128,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7178,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7613,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7872,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7909,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7983,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8242,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8277,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8458,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8494,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8593,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8813,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8847,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8959,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 9478,
+      "length": 105,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9834,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9874,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9931,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11438,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11560,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11678,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11714,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 11774,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11898,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11931,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12058,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12361,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12401,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14060,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 14217,
+      "length": 111,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14311,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14338,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14757,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14780,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 14880,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15102,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15139,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15302,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15346,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15410,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15605,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16197,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16665,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17101,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17138,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17621,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17655,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 18458,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18664,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18700,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 18956,
+      "length": 121,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19047,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19083,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19167,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19329,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19355,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19570,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19603,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19818,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19854,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19917,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21389,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21429,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21485,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21576,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21638,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21655,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22045,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22601,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22635,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 22728,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22963,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22999,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23099,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23340,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23356,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23622,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 23696,
+      "length": 135,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0Hash\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23891,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23914,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 24007,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24148,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24179,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24293,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25359,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25771,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25798,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26305,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26331,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27395,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27429,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27909,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 28433,
+      "length": 142,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>()\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28597,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28618,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28688,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29756,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29787,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30074,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30110,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30225,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30160,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30415,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30450,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30494,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31023,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31059,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31077,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31182,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31254,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31271,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32259,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32561,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32596,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 32672,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32904,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 33172,
+      "length": 159,
+      "lines": 8,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\u00a0\u00a0\u00a0\u00a0}\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33196,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33231,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33340,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33526,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33562,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33704,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33837,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34109,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34131,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35203,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35240,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35597,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35633,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36006,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36168,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36201,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 36304,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37319,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37354,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37558,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37870,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 37910,
+      "length": 171,
+      "lines": 8,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\u00a0\u00a0\u00a0\u00a0}\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0st)\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38003,
+      "scrollY": 297
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38111,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38138,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38401,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38438,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39510,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39530,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39633,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39770,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39803,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40060,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40467,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40499,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 40550,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40772,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40804,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 40899,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42152,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42188,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42297,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42378,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42397,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 42649,
+      "length": 201,
+      "lines": 10,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0cha\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42846,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42883,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43610,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43646,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44215,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44235,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 44324,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44378,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44436,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44825,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44861,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45108,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45144,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45551,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45587,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45714,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45797,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45817,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 47389,
+      "length": 211,
+      "lines": 10,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47423,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47458,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47569,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48089,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48123,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48175,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48478,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48807,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 48912,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49125,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49166,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49280,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49561,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49599,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49778,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50040,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50078,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 50269,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50540,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50577,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50691,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50912,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50949,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51099,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 52126,
+      "length": 224,
+      "lines": 10,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52332,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52658,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52693,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53148,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53179,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53259,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53750,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53786,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 54049,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54080,
+      "scrollY": 37
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54521,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54544,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 54662,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55276,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55314,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55782,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55823,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 55851,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56367,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56655,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56692,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56789,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 56865,
+      "length": 241,
+      "lines": 11,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0A\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57015,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57051,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57124,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57292,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57316,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57460,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57585,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57607,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57706,
+      "scrollY": 55
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59070,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59106,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59392,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59529,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59695,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59717,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59920,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59953,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60791,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 61603,
+      "length": 251,
+      "lines": 11,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61848,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61877,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62189,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62457,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62494,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62716,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62750,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62853,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63595,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63638,
+      "scrollY": 158
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63613,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63686,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64454,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64483,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64555,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 64687,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65765,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66091,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66129,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66281,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 66342,
+      "length": 271,
+      "lines": 12,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0S\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66572,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66606,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66749,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66909,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66933,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67102,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67179,
+      "scrollY": 250
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67130,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67920,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67959,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68951,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68984,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69122,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69183,
+      "scrollY": 213
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69430,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69467,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70186,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70215,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70902,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70936,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71023,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 71080,
+      "length": 283,
+      "lines": 12,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72501,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72529,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72722,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72836,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73308,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73562,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73597,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73686,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74066,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74089,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74655,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74684,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74748,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74771,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74917,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74940,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75277,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75315,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75472,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75517,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75820,
+      "length": 292,
+      "lines": 12,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0Strin\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76301,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76325,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77131,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77395,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77432,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 77499,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77675,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77710,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77933,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77966,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78088,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78450,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78468,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 78618,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79583,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79619,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79742,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79817,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79872,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80395,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80477,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80558,
+      "length": 314,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ma\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81278,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81313,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81572,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81608,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82137,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82236,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82305,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82330,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82474,
+      "scrollY": 142
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82536,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82571,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82834,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82867,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83054,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83091,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84730,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85297,
+      "length": 323,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.compute\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85927,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85959,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89673,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89704,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 89764,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90560,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90779,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90815,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90918,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91052,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91085,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91449,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92137,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92157,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92335,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92627,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92664,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93110,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93145,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93231,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93429,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93460,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93547,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94424,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94670,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94703,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 94774,
+      "length": 333,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent()\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94815,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95138,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95175,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95253,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95692,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95729,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96419,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96454,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96486,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96957,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96991,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97333,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97370,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97983,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98020,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98331,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98585,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98621,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98704,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98928,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98965,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 99513,
+      "length": 343,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99624,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99663,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99699,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99772,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100307,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100342,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100516,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100572,
+      "scrollY": 217
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100842,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100866,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101034,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101231,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101268,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101367,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101556,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101584,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101741,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101777,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102020,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102304,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102377,
+      "scrollY": 7
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102335,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102444,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102541,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102570,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102717,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102949,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102970,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103566,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103987,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104013,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 104252,
+      "length": 357,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104280,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104310,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106079,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106109,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106653,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106677,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 107348,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 108990,
+      "length": 360,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109596,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110057,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110077,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 110580,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110974,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111006,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111189,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111221,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111473,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111504,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111657,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112457,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112482,
+      "scrollY": 102
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112665,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112690,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 112804,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113034,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113064,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113662,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113679,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 113728,
+      "length": 367,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s)\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 113769,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114308,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114323,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115806,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115822,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115925,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116162,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116200,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116261,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117461,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117497,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118070,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118100,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118358,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118392,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 118467,
+      "length": 381,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0retu\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118504,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118644,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118666,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118836,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118866,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119258,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119295,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119349,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119417,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119500,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119518,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119970,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120223,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120258,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 120385,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120539,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120571,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120687,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120832,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120962,
+      "scrollY": 63
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120954,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121158,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121392,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121427,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 121505,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121634,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121660,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121750,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122935,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122972,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 123206,
+      "length": 397,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0ArrayList\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124186,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124393,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124415,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124607,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124642,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125893,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125921,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 126078,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126261,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126288,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126837,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126865,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127160,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127194,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127604,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127635,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127708,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127867,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127891,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 127945,
+      "length": 408,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0ArrayList<>(map.val)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128150,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128188,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128315,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128408,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128427,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129746,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129969,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130008,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130798,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130828,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132088,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132117,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 132545,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 132684,
+      "length": 413,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0ArrayList<>(map.values())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132922,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132958,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134040,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134240,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 134589,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 137422,
+      "length": 414,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0List<List<String>>\u00a0groupAnagrams(String[]\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Map<String,\u00a0List<String>>\u00a0map\u00a0=\u00a0new\u00a0HashMap<>();\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(String\u00a0s:\u00a0strs)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char[]\u00a0arr\u00a0=\u00a0s.toCharArray();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Arrays.sort(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0String\u00a0key\u00a0=\u00a0new\u00a0String(arr);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0map.computeIfAbsent(key,\u00a0k\u00a0->\u00a0new\u00a0ArrayList<>()).add(s);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0new\u00a0ArrayList<>(map.values());\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137445,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139015,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139587,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139643,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 139834,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 141957,
+      "x": 791,
+      "y": 175
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142061,
+      "x": 984,
+      "y": 108
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142162,
+      "x": 1252,
+      "y": 12
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142264,
+      "x": 1273,
+      "y": 20
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 142360,
+      "x": 1212,
+      "y": 98
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142467,
+      "scrollY": 291
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 144614,
+      "x": 1127,
+      "y": 186
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 144717,
+      "x": 1127,
+      "y": 134
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 144820,
+      "x": 1117,
+      "y": 85
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 144922,
+      "x": 1135,
+      "y": 63
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 145025,
+      "x": 1143,
+      "y": 50
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 145124,
+      "x": 1145,
+      "y": 36
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 145222,
+      "x": 1153,
+      "y": 30
+    },
+    {
+      "type": "blur",
+      "timestamp": 145764
+    }
+  ],
+  "eventCount": 602
+}

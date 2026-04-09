@@ -1,0 +1,391 @@
+{
+  "sessionId": "session_1775373433994_cddw907ob",
+  "startTime": "2026-01-27T17:32:23.580Z",
+  "duration": 61092,
+  "problemUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1898964576/",
+  "problemTitle": "3. Longest Substring Without Repeating Characters",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 6451,
+      "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/description/",
+      "problemTitle": "3. Longest Substring Without Repeating Characters"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6584,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6691,
+      "scrollY": 135
+    },
+    {
+      "type": "copy",
+      "timestamp": 6585
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7151,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7535,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7706,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 7706
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7942,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 8170,
+      "x": 621,
+      "y": 139
+    },
+    {
+      "type": "blur",
+      "timestamp": 9885
+    },
+    {
+      "type": "blur",
+      "timestamp": 9888
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 13392,
+      "length": 680,
+      "lines": 24,
+      "code": "class\u00a0GfG\u00a0{\n\n\u00a0\u00a0\u00a0\u00a0static\u00a0int\u00a0longestUniqueSubstr(String\u00a0s){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0n\u00a0=\u00a0s.length();\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0res\u00a0=\u00a00;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(int\u00a0i\u00a0=\u00a00;\u00a0i\u00a0<\u00a0n;\u00a0i++)\u00a0{\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Initializing\u00a0all\u00a0characters\u00a0as\u00a0not\u00a0visited\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0boolean[]\u00a0vis\u00a0=\u00a0new\u00a0boolean[26];\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(int\u00a0j\u00a0=\u00a0i;\u00a0j\u00a0<\u00a0n;\u00a0j++)\u00a0{\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0If\u00a0current\u00a0character\u00a0is\u00a0visited\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Break\u00a0the\u00a0loop\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(vis[s.charAt(j)\u00a0-\u00a0'a']\u00a0==\u00a0true)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0break;\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Else\u00a0update\u00a0the\u00a0result\u00a0if\u00a0this\u00a0window\u00a0is\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0larger,\u00a0and\u00a0mark\u00a0current\u00a0character\u00a0as\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0visited.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0else\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0res\u00a0=\u00a0Math.ans(res,\u00a0j\u00a0-\u00a0i\u00a0+\u00a01);\n"
+    },
+    {
+      "type": "focus",
+      "timestamp": 40116
+    },
+    {
+      "type": "focus",
+      "timestamp": 40120
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 40626,
+      "x": 1351,
+      "y": 50
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 40760,
+      "x": 1245,
+      "y": 237
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40826,
+      "scrollY": 260
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 40891,
+      "x": 1244,
+      "y": 287
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41095,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 41406,
+      "x": 1215,
+      "y": 291,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41414,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41417,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42249,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 42250,
+      "length": 1173,
+      "lines": 32
+    },
+    {
+      "type": "keyup",
+      "timestamp": 42506,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43253,
+      "x": 1207,
+      "y": 266
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43386,
+      "x": 1065,
+      "y": 213
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43519,
+      "x": 956,
+      "y": 132
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43652,
+      "x": 915,
+      "y": 75
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43785,
+      "x": 862,
+      "y": 41
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 43945,
+      "x": 876,
+      "y": 38
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 44088,
+      "x": 853,
+      "y": 44
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 44248,
+      "x": 856,
+      "y": 24
+    },
+    {
+      "type": "click",
+      "timestamp": 44370,
+      "x": 884,
+      "y": 34,
+      "target": "BUTTON"
+    },
+    {
+      "type": "run",
+      "timestamp": 44372
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 44732,
+      "length": 851,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Iterate\u00a0through\u00a0string\u00a0with\u00a0right\u00a0pointer\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0for\u00a0(int\u00a0right\u00a0=\u00a00;\u00a0right\u00a0<\u00a0stringLength;\u00a0right++)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Get\u00a0current\u00a0character\u00a0at\u00a0right\u00a0pointer\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0char\u00a0currentChar\u00a0=\u00a0s.charAt(right);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Increment\u00a0frequency\u00a0of\u00a0current\u00a0character\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0charFrequency[currentChar]++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Shrink\u00a0window\u00a0from\u00a0left\u00a0while\u00a0we\u00a0have\u00a0duplicate\u00a0characters\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(charFrequency[currentChar]\u00a0>\u00a01)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Decrement\u00a0frequency\u00a0of\u00a0character\u00a0at\u00a0left\u00a0pointer\u00a0and\u00a0move\u00a0left\u00a0pointer\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0charFrequency[s.charAt(left)]--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0left++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Update\u00a0maximum\u00a0length\u00a0of\u00a0substring\u00a0without\u00a0repeating\u00a0characters\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0maxLength\u00a0=\u00a0Math.ans(maxLength,\u00a0right\u00a0-\u00a0left\u00a0+\u00a01);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0maxLength;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45375,
+      "x": 863,
+      "y": 39
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 45569,
+      "x": 879,
+      "y": 23
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47202,
+      "x": 865,
+      "y": 35
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47335,
+      "x": 903,
+      "y": 24
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47477,
+      "x": 903,
+      "y": 28
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47628,
+      "x": 905,
+      "y": 26
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47777,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47850,
+      "x": 932,
+      "y": 38
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 48073,
+      "x": 920,
+      "y": 18
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49093,
+      "x": 927,
+      "y": 22
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49617,
+      "x": 936,
+      "y": 33
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 50114,
+      "x": 916,
+      "y": 34
+    },
+    {
+      "type": "click",
+      "timestamp": 50882,
+      "x": 932,
+      "y": 39,
+      "target": "SPAN"
+    },
+    {
+      "type": "submit",
+      "timestamp": 50886
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 51711,
+      "x": 937,
+      "y": 17
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 51844,
+      "x": 1062,
+      "y": 14
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 51977,
+      "x": 1169,
+      "y": 23
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 52767,
+      "x": 1169,
+      "y": 18
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 52900,
+      "x": 1345,
+      "y": 11
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 53069,
+      "x": 1403,
+      "y": 38
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54320,
+      "x": 1415,
+      "y": 21
+    },
+    {
+      "type": "blur",
+      "timestamp": 57140
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57191,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "focus",
+      "timestamp": 60844
+    },
+    {
+      "type": "blur",
+      "timestamp": 61092
+    }
+  ],
+  "eventCount": 62
+}

@@ -1,0 +1,3574 @@
+{
+  "sessionId": "session_1768739539939_prw2qo4z1",
+  "startTime": "2026-01-18T12:32:20.967Z",
+  "duration": 193657,
+  "problemUrl": "https://leetcode.com/problems/valid-palindrome/submissions/1888862948/",
+  "problemTitle": "125. Valid Palindrome",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1002,
+      "url": "https://leetcode.com/problems/valid-palindrome/description/",
+      "problemTitle": "125. Valid Palindrome fast af"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5001,
+      "length": 1,
+      "lines": 2,
+      "code": "\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11921,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 12575,
+      "x": 795,
+      "y": 184
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 12690,
+      "x": 796,
+      "y": 179
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 12832,
+      "x": 796,
+      "y": 179
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12889,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 12948,
+      "x": 796,
+      "y": 179,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 13149,
+      "x": 796,
+      "y": 179
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13488,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13794,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13841,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14200,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14357,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14403,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14502,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14707,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14741,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14848,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15001,
+      "length": 84,
+      "lines": 6,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        String\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15920,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16215,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16254,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 16318,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16459,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16497,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16680,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16706,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16946,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16983,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17136,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17206,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17228,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17406,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17434,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18364,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18402,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18997,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19037,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19169,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19248,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19267,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19762,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20002,
+      "length": 95,
+      "lines": 6,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder new\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20030,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20069,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 20110,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20262,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20297,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20319,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20651,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20688,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21041,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21079,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21114,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21882,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21905,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21953,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22007,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22563,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22601,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22947,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23216,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23251,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 23318,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23595,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23618,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23788,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23961,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24157,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24191,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24277,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24598,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25000,
+      "length": 111,
+      "lines": 6,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new String\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25044,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25082,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 25145,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25219,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25429,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25461,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25665,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25703,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25786,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25858,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26089,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26865,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27264,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27296,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27524,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27554,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28231,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28539,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28579,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30002,
+      "length": 121,
+      "lines": 6,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30021,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30065,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30115,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30443,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30482,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30949,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31078,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31881,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33481,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33519,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33928,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34028,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34246,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34507,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34543,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34647,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35000,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35039,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35058,
+      "length": 138,
+      "lines": 7,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n    }\n        for(cha)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35255,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35293,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36087,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36125,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36708,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36745,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36912,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36959,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37119,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37266,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 37287,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37287,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37429,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38329,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38371,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38502,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39045,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39070,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39160,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39478,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39799,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39838,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39960,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40002,
+      "length": 149,
+      "lines": 7,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n    }\n        for(char c : s.toC)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40393,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40431,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40537,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40863,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40891,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41179,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41542,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41579,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 41690,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41973,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42277,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42303,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42427,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42937,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43200,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43460,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43487,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44084,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44114,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45002,
+      "length": 159,
+      "lines": 7,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n    }\n        for(char c : s.toCharArray())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46320,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46356,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46520,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46567,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47084,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47347,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47387,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47408,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50002,
+      "length": 184,
+      "lines": 9,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50163,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50196,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50227,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50658,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50970,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51008,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51288,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51903,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52247,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52275,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52327,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52487,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52524,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52746,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52785,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53216,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53255,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53358,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53794,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53831,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53975,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54094,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54116,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54292,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54322,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55001,
+      "length": 197,
+      "lines": 9,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55101,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55142,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55489,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55527,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55585,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55812,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56042,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56082,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56102,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56459,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56497,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56742,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56777,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56907,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57442,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57475,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57629,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58157,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58391,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58428,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 58464,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58663,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58693,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58956,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59317,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59353,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 59420,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59605,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59641,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59780,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59925,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59949,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60001,
+      "length": 212,
+      "lines": 9,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigi)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60057,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60954,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62247,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62287,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62570,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63303,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63333,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63554,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63985,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64015,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64582,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64611,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65002,
+      "length": 216,
+      "lines": 9,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c))\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66286,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66324,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66610,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66646,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66738,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67027,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67073,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67110,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69693,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69732,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69916,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69934,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70001,
+      "length": 252,
+      "lines": 11,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                new\n            }\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70214,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70497,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70537,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 70599,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70722,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70756,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70794,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71478,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71518,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72597,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72621,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72880,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72904,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73027,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73135,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73156,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73376,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73415,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73797,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73833,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74400,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75001,
+      "length": 262,
+      "lines": 11,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append\n            }\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75408,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75447,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75820,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75857,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75933,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76008,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76169,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76194,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76396,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76504,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76694,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76721,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76900,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76932,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77268,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77297,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78396,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78436,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78780,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78817,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78903,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79094,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79289,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79326,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79420,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79621,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79662,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80002,
+      "length": 278,
+      "lines": 11,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLo)\n            }\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80137,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80161,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80379,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80416,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80671,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80709,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81043,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81322,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81361,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 81423,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81595,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81717,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81984,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82025,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82687,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83219,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83258,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 83476,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84023,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84064,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84265,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84461,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84496,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84683,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84708,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 288,
+      "lines": 11,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c))\n            }\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 85203,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86336,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86375,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 87994,
+      "x": 796,
+      "y": 179
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88096,
+      "x": 756,
+      "y": 201
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88200,
+      "x": 721,
+      "y": 211
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88315,
+      "x": 715,
+      "y": 212
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88423,
+      "x": 769,
+      "y": 268
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88616,
+      "x": 774,
+      "y": 272
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88722,
+      "x": 767,
+      "y": 275
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 88831,
+      "x": 763,
+      "y": 275
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88873,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 88925,
+      "x": 763,
+      "y": 275,
+      "target": "DIV"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90002,
+      "length": 289,
+      "lines": 11,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90522,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90562,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90594,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91238,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91276,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91298,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91604,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91643,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91784,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91893,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91914,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92036,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92218,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92244,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94010,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94044,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94199,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94273,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94292,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94717,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94971,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95009,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95028,
+      "length": 309,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newS\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95091,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95217,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95247,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95327,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96043,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96082,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97460,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97498,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97607,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97781,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98141,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98177,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98270,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98521,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98558,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99030,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99056,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99207,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99758,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100003,
+      "length": 320,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100303,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100341,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100578,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100601,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101154,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102226,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102265,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103077,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103116,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103522,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103784,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103822,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103946,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104160,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104195,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104319,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105003,
+      "length": 329,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString().equals\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105125,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105760,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105799,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105940,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106295,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106325,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106438,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106523,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106543,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106836,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107088,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107120,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 107223,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107390,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107520,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109145,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109182,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109618,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109655,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109683,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110002,
+      "length": 340,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString().equals(newStr.re)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110043,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110081,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110249,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110283,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110432,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110773,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110810,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110946,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111319,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111730,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111757,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111965,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111993,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 113631,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114301,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114334,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114737,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114811,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115002,
+      "length": 350,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString().equals(newStr.reverse().to)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115017,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115253,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115293,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115373,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115598,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115636,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115799,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115933,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116107,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116251,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116276,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117358,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117981,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118023,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118572,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118605,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119704,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119739,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120003,
+      "length": 358,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString().equals(newStr.reverse().toString())\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 120032,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120493,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120529,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121484,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121837,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 122079,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125003,
+      "length": 359,
+      "lines": 12,
+      "code": "class Solution {\n    public boolean isPalindrome(String s) {\n        StringBuilder newStr = new StringBuilder();\n        for(char c : s.toCharArray()) {\n            if(Character.isLetterOrDigit(c)) {\n                newStr.append(Character.toLowerCase(c));\n            }\n        }\n    }\n        return newStr.toString().equals(newStr.reverse().toString());\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158258,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158440,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158598,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192370,
+      "x": 764,
+      "y": 271
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192478,
+      "x": 767,
+      "y": 199
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192595,
+      "x": 767,
+      "y": 156
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192703,
+      "x": 805,
+      "y": 131
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192811,
+      "x": 933,
+      "y": 74
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 192920,
+      "x": 981,
+      "y": 54
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 193028,
+      "x": 1009,
+      "y": 36
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 193136,
+      "x": 1096,
+      "y": 2
+    },
+    {
+      "type": "blur",
+      "timestamp": 193657
+    }
+  ],
+  "eventCount": 498
+}

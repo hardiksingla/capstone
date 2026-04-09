@@ -1,0 +1,6536 @@
+{
+  "sessionId": "session_1768664331132_l5i54d59f",
+  "startTime": "2026-01-17T15:38:52.276Z",
+  "duration": 277932,
+  "problemUrl": "https://leetcode.com/problems/top-k-frequent-elements/submissions/1887961325/",
+  "problemTitle": "347. Top K Frequent Elements",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1003,
+      "url": "https://leetcode.com/problems/top-k-frequent-elements/description/",
+      "problemTitle": "347. Top K Frequent Elements"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1481,
+      "x": 771,
+      "y": 174
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1516,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1613,
+      "x": 771,
+      "y": 175
+    },
+    {
+      "type": "click",
+      "timestamp": 1643,
+      "x": 771,
+      "y": 175,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3535,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4216,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4256,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4287,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4456,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4488,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4652,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4695,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5002,
+      "length": 88,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5597,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6169,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6207,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6279,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6772,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6920,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6957,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7025,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7177,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7219,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7652,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8062,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8101,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8353,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8396,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8434,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8663,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8699,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10002,
+      "length": 96,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10156,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10198,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10230,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10467,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10608,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10650,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 10716,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10845,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10880,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11078,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11117,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11356,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11384,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11578,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11617,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11661,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11884,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11922,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12933,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13646,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13683,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13702,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14973,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15013,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15032,
+      "length": 107,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15502,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15536,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15645,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15904,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15940,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16100,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16143,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16187,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17486,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17524,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17794,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17832,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17880,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18663,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18703,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18803,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18863,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19553,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19578,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19923,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20002,
+      "length": 119,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20187,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 20227,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20394,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20433,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20475,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20585,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20935,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21103,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21139,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 21212,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21372,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21414,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21963,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22002,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22294,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22518,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22552,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22721,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22753,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23505,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23550,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23728,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23754,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 24342,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25002,
+      "length": 130,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>()\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25686,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25733,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25762,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 25826,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27545,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27896,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28112,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28154,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28272,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28355,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29078,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29119,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29352,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29874,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29919,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30001,
+      "length": 146,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n    }\n        for ()\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30003,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30680,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30722,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30942,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30965,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31931,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31972,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32595,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32708,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32951,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32991,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33319,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33361,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33541,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33731,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33770,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 33804,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33859,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35002,
+      "length": 156,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n    }\n        for (int num : )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35333,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35371,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35391,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35694,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35734,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35952,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35992,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37702,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37721,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 37822,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37834,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38130,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38811,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38851,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 38945,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39210,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39248,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39320,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40002,
+      "length": 185,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42441,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42542,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42784,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42815,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42941,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43013,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43033,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44572,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44615,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45002,
+      "length": 191,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45191,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45233,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45631,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45671,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45727,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47280,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47549,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47589,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47716,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48298,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48339,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48398,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48585,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48613,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50002,
+      "length": 199,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50060,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50098,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50137,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51831,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51857,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51936,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52202,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52242,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52333,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52458,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52481,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55002,
+      "length": 206,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58558,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58598,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60002,
+      "length": 207,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60436,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60477,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60512,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60759,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60797,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61436,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61843,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61877,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62060,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63000,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63027,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63306,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63558,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63579,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63628,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63782,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63911,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65002,
+      "length": 215,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDef)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65560,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65726,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65979,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66014,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66095,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67672,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67891,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67931,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 68058,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68604,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68687,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68887,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68918,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70000,
+      "length": 224,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num))\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71044,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71086,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72308,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72343,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72747,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72789,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73398,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73420,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73542,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74463,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75002,
+      "length": 227,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0))\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75411,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75444,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75508,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75870,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75912,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76523,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76565,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77295,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77314,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 77400,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78275,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78312,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78654,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78700,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 78738,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80002,
+      "length": 244,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n        }\n    }\n            \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80654,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80675,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 80741,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80961,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81009,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 81043,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82743,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82997,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83021,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 83103,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83269,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83309,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83361,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83723,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84912,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 245,
+      "lines": 11,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85300,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85339,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 85460,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85911,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85951,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86220,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86243,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86996,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87039,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87634,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87654,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 87824,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89114,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89150,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90002,
+      "length": 252,
+      "lines": 11,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[] \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90643,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90679,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90720,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90788,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90954,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90993,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 91124,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91611,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91652,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91963,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92007,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92419,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92460,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92575,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93010,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93051,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93286,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93327,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93364,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95002,
+      "length": 259,
+      "lines": 11,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95653,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95676,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95747,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96077,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96115,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96625,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97037,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97071,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 97222,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97795,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97829,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97954,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98282,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98322,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98436,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98753,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99105,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99145,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 99199,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99373,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99413,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99516,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100002,
+      "length": 271,
+      "lines": 11,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayLis\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100120,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100161,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101718,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102106,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102142,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102221,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103105,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103326,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103358,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104006,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104048,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 104286,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104815,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104838,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 104894,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105001,
+      "length": 276,
+      "lines": 11,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>()\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105454,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105492,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106102,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106144,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106165,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106970,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107011,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107055,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107175,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107213,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108161,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108604,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108638,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109100,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109130,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 109246,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109449,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109486,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109602,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110001,
+      "length": 294,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110148,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110187,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110922,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111317,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111358,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 111394,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111567,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111604,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112140,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112174,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112458,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112493,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112588,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114519,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114711,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114746,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114841,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115001,
+      "length": 301,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115299,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115497,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115540,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115649,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115689,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115949,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115987,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116301,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116343,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116553,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116592,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116717,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116842,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116865,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118588,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118613,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118675,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118928,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119056,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119098,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 119182,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119245,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119489,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119529,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119732,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119954,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119993,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120013,
+      "length": 315,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<Integer, Integ)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120094,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120212,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120235,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121832,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121853,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 121938,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121995,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122059,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123787,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123805,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 123884,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125001,
+      "length": 318,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<Integer, Integer) \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125011,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125031,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 125040,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125437,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127379,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127414,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127474,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127798,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127835,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129334,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129364,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129449,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129705,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129743,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129936,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129974,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130000,
+      "length": 324,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<Integer, Integer> entr) \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130056,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130589,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130903,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130941,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 130989,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131111,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131161,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132491,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132532,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132670,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132937,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132977,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133078,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133243,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133269,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134589,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134632,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135001,
+      "length": 333,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<Integer, Integer> entry: count.) \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135060,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135102,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135183,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135423,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135458,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135609,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135661,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135733,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136119,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136409,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136450,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 136530,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136642,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136676,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136783,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137367,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137830,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137863,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 138912,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140001,
+      "length": 343,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n    }\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()) \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141220,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141241,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141288,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141560,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141576,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141633,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142059,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142489,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142533,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 142677,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142848,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142899,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 142953,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145002,
+      "length": 367,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            \n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145120,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145155,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145427,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145465,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145593,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145830,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145869,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146033,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146077,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146617,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146649,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146771,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147618,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147989,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148030,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 148082,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148438,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148558,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148637,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149640,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 149682,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149894,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 149933,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 150001,
+      "length": 381,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new i)\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150070,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150214,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150238,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150677,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150716,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151347,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151369,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 151470,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153265,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153304,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153741,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153968,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153993,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 154069,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 155001,
+      "length": 388,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {})\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155128,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155164,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155167,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155419,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155456,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155655,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155693,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155766,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157439,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157480,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157838,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157881,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157901,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158142,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158179,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158502,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158759,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158799,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 158849,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159030,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159069,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159141,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159428,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159468,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 160001,
+      "length": 402,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue})\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 160864,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161287,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161316,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 161621,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161945,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 161959,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161965,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164354,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164392,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164449,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 165002,
+      "length": 406,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), })\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165394,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165435,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165525,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165691,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165718,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165883,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165932,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165992,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167107,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167150,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167715,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167809,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167953,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167978,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168203,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168421,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168464,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168494,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168650,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168683,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168799,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169353,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 170000,
+      "length": 418,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey})\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170072,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170113,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170316,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170850,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170871,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170970,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171107,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171127,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171191,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171529,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171545,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 171608,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 175002,
+      "length": 420,
+      "lines": 14,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()})\n        } \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175487,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 175527,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176359,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 176377,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 176455,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 177928,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 177971,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 178020,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178362,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178386,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178787,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178916,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179152,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179191,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179836,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179949,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 180001,
+      "length": 436,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.so\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180133,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180159,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180377,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180417,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181064,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 181862,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 181898,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184046,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184085,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 184309,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184664,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184700,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185002,
+      "length": 443,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a))\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185119,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185159,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185653,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185679,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187354,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 187377,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 187431,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187475,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 188746,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 188785,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189822,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189932,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 189971,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190000,
+      "length": 448,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) ->)\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 190060,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191097,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 191132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192649,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193027,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 193070,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193351,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 193376,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194878,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194892,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 194963,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 195001,
+      "length": 453,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0])\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195085,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195115,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195897,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195935,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195974,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196830,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197195,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197237,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197905,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197945,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198453,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198473,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 198592,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198700,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198720,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 198803,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 200001,
+      "length": 460,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0])\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 200396,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 200437,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201686,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201728,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 201778,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202913,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 202954,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203098,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203205,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203227,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203706,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203748,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204578,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204589,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 204719,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204742,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204802,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 205001,
+      "length": 476,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206781,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206807,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207088,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207128,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207642,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207671,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208246,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208287,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208333,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208852,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208892,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208916,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209001,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209097,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209118,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209401,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209440,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209541,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209652,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209674,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 210001,
+      "length": 489,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212271,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212312,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212620,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212660,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213190,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213213,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 213313,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 215001,
+      "length": 492,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k]\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215025,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215066,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216385,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216426,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 216457,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216877,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216918,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216993,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217094,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218269,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218710,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218748,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218807,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219034,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219069,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219686,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219728,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219844,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220001,
+      "length": 510,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220008,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220032,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221712,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221753,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221799,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224081,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224119,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224211,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224490,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224530,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 225001,
+      "length": 516,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225353,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 225393,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225479,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226341,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 226379,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226424,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226654,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226863,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 226904,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 226927,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227434,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227463,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228306,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228347,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 230001,
+      "length": 523,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n    }\n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k;)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230141,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 230182,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230606,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 230647,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231120,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231315,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231356,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231451,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 231662,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232180,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232203,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 232335,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232450,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232841,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232880,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 232991,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233160,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233205,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233260,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 235001,
+      "length": 543,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            \n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235876,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236109,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 236139,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236429,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 236471,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237002,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237043,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237609,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237631,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 237753,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239215,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 239256,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239425,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 239473,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239485,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 239795,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 239838,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 240001,
+      "length": 553,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            res[i] = a\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240136,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 240170,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240294,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240494,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 240523,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241797,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241837,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241870,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242152,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242192,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242629,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242933,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242972,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 243167,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 244999,
+      "length": 561,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            res[i] = arr.get()\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245452,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 245491,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245559,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 245666,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 247519,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 247546,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 248211,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 248253,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 248383,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 248485,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 250001,
+      "length": 565,
+      "lines": 17,
+      "code": "class Solution {\n    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            res[i] = arr.get(i)[1]\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 250829,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 250870,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 251731,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 251752,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 251879,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252345,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252386,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 252447,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253897,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 253929,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253955,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254264,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254306,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254399,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254544,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254627,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254850,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254885,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 255001,
+      "length": 571,
+      "lines": 18,
+      "code": "    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            res[i] = arr.get(i)[1];\n        }\n        return \n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255724,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 255760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255799,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255924,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 255964,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 256714,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 256755,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257239,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257467,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 257824,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 260001,
+      "length": 575,
+      "lines": 18,
+      "code": "    public int[] topKFrequent(int[] nums, int k) {\n        Map<Integer, Integer> count = new HashMap<>();\n        for (int num : nums) {\n            count.put(num, count.getOrDefault(num, 0)+ 1);\n\n        }\n        List<int[]> arr = new ArrayList<>();\n        for(Map.Entry<Integer, Integer> entry: count.entrySet()){\n            arr.add(new int[] {entry.getValue(), entry.getKey()});\n        } \n        arr.sort((a,b) -> b[0] - a[0]);\n        int[] res = new int[k];\n        for(int i = 0; i <k; i++){\n            res[i] = arr.get(i)[1];\n        }\n        return res;\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 263953,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 264196,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 264355,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266212,
+      "x": 772,
+      "y": 175
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266320,
+      "x": 809,
+      "y": 158
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266429,
+      "x": 850,
+      "y": 144
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266537,
+      "x": 873,
+      "y": 142
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266639,
+      "x": 895,
+      "y": 157
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 266746,
+      "x": 916,
+      "y": 178
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 270829,
+      "x": 935,
+      "y": 187
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 270944,
+      "x": 948,
+      "y": 188
+    },
+    {
+      "type": "keydown",
+      "timestamp": 271955,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 272442,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 272649,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273571,
+      "x": 952,
+      "y": 193
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273678,
+      "x": 1007,
+      "y": 182
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273779,
+      "x": 1030,
+      "y": 178
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273887,
+      "x": 1044,
+      "y": 173
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 273995,
+      "x": 1053,
+      "y": 170
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 274896,
+      "x": 1053,
+      "y": 170
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 275003,
+      "x": 1060,
+      "y": 161
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 275104,
+      "x": 1065,
+      "y": 156
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 275212,
+      "x": 1069,
+      "y": 154
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 275979,
+      "x": 1071,
+      "y": 150
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276088,
+      "x": 1099,
+      "y": 96
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276195,
+      "x": 1119,
+      "y": 63
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276303,
+      "x": 1124,
+      "y": 48
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276412,
+      "x": 1130,
+      "y": 25
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276520,
+      "x": 1130,
+      "y": 12
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276628,
+      "x": 1130,
+      "y": 1
+    },
+    {
+      "type": "blur",
+      "timestamp": 277932
+    }
+  ],
+  "eventCount": 920
+}

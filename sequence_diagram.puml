@@ -1,0 +1,362 @@
+@startuml Use Case Diagram
+
+title BBIA-OCA Use Case Diagram
+
+left to right direction
+
+actor Student
+actor Instructor
+actor "Chrome Extension" as ext
+actor "ML Model" as ml
+
+rectangle "BBIA-OCA System" {
+
+    rectangle "Data Collection" {
+        usecase "Solve coding problem\non LeetCode" as UC1
+        usecase "Capture behavioral\nevents" as UC2
+        usecase "Export session\nas JSON" as UC3
+    }
+
+    rectangle "Model Training" {
+        usecase "Extract 58 behavioral\nfeatures" as UC4
+        usecase "Train Logistic\nRegression" as UC5
+        usecase "Train Linear SVM" as UC6
+        usecase "Evaluate with 5-fold\nCross-Validation" as UC7
+        usecase "Save trained\nmodel artifacts" as UC8
+    }
+
+    rectangle "Session Analysis" {
+        usecase "Upload session\nJSON file" as UC9
+        usecase "Analyze behavioral\npatterns" as UC10
+        usecase "Generate suspicion\nscore" as UC11
+        usecase "Classify risk level\n(LOW/MEDIUM/HIGH/CRITICAL)" as UC12
+        usecase "View behavioral\nindicators" as UC13
+        usecase "Flag session for\nmanual review" as UC14
+    }
+}
+
+Student --> UC1
+UC1 ..> UC2 : <<triggers>>
+UC2 ..> UC3 : <<triggers>>
+
+UC3 ..> UC4 : <<input>>
+UC4 ..> UC5 : <<input>>
+UC4 ..> UC6 : <<input>>
+UC5 ..> UC7 : <<include>>
+UC6 ..> UC7 : <<include>>
+UC7 ..> UC8 : <<include>>
+
+Instructor --> UC9
+UC9 ..> UC10 : <<include>>
+UC10 ..> UC4 : <<include>>
+UC10 ..> UC11 : <<include>>
+UC11 ..> UC12 : <<include>>
+UC12 ..> UC13 : <<include>>
+UC13 ..> UC14 : <<extend>>
+
+ext --> UC2
+ml --> UC10
+ml --> UC11
+
+@enduml
+
+
+@startuml Activity Diagram
+
+title BBIA-OCA System Activity Diagram
+
+|#LightBlue|Student|
+|#LightGreen|Chrome Extension|
+|#LightYellow|Training Pipeline|
+|#LightPink|Instructor / Frontend|
+
+|Student|
+start
+:Open LeetCode assessment;
+
+|Chrome Extension|
+:Activate and begin capturing events;
+
+|Student|
+repeat
+  :Write / edit code;
+  |Chrome Extension|
+  :Capture event\n(keydown, click, paste,\ncopy, blur, focus, codeSnapshot);
+|Student|
+repeat while (Session ongoing?)
+
+:End / submit session;
+
+|Chrome Extension|
+:Serialize all events to JSON\n(sessionId, duration, events[]);
+
+|Training Pipeline|
+fork
+  :Load session JSON;
+  :Extract 58 behavioral features\nacross 6 categories;
+  :Append row to CSV dataset;
+fork again
+  :Load session JSON;
+  :Extract 58 behavioral features\nacross 6 categories;
+  :Append row to CSV dataset;
+end fork
+
+:Load full CSV dataset\n(158 sessions: 64 normal, 94 suspicious);
+:StandardScaler fit_transform;
+
+fork
+  :Train Logistic Regression\n(C=0.01, class_weight=balanced);
+  :5-fold Stratified Cross-Validation;
+  :Compute F1, Accuracy, Precision, Recall;
+fork again
+  :Train Linear SVM\n(C=0.01, class_weight=balanced);
+  :5-fold Stratified Cross-Validation;
+  :Compute F1, Accuracy, Precision, Recall;
+end fork
+
+:Compare models by CV F1 score;
+
+if (Best model selected?) then (yes)
+  :Save best_model.pkl\nfeature_scaler.pkl\nfeature_names.json\nmodel_metadata.json;
+else (no)
+  :Retune regularization;
+  stop
+endif
+
+|Instructor / Frontend|
+:Upload session JSON file;
+:POST /api/analyze;
+
+|Training Pipeline|
+:Save to temp file;
+:Extract 58 features from session;
+:Scale features with saved scaler;
+:Run model.predict() and predict_proba();
+:Compute suspicion score (0.0 - 1.0);
+
+if (score < 0.3?) then (yes)
+  :Risk Level = LOW;
+elseif (score < 0.6?) then (yes)
+  :Risk Level = MEDIUM;
+elseif (score < 0.8?) then (yes)
+  :Risk Level = HIGH;
+else (score >= 0.8)
+  :Risk Level = CRITICAL;
+endif
+
+:Analyze behavioral indicators\n(arrow keys, deletion ratio,\ntesting behavior, typing variance);
+:Return prediction JSON;
+
+|Instructor / Frontend|
+:Render suspicion score gauge;
+:Display risk level and verdict\n(LINEAR_TYPING / GENUINE_SOLVING);
+:Show behavioral indicators;
+
+if (Risk Level HIGH or CRITICAL?) then (yes)
+  :Flag for manual review;
+else (no)
+  :Mark as acceptable;
+endif
+
+stop
+
+@enduml
+
+
+@startuml Entity Relation Diagram
+
+title BBIA-OCA Entity Relationship Diagram
+
+entity "Session" as session {
+    * sessionId : string <<PK>>
+    --
+    duration : int (ms)
+    label : enum (normal, suspicious)
+    suspicionType : string
+}
+
+entity "Event" as event {
+    * eventId : int <<PK>>
+    --
+    sessionId : string <<FK>>
+    type : enum (keydown, click, mousemove,\ncopy, paste, blur, focus, codeSnapshot)
+    timestamp : long (epoch ms)
+    key : string
+    x : int
+    y : int
+    ctrlKey : boolean
+    metaKey : boolean
+    shiftKey : boolean
+    length : int
+    lines : int
+}
+
+entity "FeatureVector" as fv {
+    * sessionId : string <<PK, FK>>
+    --
+    ' Navigation (6)
+    arrow_total : float
+    arrow_vertical : float
+    arrow_horizontal : float
+    arrow_density_per_min : float
+    arrow_to_keystroke_ratio : float
+    vertical_horizontal_ratio : float
+    ' Editing (9)
+    deletion_count_weighted : float
+    deletion_ratio : float
+    deletion_to_char_ratio : float
+    raw_backspace_count : float
+    delete_key_count : float
+    deletion_sequences : float
+    max_consecutive_deletions : float
+    char_key_count : float
+    modifier_key_usage : float
+    ' Typing Rhythm (10)
+    typing_variance : float
+    typing_std : float
+    mean_keystroke_interval : float
+    median_keystroke_interval : float
+    pause_short_count : float
+    pause_medium_count : float
+    pause_long_count : float
+    typing_burst_count : float
+    typing_consistency_score : float
+    rhythm_irregularity : float
+    ' Mouse (4)
+    editor_click_count : float
+    click_density_per_min : float
+    total_click_count : float
+    mouse_movement_density : float
+    ' Code Evolution (6)
+    snapshot_count : float
+    code_growth_variance : float
+    sudden_jumps : float
+    deletion_events : float
+    growth_linearity_score : float
+    code_volatility : float
+    ' Workflow (23)
+    paste_operations : float
+    copy_operations : float
+    tab_switches : float
+    ... 20 more workflow features
+    label : int (0=normal, 1=suspicious)
+}
+
+entity "TrainedModel" as model {
+    * modelId : string <<PK>>
+    --
+    model_type : string (LogisticRegression / SVM)
+    cv_f1_mean : float
+    cv_accuracy_mean : float
+    feature_count : int (58)
+    regularization_C : float (0.01)
+    class_weight : string (balanced)
+    artifact_path : string (best_model.pkl)
+    scaler_path : string (feature_scaler.pkl)
+}
+
+entity "Prediction" as pred {
+    * predictionId : string <<PK>>
+    --
+    sessionId : string <<FK>>
+    modelId : string <<FK>>
+    prediction : enum (LINEAR_TYPING,\nGENUINE_SOLVING)
+    suspicion_score : float (0.0-1.0)
+    confidence : float (0.0-1.0)
+    risk_level : enum (LOW, MEDIUM,\nHIGH, CRITICAL)
+}
+
+entity "Indicator" as ind {
+    * indicatorId : int <<PK>>
+    --
+    predictionId : string <<FK>>
+    type : enum (critical, warning, good)
+    feature : string
+    value : float
+    message : string
+    detail : string
+}
+
+session ||--o{ event : "contains"
+session ||--|| fv : "extracted into"
+fv }o--|| model : "scored by"
+fv ||--|| pred : "produces"
+model ||--o{ pred : "generates"
+pred ||--o{ ind : "has"
+
+@enduml
+
+
+@startuml Phase 1 - Data Collection
+
+title Phase 1: Data Collection
+
+actor Student
+participant "LeetCode" as lc
+participant "Chrome Extension" as ext
+participant "Session JSON" as json
+
+Student -> lc : Opens coding assessment
+lc -> ext : Page load activates extension
+
+loop During session
+    Student -> lc : Types / clicks / pastes
+    lc -> ext : DOM events captured
+end
+
+Student -> lc : Ends session
+ext -> json : Write session JSON\n(events, timestamps, metadata)
+
+@enduml
+
+
+@startuml Phase 2 - Feature Extraction and Training
+
+title Phase 2: Feature Extraction & Model Training
+
+participant "Session JSON" as json
+participant "Feature Extractor" as fe
+participant "CSV Dataset" as csv
+participant "Model Trainer" as mt
+database "models/" as models
+
+json -> fe : load_session()
+fe -> fe : Extract 58 features\n(navigation, editing, typing rhythm,\nmouse, code evolution, workflow)
+fe -> csv : Append feature row
+
+csv -> mt : Load all session features
+mt -> mt : StandardScaler fit_transform
+mt -> mt : Train Logistic Regression (C=0.01)
+mt -> mt : Train Linear SVM (C=0.01)
+mt -> mt : 5-fold Stratified Cross-Validation\nSelect best model by F1
+
+mt -> models : Save model, scaler,\nfeature names, metadata
+
+@enduml
+
+
+@startuml Phase 3 - Inference
+
+title Phase 3: Instructor Analysis (Inference)
+
+actor Instructor
+participant "React Frontend" as ui
+participant "Flask Backend" as backend
+participant "Predictor" as pred
+database "models/" as models
+
+Instructor -> ui : Upload session JSON
+ui -> backend : POST /api/analyze
+backend -> pred : predict_session()
+
+pred -> pred : Extract 58 features
+pred -> models : Load scaler + model
+models --> pred : Artifacts
+pred -> pred : Scale features\nRun prediction\nCompute suspicion score\nDetermine risk level
+
+pred --> backend : prediction, score,\nrisk level, indicators
+backend --> ui : JSON response
+
+ui --> Instructor : Show verdict, score gauge,\nbehavioral indicators
+
+@enduml

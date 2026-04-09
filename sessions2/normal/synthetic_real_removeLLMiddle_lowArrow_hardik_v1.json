@@ -1,0 +1,6218 @@
+{
+  "sessionId": "session_1775373335602_vkfmp3gaw",
+  "startTime": "2026-01-21T18:18:20.153Z",
+  "duration": 276714,
+  "problemUrl": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/1892488684/",
+  "problemTitle": "2095. Delete the Middle Node of a Linked List",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 798,
+      "url": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/",
+      "problemTitle": "2095. Delete the Middle Node of a Linked List"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 3987,
+      "length": 344,
+      "lines": 16,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44955,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 45170,
+      "x": 1118,
+      "y": 360,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47133,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47210,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47248,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 47298,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47339,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47405,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47438,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 47842,
+      "length": 347,
+      "lines": 16,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Lis\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47845,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47873,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48102,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48151,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48177,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 48226,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48300,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48352,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48387,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48438,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48505,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49261,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49385,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49291,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49390,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49447,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49473,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49715,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49771,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50064,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50090,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50308,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 50423,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50700,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50746,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50767,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51112,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51138,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51255,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51317,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51346,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51432,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 51829,
+      "length": 364,
+      "lines": 16,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51993,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52019,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52251,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52274,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52333,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52556,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52711,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52736,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52888,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52910,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53081,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53105,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53186,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53478,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53557,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53583,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53635,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53776,
+      "scrollY": 225
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53691,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53781,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53893,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54127,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54193,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54217,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 54242,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54380,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54339,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54384,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54415,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54442,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54533,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55210,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55239,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55292,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55418,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55443,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55533,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55756,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55780,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55816,
+      "length": 393,
+      "lines": 17,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0sloe\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56014,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56080,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56121,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56216,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56425,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56449,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56495,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56590,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56611,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56693,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57192,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57216,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57347,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57472,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57493,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57563,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58552,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58585,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59386,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 59480,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 59802,
+      "length": 400,
+      "lines": 17,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0-\u00a0head;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59935,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60056,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60222,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60311,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60333,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60538,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60573,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60648,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60691,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60766,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60827,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 60899,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60959,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60981,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 61044,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61205,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 61305,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61845,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 61868,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62070,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62111,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62210,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62300,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62497,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62584,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62637,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62713,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62846,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63167,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63420,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63506,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63566,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63637,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63713,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63776,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 63789,
+      "length": 400,
+      "lines": 17,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63862,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 63914,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63995,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 64056,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64135,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 64480,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64535,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64934,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64959,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64983,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65008,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65032,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65056,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65081,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65105,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65130,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65142,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65210,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65279,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65336,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65407,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65468,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65537,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65626,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65666,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65736,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65804,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65865,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65948,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65971,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66046,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66255,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66349,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66421,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66482,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66702,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 66797,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67011,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67109,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67159,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67249,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67467,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67492,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67567,
+      "scrollY": 28
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67566,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 67776,
+      "length": 409,
+      "lines": 18,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71387,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71416,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71476,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71581,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71606,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71725,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 71763,
+      "length": 413,
+      "lines": 18,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0whil\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71821,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71844,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71928,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72193,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72532,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72560,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 72691,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73292,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73358,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73401,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73482,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73683,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73885,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73909,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74002,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74388,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74411,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74530,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74601,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74621,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74811,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74833,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74980,
+      "scrollY": 195
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75089,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75113,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75356,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75490,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75512,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75551,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75750,
+      "length": 422,
+      "lines": 18,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast\u00a0!)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75771,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75844,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75906,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75998,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75999,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76065,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76091,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76142,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76257,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76281,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76907,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76930,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77698,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77718,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77872,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77896,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77972,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78226,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78248,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78570,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79161,
+      "key": "%",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79187,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79303,
+      "key": "%",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79431,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79582,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79665,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79678,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 79736,
+      "length": 427,
+      "lines": 18,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0)\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79765,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79962,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79987,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80061,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80206,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80230,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 80248,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80609,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80632,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80731,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80787,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80807,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81017,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81041,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81631,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81655,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81872,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81893,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81967,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82004,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82171,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82193,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82353,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82374,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82746,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 83723,
+      "length": 439,
+      "lines": 18,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84324,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84347,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84490,
+      "scrollY": 175
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84419,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84590,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84613,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84851,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84876,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84960,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85296,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85318,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85465,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85486,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86026,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 86134,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86488,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86512,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86633,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 86808,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86960,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 87051,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87210,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87394,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 87522,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87635,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87663,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 87710,
+      "length": 470,
+      "lines": 20,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while (fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 87739,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88220,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88243,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88467,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 88569,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88601,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88735,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88761,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88775,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88952,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89009,
+      "scrollY": 208
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88977,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89049,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89280,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89313,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89354,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89664,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 89865,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89953,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90062,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90129,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90155,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90203,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90707,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90738,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90860,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90890,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90919,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91086,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91113,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91291,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91312,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 91697,
+      "length": 481,
+      "lines": 20,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast,\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91734,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 91824,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91991,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92198,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92290,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92394,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92972,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92993,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93033,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93240,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93263,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93433,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93455,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93656,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93678,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93988,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94011,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94033,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94078,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94287,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94312,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94448,
+      "scrollY": 145
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94506,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94850,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94925,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94976,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95045,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95073,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95167,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95200,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95297,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95621,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95642,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95684,
+      "length": 489,
+      "lines": 20,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while (fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.ne\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95838,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95973,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96201,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96225,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96426,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96451,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96557,
+      "scrollY": 113
+    },
+    {
+      "type": "keyup",
+      "timestamp": 96538,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96951,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97100,
+      "scrollY": 61
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96973,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97120,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97140,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97254,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97397,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97421,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97489,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97596,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97619,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97707,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98217,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98285,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98330,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98422,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98643,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98666,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98703,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98926,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98946,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99070,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99193,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99265,
+      "scrollY": 184
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99217,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99602,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99625,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 99670,
+      "length": 515,
+      "lines": 21,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99729,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99945,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100024,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100109,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100554,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100576,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100680,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101230,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101254,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101476,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101499,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101728,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101748,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102134,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102161,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102264,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102571,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102654,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102729,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 102827,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102910,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 103014,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103221,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 103361,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 103657,
+      "length": 521,
+      "lines": 21,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103764,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103781,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 103884,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103955,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103979,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 104076,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104735,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104758,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105009,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105129,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105667,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105689,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105770,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106079,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106130,
+      "scrollY": 261
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106171,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106532,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106948,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106971,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107333,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107359,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107586,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107676,
+      "scrollY": 129
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107609,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 107644,
+      "length": 538,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.nex\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107811,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107902,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107943,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108224,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108249,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108333,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109108,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109375,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109487,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109840,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109861,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110435,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110455,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110765,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110787,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111163,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111185,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111344,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111368,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111577,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111598,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 111631,
+      "length": 551,
+      "lines": 22,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112005,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112083,
+      "scrollY": 271
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112025,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112588,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112611,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112699,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112918,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112942,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113125,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113147,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113585,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113607,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113799,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114122,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114249,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114311,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114343,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114738,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114801,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114967,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114988,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115054,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115160,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115181,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115248,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115364,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115387,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115618,
+      "length": 573,
+      "lines": 23,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0retirn\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115631,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115709,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115834,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115753,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115830,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115874,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 115980,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116296,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116437,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116657,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116680,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116793,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116856,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116877,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116936,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117166,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117618,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117640,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117747,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117825,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117849,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118033,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118051,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118281,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118386,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 118526,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 119604,
+      "length": 578,
+      "lines": 23,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 122836,
+      "x": 1122,
+      "y": 346
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 122918,
+      "x": 1160,
+      "y": 644
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123168,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124374,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136667,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 137022,
+      "x": 1236,
+      "y": 751
+    },
+    {
+      "type": "click",
+      "timestamp": 137301,
+      "x": 1236,
+      "y": 706,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 137409,
+      "x": 1253,
+      "y": 678
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 137492,
+      "x": 1221,
+      "y": 784
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 137581,
+      "x": 1221,
+      "y": 854
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137731,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137855,
+      "scrollY": 172
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137968,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138312,
+      "x": 1171,
+      "y": 732
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138395,
+      "x": 1162,
+      "y": 686
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138483,
+      "x": 1146,
+      "y": 689
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138566,
+      "x": 1122,
+      "y": 728
+    },
+    {
+      "type": "click",
+      "timestamp": 138733,
+      "x": 1142,
+      "y": 704,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138861,
+      "x": 1149,
+      "y": 695
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 138943,
+      "x": 1146,
+      "y": 783
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 139026,
+      "x": 1162,
+      "y": 819
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139225,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139388,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146961,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147122,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147283,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147444,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147770,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 148362,
+      "x": 1133,
+      "y": 833
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 148528,
+      "x": 1033,
+      "y": 729
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 148611,
+      "x": 1031,
+      "y": 700
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 148821,
+      "x": 1017,
+      "y": 690
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 148905,
+      "x": 1011,
+      "y": 660
+    },
+    {
+      "type": "click",
+      "timestamp": 149084,
+      "x": 999,
+      "y": 698,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149425,
+      "x": 1009,
+      "y": 691
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149508,
+      "x": 1129,
+      "y": 742
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149592,
+      "x": 1170,
+      "y": 730
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149674,
+      "x": 1190,
+      "y": 639
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149757,
+      "x": 1256,
+      "y": 506
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149840,
+      "x": 1256,
+      "y": 419
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195172,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195184,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195226,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195305,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195374,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196062,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "click",
+      "timestamp": 196085,
+      "x": 1331,
+      "y": 400,
+      "target": "DIV"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196130,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196202,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196259,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196291,
+      "scrollY": 142
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196318,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196375,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196440,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196514,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196825,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196959,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197023,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 197129,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197720,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197745,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198175,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198198,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198289,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198455,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198476,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198634,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198662,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 199340,
+      "length": 583,
+      "lines": 23,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199766,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199938,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 200179,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205181,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205581,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205604,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 205735,
+      "scrollY": 163
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205629,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205653,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205678,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205703,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205726,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205751,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205775,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205800,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205825,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205848,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205873,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205898,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205923,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205948,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205971,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205996,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206021,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206045,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206069,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206094,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206119,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206143,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206167,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206191,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206216,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206241,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206265,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 206277,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 206845,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 206877,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 206931,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207017,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 207102,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 207314,
+      "length": 592,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207396,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207416,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207995,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208194,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208221,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 208347,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208416,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208421,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208445,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208618,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208642,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208733,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209429,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209451,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209596,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209618,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209712,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 211301,
+      "length": 604,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(head\u00a0=\u00a0)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while (fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212791,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212835,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212813,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212905,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213144,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213203,
+      "scrollY": 2
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213171,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213422,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213446,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213684,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213710,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214189,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215024,
+      "key": "|",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215046,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215134,
+      "key": "|",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 215288,
+      "length": 610,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(head\u00a0=\u00a0null\u00a0||)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215304,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215463,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215601,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215485,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215704,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215776,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215834,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215939,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215961,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216563,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216586,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216800,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216823,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216866,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217064,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217085,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217238,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217263,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217310,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217921,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217942,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218039,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218079,
+      "scrollY": 141
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218172,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218192,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218281,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218405,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218426,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218551,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218661,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218689,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219197,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 219274,
+      "length": 629,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (head\u00a0=\u00a0null\u00a0||\u00a0head.next\u00a0==\u00a0null)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219279,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219613,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219779,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219803,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219893,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219945,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219977,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220041,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220165,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220186,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220197,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220400,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220424,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220451,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220519,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220842,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220910,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220951,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 221040,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221227,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 221338,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221492,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221514,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221705,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221751,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221838,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221913,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221933,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222245,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222266,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222350,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222444,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222465,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222532,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222945,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222966,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223119,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223223,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 223264,
+      "length": 662,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(head\u00a0=\u00a0null\u00a0||\u00a0head.next\u00a0==\u00a0null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 223332,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234561,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 234676,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235073,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 235193,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242907,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243306,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243331,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243355,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243379,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243403,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243428,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243453,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243477,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243501,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243553,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 243518,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243827,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 243909,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244418,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 244439,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244588,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244748,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 244815,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 247182,
+      "length": 663,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(head\u00a0==\u00a0null\u00a0||\u00a0head.next\u00a0==\u00a0null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while(fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 248573,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 248703,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 248790,
+      "key": "Control"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 248853,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 258877,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 258977,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259095,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259186,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259248,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259327,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259375,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259437,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259477,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259550,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259595,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259679,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 259752,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 259843,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260081,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 260151,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260205,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 260268,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260327,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 260391,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260438,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 260539,
+      "key": "Backspace"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 260602,
+      "scrollY": 9
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260826,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 260855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 260983,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 261143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 261170,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 261258,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 261408,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 261939,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 262127,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262574,
+      "x": 1305,
+      "y": 403
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262657,
+      "x": 1117,
+      "y": 258
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262740,
+      "x": 1034,
+      "y": 178
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262823,
+      "x": 948,
+      "y": 190
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262906,
+      "x": 861,
+      "y": 169
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 262989,
+      "x": 825,
+      "y": 181
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 263072,
+      "x": 764,
+      "y": 176
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 263130,
+      "length": 664,
+      "lines": 25,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0deleteMiddle(ListNode\u00a0head)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(head\u00a0==\u00a0null\u00a0||\u00a0head.next\u00a0==\u00a0null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0slow\u00a0=\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while (fast!=null\u00a0&&\u00a0fast.next!=null){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0fast\u00a0=\u00a0fast.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow\u00a0=\u00a0slow.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0slow.next\u00a0=\u00a0slow.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0head;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0fast\u00a0=\u00a0head.next.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0null;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n"
+    },
+    {
+      "type": "click",
+      "timestamp": 263215,
+      "x": 781,
+      "y": 151,
+      "target": "SPAN"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 263344,
+      "x": 762,
+      "y": 189
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 263424,
+      "x": 946,
+      "y": 253
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 263510,
+      "x": 1022,
+      "y": 287
+    },
+    {
+      "type": "keydown",
+      "timestamp": 263568,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 263593,
+      "x": 1060,
+      "y": 304
+    },
+    {
+      "type": "click",
+      "timestamp": 263709,
+      "x": 1066,
+      "y": 317,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 263872,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 264111,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 264282,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 269704,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 269747,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 269861,
+      "key": "Control"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 269883,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 275286,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 275337,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 275441,
+      "key": "Control"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 275485,
+      "key": "Enter"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 275919,
+      "x": 1089,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276002,
+      "x": 1298,
+      "y": 130
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 276085,
+      "x": 1378,
+      "y": 68
+    },
+    {
+      "type": "blur",
+      "timestamp": 276714
+    }
+  ],
+  "eventCount": 860
+}

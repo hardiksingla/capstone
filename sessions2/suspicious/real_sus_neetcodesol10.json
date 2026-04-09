@@ -1,0 +1,7117 @@
+{
+  "sessionId": "session_1768760065787_wfxbkdtm3",
+  "startTime": "2026-01-18T18:14:26.781Z",
+  "duration": 269482,
+  "problemUrl": "https://leetcode.com/problems/3sum/submissions/1889172898/",
+  "problemTitle": "15. 3Sum",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1002,
+      "url": "https://leetcode.com/problems/3sum/description/",
+      "problemTitle": "15. 3Sum"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1073,
+      "x": 756,
+      "y": 159
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1181,
+      "x": 759,
+      "y": 159
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1306,
+      "x": 760,
+      "y": 159
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1416,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2573,
+      "x": 760,
+      "y": 159
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2681,
+      "x": 759,
+      "y": 166
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2806,
+      "x": 758,
+      "y": 168
+    },
+    {
+      "type": "click",
+      "timestamp": 4547,
+      "x": 757,
+      "y": 168,
+      "target": "DIV"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 4549,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4816,
+      "x": 757,
+      "y": 168
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4924,
+      "x": 838,
+      "y": 189
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5002,
+      "length": 88,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5349,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5911,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5959,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6136,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6911,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6949,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7049,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7227,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7257,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7379,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7508,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7532,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8249,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8291,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8554,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9064,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9103,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9364,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9390,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9562,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9989,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10001,
+      "length": 99,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10681,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10717,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 10843,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11246,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11278,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11349,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11595,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11619,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12119,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12140,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12231,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12722,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12757,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12860,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12971,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13638,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13895,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13929,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 13985,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14138,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14176,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14277,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14530,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 14570,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14826,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15002,
+      "length": 119,
+      "lines": 7,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15691,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15728,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 15855,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16355,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16565,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16604,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 16673,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16830,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16866,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16947,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17186,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17797,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18415,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18453,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19472,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19499,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 19588,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19794,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19836,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20001,
+      "length": 127,
+      "lines": 7,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<In\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20171,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20209,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20310,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20446,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20469,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21394,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21429,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21712,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21751,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22310,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23442,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23481,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23701,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23740,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 23910,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24031,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24071,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24614,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24646,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24664,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24948,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24985,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25004,
+      "length": 138,
+      "lines": 7,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25971,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25996,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26460,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26497,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26517,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27312,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27349,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27377,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27468,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27551,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27571,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28220,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28622,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28659,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28764,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29262,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29287,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29394,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29482,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29502,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29699,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29727,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29863,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30002,
+      "length": 150,
+      "lines": 7,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res = new Array\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30114,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30153,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30246,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30391,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30425,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30552,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30769,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30805,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31722,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32054,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32078,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32259,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32279,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32961,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32991,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33153,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34006,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34606,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34642,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35002,
+      "length": 159,
+      "lines": 7,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res = new ArrayList<>();\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35728,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35768,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 35832,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35914,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 36011,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36690,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36733,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36768,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36869,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36935,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36955,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37607,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37815,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37855,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 37918,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38208,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38243,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38285,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38460,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38487,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38557,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38759,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38869,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40002,
+      "length": 181,
+      "lines": 9,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40497,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40536,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40635,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41072,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41402,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41439,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41460,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42283,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42324,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42391,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42669,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42787,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42825,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 42844,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42978,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43858,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43896,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44218,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44256,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44386,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44779,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44819,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45001,
+      "length": 195,
+      "lines": 9,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45030,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45069,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45173,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45329,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45352,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45524,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45556,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45711,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45857,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50002,
+      "length": 201,
+      "lines": 9,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n    }\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50256,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50282,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50304,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50729,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50767,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51020,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51165,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51197,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51289,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51502,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52288,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52305,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52381,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52786,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53150,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53189,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53301,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53454,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53502,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53547,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55002,
+      "length": 230,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56377,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56414,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56433,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56562,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57388,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57875,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57914,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57999,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58326,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58366,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58428,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58735,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58796,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60002,
+      "length": 239,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60446,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60484,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60793,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60831,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62497,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62525,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64157,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64196,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64499,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64703,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 64733,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 64785,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65002,
+      "length": 244,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] >)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65898,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65938,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66102,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68577,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69050,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69082,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 69285,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69447,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69485,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70002,
+      "length": 247,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70105,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70138,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70302,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70348,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70449,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70527,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70563,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70848,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70883,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72413,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72443,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72696,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72738,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 72782,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73372,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73411,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73555,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73936,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74199,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74233,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74327,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75002,
+      "length": 270,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75307,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75332,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75740,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75782,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75974,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76173,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76205,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76419,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76788,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76827,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77022,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77055,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78840,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78879,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79208,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79599,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79625,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79723,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79904,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80003,
+      "length": 278,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 &&)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80009,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80038,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81310,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81347,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81382,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81634,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81671,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81760,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82700,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82740,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83506,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83545,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83827,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83854,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 286,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i])\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86396,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86426,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86764,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86804,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86919,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87096,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87122,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87881,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87941,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88178,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88235,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88893,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88926,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 88945,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89031,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 89111,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89288,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89348,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89365,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90003,
+      "length": 295,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nunms)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90049,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90083,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90119,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90202,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90271,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90897,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90934,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90964,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91582,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91620,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91639,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92729,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92755,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93289,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93315,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93863,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93891,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94032,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94157,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94179,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94590,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94624,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95002,
+      "length": 301,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1])\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97636,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97653,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100983,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101425,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101457,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 101630,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102703,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102739,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103123,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103160,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103219,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103458,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103492,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103676,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103709,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103819,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104050,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104081,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104195,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104357,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104383,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105003,
+      "length": 310,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105967,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106000,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106301,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106333,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106391,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106702,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106744,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106781,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107362,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107439,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107573,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107595,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107696,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109399,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109435,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109704,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109744,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110002,
+      "length": 331,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110031,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110071,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110127,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110817,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110858,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111853,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111875,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112023,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112239,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112269,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 112293,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112387,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112730,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112768,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114837,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114860,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114965,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115006,
+      "length": 340,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115809,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115843,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116030,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116056,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116238,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116270,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116319,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116987,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117025,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117046,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117357,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117461,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118149,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118187,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118406,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118443,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118537,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118796,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118897,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119103,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119238,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120003,
+      "length": 355,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120394,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120426,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120675,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120713,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120744,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120981,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121016,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121845,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121874,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122991,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123031,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 123072,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123456,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123495,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123560,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123694,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123716,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123976,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124014,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124085,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124488,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124921,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124953,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125007,
+      "length": 380,
+      "lines": 15,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while()\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 125149,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125947,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127320,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127361,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127537,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127673,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127712,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127789,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127895,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127929,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128683,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128721,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129408,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129674,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129702,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130001,
+      "length": 385,
+      "lines": 15,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n    }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130557,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130589,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130738,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131282,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 131319,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131320,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 131373,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133603,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133634,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133746,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133814,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133954,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134613,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134640,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134694,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134906,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134933,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135006,
+      "length": 425,
+      "lines": 17,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135423,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135458,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136098,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 136124,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136242,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137040,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137071,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137187,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137429,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137463,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137588,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138130,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138155,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138514,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138553,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139517,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139551,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140003,
+      "length": 435,
+      "lines": 17,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i]\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140967,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141006,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141337,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141556,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141594,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 141644,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141795,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141825,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142313,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142352,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142402,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142666,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142704,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142821,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143472,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143510,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143905,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143944,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 144637,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 144657,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145003,
+      "length": 445,
+      "lines": 17,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l]\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145518,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145558,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145823,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146217,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146255,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 146299,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146453,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146482,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146788,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146824,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146862,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147121,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147150,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147256,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147855,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 147894,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148408,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148445,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 148816,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 148850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149871,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 149897,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 150001,
+      "length": 456,
+      "lines": 17,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151472,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151511,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 151556,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152301,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 152339,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152406,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152751,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152951,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 152994,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 153104,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153603,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153639,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153727,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153975,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 154013,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 155007,
+      "length": 480,
+      "lines": 18,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n    }\n                if(sum)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155251,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155289,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155482,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155651,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 155691,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 155760,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156204,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156232,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156448,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156480,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157849,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158190,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 158223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159336,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159377,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 159510,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 159744,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 159788,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 159848,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 160002,
+      "length": 524,
+      "lines": 20,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    \n                }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161829,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161855,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162118,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162158,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162261,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 162491,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 162520,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164260,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 164276,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164355,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 165003,
+      "length": 528,
+      "lines": 20,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165180,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165221,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165437,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165477,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165553,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165652,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 165691,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165750,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165833,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166480,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 166516,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 166594,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167247,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167550,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167591,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168004,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168475,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168513,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168633,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 168876,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 168916,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169246,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169598,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169622,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 169880,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 169917,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 170002,
+      "length": 543,
+      "lines": 20,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum <)\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 170197,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170463,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170502,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 170755,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 170792,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171693,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 171919,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 171951,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 172044,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172479,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 172517,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172655,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 172779,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 172811,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 172888,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 173063,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 173108,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 173132,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 174772,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 174798,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 175002,
+      "length": 587,
+      "lines": 22,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l\n                }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175011,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175396,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 175431,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 175554,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 176044,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 176500,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 176539,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178118,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178139,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 178214,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 178855,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 178894,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179118,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179158,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179280,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179332,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 179367,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 179455,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 180002,
+      "length": 595,
+      "lines": 22,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180176,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180592,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180631,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 180787,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 180930,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 180964,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 181028,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182807,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 182848,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182924,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 182989,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 183791,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 183831,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184361,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184388,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184673,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184712,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184845,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185002,
+      "length": 640,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185274,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185666,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185702,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 185805,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186238,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186537,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 186566,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 186686,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186892,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 186933,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187064,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187161,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 187180,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187322,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187475,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 187498,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189071,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 189112,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189408,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 189432,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189674,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 189866,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 189908,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 189960,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190002,
+      "length": 652,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asL)\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190137,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190176,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190272,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190611,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 190636,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191775,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192362,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192392,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 192583,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192809,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192939,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193189,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 193223,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193347,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194317,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194357,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194624,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 194662,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 195003,
+      "length": 664,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i]))\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195989,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196014,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196466,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 196506,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 197833,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 197877,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198360,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198428,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198672,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 198709,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 198784,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199414,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 199451,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 199718,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 199758,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 200003,
+      "length": 673,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l]))\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201365,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201391,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201737,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 201765,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 201841,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 202820,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 202878,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203103,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203246,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 203905,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 203946,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204345,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 204384,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 204525,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 205003,
+      "length": 682,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]))\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205391,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 205671,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 205702,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 207562,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 207595,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 208158,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208724,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208765,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 210002,
+      "length": 683,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213156,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213201,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 213223,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213611,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213639,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213955,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214141,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 214165,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214291,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214542,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 215003,
+      "length": 701,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n        }\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n            }\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215034,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215073,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215411,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215454,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215486,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216239,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216273,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217315,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217339,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217447,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217883,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217923,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218130,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 218172,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218242,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219581,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219621,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219703,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219811,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219832,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220002,
+      "length": 727,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++;\n                    r--;\n                    whi\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220134,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220173,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220217,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220826,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 221021,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 221059,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 221264,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222668,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222950,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222988,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223199,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223409,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223446,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 223511,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223713,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223753,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224164,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224204,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224929,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224954,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 225002,
+      "length": 737,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++;\n                    r--;\n                    while(l < r )\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225338,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226974,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227001,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227162,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227206,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 227316,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227459,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227500,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227797,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227837,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227883,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228146,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228185,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229421,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229457,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229842,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229881,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 230002,
+      "length": 747,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++;\n                    r--;\n                    while(l < r && nums[l])\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231014,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231046,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232360,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232400,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232708,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232747,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232843,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232971,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232995,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233406,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233442,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233511,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233739,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 233770,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233863,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234814,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 234855,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 235002,
+      "length": 757,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[])\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235412,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235451,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 235663,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 235700,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236037,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 236070,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236248,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 236278,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236413,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237342,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237375,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 237420,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238674,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 238708,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 240004,
+      "length": 761,
+      "lines": 23,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                }\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[l -1])\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 240992,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241403,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241434,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 242049,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242365,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242408,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242579,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242705,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242743,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 242883,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243089,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 243129,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 243192,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244907,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 244945,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 245002,
+      "length": 793,
+      "lines": 24,
+      "code": "class Solution {\n    public List<List<Integer>> threeSum(int[] nums) {\n        Arrays.sort(nums);\n        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[l -1]) {\n                        l\n                    }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245486,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245632,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 245672,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245758,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 246097,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 246418,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 246462,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 248920,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 248942,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 249045,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 249306,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 249324,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 249398,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 249670,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 249688,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 249784,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 250003,
+      "length": 740,
+      "lines": 24,
+      "code": "        List<List<Integer>> res = new ArrayList<>();\n\n        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[l -1]) {\n                        l++;\n                    }\n                }\n            }\n        }\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 250047,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 250068,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 250155,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 251674,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 251722,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 251769,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 251946,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 251987,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252014,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252299,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252339,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252453,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252582,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252606,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252711,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252912,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252942,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253470,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 253497,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253542,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253674,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 253715,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254079,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254127,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254889,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254925,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 254951,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 255002,
+      "length": 712,
+      "lines": 24,
+      "code": "        for (int i = 0; i < nums.length; i++){\n            if (nums[i] > 0) break;\n            if(i > 0 && nums[i] == nums[i - 1]) continue;\n\n            int l = i + 1, r = nums.length - 1;\n            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[l -1]) {\n                        l++;\n                    }\n                }\n            }\n        }\n        return res;\n    }\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 255584,
+      "x": 839,
+      "y": 189
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 255692,
+      "x": 905,
+      "y": 172
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256432,
+      "x": 920,
+      "y": 172
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256535,
+      "x": 1076,
+      "y": 113
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256641,
+      "x": 1116,
+      "y": 84
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256749,
+      "x": 1111,
+      "y": 66
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256857,
+      "x": 1109,
+      "y": 42
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 256966,
+      "x": 1105,
+      "y": 41
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 257071,
+      "x": 1091,
+      "y": 70
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 257179,
+      "x": 1090,
+      "y": 141
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257488,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257844,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 258104,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 260003,
+      "length": 524,
+      "lines": 20,
+      "code": "            while(l < r) {\n                int sum = nums[i] + nums[l] + nums[r];\n                if(sum > 0){\n                    r--;\n                } else if(sum < 0) {\n                    l++;\n                } else{\n                    res.add(Arrays.asList(nums[i], nums[l], nums[r]));\n                    l++;\n                    r--;\n                    while(l < r && nums[l] == nums[l -1]) {\n                        l++;\n                    }\n                }\n            }\n        }\n        return res;\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 262281,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 262434,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 262590,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268061,
+      "x": 1091,
+      "y": 145
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268170,
+      "x": 1151,
+      "y": 79
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268278,
+      "x": 1183,
+      "y": 52
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268386,
+      "x": 1203,
+      "y": 31
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 268495,
+      "x": 1212,
+      "y": 10
+    },
+    {
+      "type": "blur",
+      "timestamp": 269482
+    }
+  ],
+  "eventCount": 994
+}

@@ -1,0 +1,246 @@
+{
+  "sessionId": "session_1775373434004_lv8zb5jvt",
+  "startTime": "2026-01-27T18:20:33.514Z",
+  "duration": 32906,
+  "problemUrl": "https://leetcode.com/problems/reverse-integer/submissions/1898975817/",
+  "problemTitle": "7. Reverse Integer",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 990,
+      "url": "https://leetcode.com/problems/reverse-integer/description/",
+      "problemTitle": "7. Reverse Integer"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 1543,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 1805,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 1806
+    },
+    {
+      "type": "keydown",
+      "timestamp": 1959,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 1960
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2116,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 2212,
+      "scrollY": 110
+    },
+    {
+      "type": "copy",
+      "timestamp": 2116
+    },
+    {
+      "type": "keyup",
+      "timestamp": 2316,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 2393,
+      "x": 318,
+      "y": 187
+    },
+    {
+      "type": "blur",
+      "timestamp": 3868
+    },
+    {
+      "type": "blur",
+      "timestamp": 3876
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5316,
+      "length": 66,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0reverse(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "focus",
+      "timestamp": 21082
+    },
+    {
+      "type": "focus",
+      "timestamp": 21091
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 21431,
+      "x": 1349,
+      "y": 21
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 21533,
+      "x": 1174,
+      "y": 339
+    },
+    {
+      "type": "scroll",
+      "timestamp": 21645,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21671,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "click",
+      "timestamp": 21909,
+      "x": 1167,
+      "y": 327,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21912,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22352,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 22355,
+      "length": 1008,
+      "lines": 30
+    },
+    {
+      "type": "keyup",
+      "timestamp": 22547,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22749,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23170,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23229,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 24337,
+      "length": 759,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0*/\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0reverse(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0reversedNumber\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Process\u00a0each\u00a0digit\u00a0from\u00a0right\u00a0to\u00a0left\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(x\u00a0!=\u00a00)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Check\u00a0for\u00a0potential\u00a0overflow\u00a0before\u00a0multiplying\u00a0by\u00a010\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Integer.MAX_VALUE\u00a0=\u00a02147483647,\u00a0Integer.MIN_VALUE\u00a0=\u00a0-2147483648\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(reversedNumber\u00a0>\u00a0Integer.MAX_VALUE\u00a0/\u00a010\u00a0||\u00a0reversedNumber\u00a0<\u00a0Integer.MIN_VALUE\u00a0/\u00a010)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Extract\u00a0the\u00a0last\u00a0digit\u00a0and\u00a0add\u00a0it\u00a0to\u00a0the\u00a0reversed\u00a0number\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0lastDigit\u00a0=\u00a0x\u00a0%\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0reversedNumber\u00a0=\u00a0reversedNumber\u00a0*\u00a010\u00a0+\u00a0lastDigit;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Remove\u00a0the\u00a0last\u00a0digit\u00a0from\u00a0x\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x\u00a0=\u00a0x\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0reversedNumber;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27048,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27184,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27622,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 31545,
+      "x": 1168,
+      "y": 320
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 31646,
+      "x": 1400,
+      "y": 5
+    },
+    {
+      "type": "blur",
+      "timestamp": 32906
+    }
+  ],
+  "eventCount": 35
+}

@@ -1,0 +1,706 @@
+{
+  "sessionId": "session_1775373434007_niu91vkt9",
+  "startTime": "2026-01-27T17:43:33.468Z",
+  "duration": 112822,
+  "problemUrl": "https://leetcode.com/problems/string-to-integer-atoi/submissions/1898977154/",
+  "problemTitle": "8. String to Integer (atoi)",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1295,
+      "url": "https://leetcode.com/problems/reverse-integer/description/",
+      "problemTitle": "7. Reverse Integer"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2019,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2362,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 2363
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2563,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 2564
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2769,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 2769
+    },
+    {
+      "type": "keydown",
+      "timestamp": 2823,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 3030,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3131,
+      "x": 297,
+      "y": 198
+    },
+    {
+      "type": "blur",
+      "timestamp": 5061
+    },
+    {
+      "type": "blur",
+      "timestamp": 5072
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 6955,
+      "length": 66,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0reverse(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "focus",
+      "timestamp": 27584
+    },
+    {
+      "type": "focus",
+      "timestamp": 27595
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 28041,
+      "x": 1343,
+      "y": 20
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 28173,
+      "x": 1176,
+      "y": 324
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28321,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28354,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "click",
+      "timestamp": 28666,
+      "x": 1157,
+      "y": 333,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28670,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29245,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 29249,
+      "length": 1008,
+      "lines": 30
+    },
+    {
+      "type": "keyup",
+      "timestamp": 29501,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29764,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30315,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30463,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 31843,
+      "length": 759,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0*/\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0reverse(int\u00a0x)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0reversedNumber\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Process\u00a0each\u00a0digit\u00a0from\u00a0right\u00a0to\u00a0left\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(x\u00a0!=\u00a00)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Check\u00a0for\u00a0potential\u00a0overflow\u00a0before\u00a0multiplying\u00a0by\u00a010\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Integer.MAX_VALUE\u00a0=\u00a02147483647,\u00a0Integer.MIN_VALUE\u00a0=\u00a0-2147483648\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(reversedNumber\u00a0>\u00a0Integer.MAX_VALUE\u00a0/\u00a010\u00a0||\u00a0reversedNumber\u00a0<\u00a0Integer.MIN_VALUE\u00a0/\u00a010)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Extract\u00a0the\u00a0last\u00a0digit\u00a0and\u00a0add\u00a0it\u00a0to\u00a0the\u00a0reversed\u00a0number\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0lastDigit\u00a0=\u00a0x\u00a0%\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0reversedNumber\u00a0=\u00a0reversedNumber\u00a0*\u00a010\u00a0+\u00a0lastDigit;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Remove\u00a0the\u00a0last\u00a0digit\u00a0from\u00a0x\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0x\u00a0=\u00a0x\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0reversedNumber;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31931,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35389,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 35567,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 36141,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 41273,
+      "x": 1168,
+      "y": 310
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 41405,
+      "x": 1416,
+      "y": 4
+    },
+    {
+      "type": "blur",
+      "timestamp": 43054
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 46026,
+      "x": 1089,
+      "y": 20
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 46158,
+      "x": 848,
+      "y": 131
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 46521,
+      "x": 843,
+      "y": 118
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 46653,
+      "x": 495,
+      "y": 127
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47027,
+      "x": 396,
+      "y": 127
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47160,
+      "x": 210,
+      "y": 51
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47292,
+      "x": 149,
+      "y": 61
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47425,
+      "x": 85,
+      "y": 51
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47575,
+      "x": 79,
+      "y": 35
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 47754,
+      "x": 70,
+      "y": 43
+    },
+    {
+      "type": "focus",
+      "timestamp": 47857
+    },
+    {
+      "type": "click",
+      "timestamp": 47977,
+      "x": 70,
+      "y": 36,
+      "target": "path"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 48584,
+      "x": 85,
+      "y": 36
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 48757,
+      "x": 99,
+      "y": 382
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 48910,
+      "x": 119,
+      "y": 458
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49166,
+      "x": 122,
+      "y": 509
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49352,
+      "x": 117,
+      "y": 493
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 49670,
+      "x": 143,
+      "y": 453
+    },
+    {
+      "type": "click",
+      "timestamp": 50230,
+      "x": 146,
+      "y": 448,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 51685,
+      "x": 702,
+      "y": 399
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 52074,
+      "x": 735,
+      "y": 397
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 52207,
+      "x": 885,
+      "y": 362
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 52591,
+      "x": 866,
+      "y": 361
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54117,
+      "x": 896,
+      "y": 368
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54248,
+      "x": 506,
+      "y": 203
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54629,
+      "x": 426,
+      "y": 171
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54693,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54761,
+      "x": 320,
+      "y": 134
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 54902,
+      "x": 333,
+      "y": 118
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 55035,
+      "x": 253,
+      "y": 114
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 55167,
+      "x": 109,
+      "y": 86
+    },
+    {
+      "type": "click",
+      "timestamp": 55339,
+      "x": 95,
+      "y": 96,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55476,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 55644,
+      "x": 108,
+      "y": 117
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 55909,
+      "x": 200,
+      "y": 134
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55935,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 55935
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 56043,
+      "x": 213,
+      "y": 124
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56170,
+      "scrollY": 263
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56165,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 56166
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 56299,
+      "x": 220,
+      "y": 123
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56375,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 56431,
+      "x": 412,
+      "y": 108
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 57279,
+      "length": 68,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0myAtoi(String\u00a0s)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "blur",
+      "timestamp": 57970
+    },
+    {
+      "type": "blur",
+      "timestamp": 57971
+    },
+    {
+      "type": "focus",
+      "timestamp": 94478
+    },
+    {
+      "type": "focus",
+      "timestamp": 94489
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 95043,
+      "x": 1201,
+      "y": 160
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95238,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 95291,
+      "x": 1200,
+      "y": 193,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95301,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95455,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95494,
+      "length": 90,
+      "lines": 6,
+      "code": "class\u00b7\u200cSolution\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cpublic\u00b7\u200cint\u00b7\u200cmyAtoi(String\u00b7\u200cs)\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96219,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 96247,
+      "length": 1945,
+      "lines": 60
+    },
+    {
+      "type": "keyup",
+      "timestamp": 96483,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98695,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99242,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100997,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 101827,
+      "length": 933,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Stop\u00a0if\u00a0non-digit\u00a0character\u00a0is\u00a0encountered\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(currentChar\u00a0<\u00a0'0'\u00a0||\u00a0currentChar\u00a0>\u00a0'9')\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0break;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Check\u00a0for\u00a0overflow\u00a0before\u00a0adding\u00a0the\u00a0next\u00a0digit\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0positive:\u00a0result\u00a0>\u00a0214748364\u00a0or\u00a0(result\u00a0==\u00a0214748364\u00a0and\u00a0digit\u00a0>\u00a07)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0For\u00a0negative:\u00a0result\u00a0>\u00a0214748364\u00a0or\u00a0(result\u00a0==\u00a0214748364\u00a0and\u00a0digit\u00a0>\u00a08)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Since\u00a0we\u00a0check\u00a0with\u00a0'7',\u00a0this\u00a0works\u00a0for\u00a0both\u00a0cases\u00a0due\u00a0to\u00a0sign\u00a0multiplication\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(result\u00a0>\u00a0overflowThreshold\u00a0||\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0(result\u00a0==\u00a0overflowThreshold\u00a0&&\u00a0currentChar\u00a0>\u00a0'7'))\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0sign\u00a0>\u00a00\u00a0?\u00a0Integer.MAX_VALUE\u00a0:\u00a0Integer.MIN_VALUE;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Append\u00a0current\u00a0digit\u00a0to\u00a0result\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0result\u00a0=\u00a0result\u00a0*\u00a010\u00a0+\u00a0(currentChar\u00a0-\u00a0'0');\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0index++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Apply\u00a0sign\u00a0and\u00a0return\u00a0final\u00a0result\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0sign\u00a0*\u00a0result;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104514,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104871,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105025,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105176,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 111357,
+      "x": 1250,
+      "y": 169
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 111487,
+      "x": 1491,
+      "y": 51
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 111620,
+      "x": 1512,
+      "y": 39
+    },
+    {
+      "type": "blur",
+      "timestamp": 112822
+    }
+  ],
+  "eventCount": 106
+}

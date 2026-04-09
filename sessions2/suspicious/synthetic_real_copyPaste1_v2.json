@@ -1,0 +1,352 @@
+{
+  "sessionId": "session_1775373433985_5wikk6xw1",
+  "startTime": "2026-01-27T17:58:54.690Z",
+  "duration": 30883,
+  "problemUrl": "https://leetcode.com/problems/add-two-numbers/submissions/1898967805/",
+  "problemTitle": "2. Add Two Numbers",
+  "label": "suspicious",
+  "suspicionType": "copyPaste",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1891,
+      "url": "https://leetcode.com/problems/add-two-numbers/description/",
+      "problemTitle": "2. Add Two Numbers"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3568,
+      "x": 1107,
+      "y": 546
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3655,
+      "x": 700,
+      "y": 352
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3897,
+      "x": 512,
+      "y": 239
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 3982,
+      "x": 329,
+      "y": 154
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 4232,
+      "length": 770,
+      "lines": 24,
+      "code": "/**\n\u00a0*\u00a0Definition\u00a0for\u00a0singly-linked\u00a0list.\n\u00a0*\u00a0public\u00a0class\u00a0ListNode\u00a0{\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0val;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0next;\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode()\u00a0{}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0}\n\u00a0*\u00a0\u00a0\u00a0\u00a0\u00a0ListNode(int\u00a0val,\u00a0ListNode\u00a0next)\u00a0{\u00a0this.val\u00a0=\u00a0val;\u00a0this.next\u00a0=\u00a0next;\u00a0}\n\u00a0*\u00a0}\n\u00a0*/\nclass\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0ListNode\u00a0addTwoNumbers(ListNode\u00a0l1,\u00a0ListNode\u00a0l2)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Create\u00a0a\u00a0dummy\u00a0head\u00a0node\u00a0to\u00a0simplify\u00a0list\u00a0construction\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0dummyHead\u00a0=\u00a0new\u00a0ListNode(0);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Initialize\u00a0carry\u00a0for\u00a0addition\u00a0overflow\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0carry\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Pointer\u00a0to\u00a0track\u00a0current\u00a0position\u00a0in\u00a0result\u00a0list\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0ListNode\u00a0current\u00a0=\u00a0dummyHead;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Continue\u00a0while\u00a0there\u00a0are\u00a0digits\u00a0to\u00a0process\u00a0or\u00a0carry\u00a0exists\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0while\u00a0(l1\u00a0!=\u00a0null\u00a0||\u00a0l2\u00a0!=\u00a0null\u00a0||\u00a0carry\u00a0!=\u00a00)\u00a0{\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4244,
+      "x": 313,
+      "y": 146
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4384,
+      "x": 288,
+      "y": 141
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4471,
+      "x": 151,
+      "y": 127
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4559,
+      "x": 95,
+      "y": 121
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4645,
+      "x": 72,
+      "y": 108
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4732,
+      "x": 43,
+      "y": 115
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 4817,
+      "x": 27,
+      "y": 117
+    },
+    {
+      "type": "click",
+      "timestamp": 5001,
+      "x": 25,
+      "y": 118,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5020,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5160,
+      "key": "char",
+      "char": "c",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "copy",
+      "timestamp": 5160
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 5283,
+      "x": 39,
+      "y": 111
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5291,
+      "key": "Control"
+    },
+    {
+      "type": "blur",
+      "timestamp": 5830
+    },
+    {
+      "type": "blur",
+      "timestamp": 5832
+    },
+    {
+      "type": "focus",
+      "timestamp": 20220
+    },
+    {
+      "type": "focus",
+      "timestamp": 20237
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 20483,
+      "x": 1370,
+      "y": 33
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 20568,
+      "x": 1284,
+      "y": 218
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 20655,
+      "x": 1251,
+      "y": 262
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20729,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 20938,
+      "x": 1254,
+      "y": 263,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20939,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20941,
+      "key": "char",
+      "char": "a",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20974,
+      "length": 981,
+      "lines": 24,
+      "code": "/**\n\u00b7\u200c*\u00b7\u200cDefinition\u00b7\u200cfor\u00b7\u200csingly-linked\u00b7\u200clist.\n\u00b7\u200c*\u00b7\u200cpublic\u00b7\u200cclass\u00b7\u200cListNode\u00b7\u200c{\n\u00b7\u200c*\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cint\u00b7\u200cval;\n\u00b7\u200c*\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode\u00b7\u200cnext;\n\u00b7\u200c*\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode()\u00b7\u200c{}\n\u00b7\u200c*\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode(int\u00b7\u200cval)\u00b7\u200c{\u00b7\u200cthis.val\u00b7\u200c=\u00b7\u200cval;\u00b7\u200c}\n\u00b7\u200c*\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode(int\u00b7\u200cval,\u00b7\u200cListNode\u00b7\u200cnext)\u00b7\u200c{\u00b7\u200cthis.val\u00b7\u200c=\u00b7\u200cval;\u00b7\u200cthis.next\u00b7\u200c=\u00b7\u200cnext;\u00b7\u200c}\n\u00b7\u200c*\u00b7\u200c}\n\u00b7\u200c*/\nclass\u00b7\u200cSolution\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cpublic\u00b7\u200cListNode\u00b7\u200caddTwoNumbers(ListNode\u00b7\u200cl1,\u00b7\u200cListNode\u00b7\u200cl2)\u00b7\u200c{\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c//\u00b7\u200cCreate\u00b7\u200ca\u00b7\u200cdummy\u00b7\u200chead\u00b7\u200cnode\u00b7\u200cto\u00b7\u200csimplify\u00b7\u200clist\u00b7\u200cconstruction\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode\u00b7\u200cdummyHead\u00b7\u200c=\u00b7\u200cnew\u00b7\u200cListNode(0);\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c//\u00b7\u200cInitialize\u00b7\u200ccarry\u00b7\u200cfor\u00b7\u200caddition\u00b7\u200coverflow\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cint\u00b7\u200ccarry\u00b7\u200c=\u00b7\u200c0;\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c//\u00b7\u200cPointer\u00b7\u200cto\u00b7\u200ctrack\u00b7\u200ccurrent\u00b7\u200cposition\u00b7\u200cin\u00b7\u200cresult\u00b7\u200clist\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cListNode\u00b7\u200ccurrent\u00b7\u200c=\u00b7\u200cdummyHead;\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c//\u00b7\u200cContinue\u00b7\u200cwhile\u00b7\u200cthere\u00b7\u200care\u00b7\u200cdigits\u00b7\u200cto\u00b7\u200cprocess\u00b7\u200cor\u00b7\u200ccarry\u00b7\u200cexists\n\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200c\u00b7\u200cwhile\u00b7\u200c(l1\u00b7\u200c!=\u00b7\u200cnull\u00b7\u200c||\u00b7\u200cl2\u00b7\u200c!=\u00b7\u200cnull\u00b7\u200c||\u00b7\u200ccarry\u00b7\u200c!=\u00b7\u200c0)\u00b7\u200c{\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21401,
+      "key": "char",
+      "char": "v",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "paste",
+      "timestamp": 21403,
+      "length": 1499,
+      "lines": 42
+    },
+    {
+      "type": "keyup",
+      "timestamp": 21554,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22344,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22407,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22795,
+      "key": "'",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 22968,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25005,
+      "length": 710,
+      "lines": 24,
+      "code": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Update\u00a0carry\u00a0for\u00a0next\u00a0iteration\u00a0(integer\u00a0division)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0carry\u00a0=\u00a0sum\u00a0/\u00a010;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Create\u00a0new\u00a0node\u00a0with\u00a0the\u00a0current\u00a0digit\u00a0(remainder\u00a0after\u00a0division\u00a0by\u00a010)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0current.next\u00a0=\u00a0new\u00a0ListNode(sum\u00a0%\u00a010);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Move\u00a0current\u00a0pointer\u00a0to\u00a0the\u00a0newly\u00a0created\u00a0node\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0current\u00a0=\u00a0current.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Move\u00a0to\u00a0next\u00a0nodes\u00a0in\u00a0input\u00a0lists\u00a0if\u00a0they\u00a0exist\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(l1\u00a0!=\u00a0null)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l1\u00a0=\u00a0l1.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if\u00a0(l2\u00a0!=\u00a0null)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l2\u00a0=\u00a0l2.next;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0//\u00a0Return\u00a0the\u00a0actual\u00a0head\u00a0of\u00a0result\u00a0list\u00a0(skip\u00a0dummy\u00a0head)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0dummyHead.next;\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26198,
+      "key": "Control",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26375,
+      "key": "Enter",
+      "char": null,
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 26494,
+      "key": "Enter"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26528,
+      "scrollY": 272
+    },
+    {
+      "type": "keyup",
+      "timestamp": 26593,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27265,
+      "x": 1249,
+      "y": 268
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27352,
+      "x": 1416,
+      "y": 171
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27716,
+      "x": 1486,
+      "y": 167
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27754,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27803,
+      "x": 1491,
+      "y": 128
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 27907,
+      "x": 1501,
+      "y": 107
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 28921,
+      "x": 1521,
+      "y": 54
+    },
+    {
+      "type": "blur",
+      "timestamp": 30883
+    }
+  ],
+  "eventCount": 52
+}

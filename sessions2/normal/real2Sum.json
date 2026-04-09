@@ -1,0 +1,7562 @@
+{
+  "sessionId": "session_1768639051335_67jf7lcya",
+  "startTime": "2026-01-17T08:37:32.526Z",
+  "duration": 431468,
+  "problemUrl": "https://leetcode.com/problems/two-sum/",
+  "problemTitle": "1. Two Sum",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 2055,
+      "url": "https://leetcode.com/problems/two-sum/description/",
+      "problemTitle": "1. Two Sum"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 2450,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 2544,
+      "x": 1083,
+      "y": 166,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3167,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 3279,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 3367,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3391,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3582,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 3639,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3765,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4435,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4515,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4641,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 4729,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 4943,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5000,
+      "length": 84,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5150,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5187,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5269,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5316,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5491,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5533,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5704,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5739,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5823,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5950,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5990,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 6040,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6068,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6190,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 6231,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6869,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7129,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7163,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7196,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7267,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7439,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7479,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7559,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7615,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7826,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7866,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7996,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8326,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8360,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8471,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8560,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8598,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10000,
+      "length": 99,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10076,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10297,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10444,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10477,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 10628,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10724,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10875,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11026,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11062,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11260,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11294,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11371,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 11535,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 11568,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12071,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12485,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12521,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12556,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12751,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12790,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 14913,
+      "x": 1085,
+      "y": 164
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15000,
+      "length": 109,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> \n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 15017,
+      "x": 1185,
+      "y": 153
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 15121,
+      "x": 1244,
+      "y": 169
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16801,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16837,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17001,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17048,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20000,
+      "length": 111,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm\n    }\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 25291,
+      "x": 1557,
+      "y": 229
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25719,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25774,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25818,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25927,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26640,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26689,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26857,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 26900,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26926,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27661,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27769,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27834,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27912,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 27952,
+      "key": "Backspace"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27952,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28004,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28447,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 28599,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28630,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28670,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28815,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28919,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28955,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 29021,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29092,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29550,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 29584,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29698,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 29920,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30000,
+      "length": 122,
+      "lines": 6,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new Hash\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30036,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30076,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30108,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30186,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30286,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30324,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30794,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31096,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31266,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31408,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 31455,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31669,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31718,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31765,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 32103,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32364,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32401,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32584,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32633,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 32712,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33227,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33270,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33299,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33423,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33511,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 33544,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 33794,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34055,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34106,
+      "key": "Shift"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34144,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34226,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34314,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34346,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34519,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34582,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34617,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34659,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34785,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34828,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34858,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35000,
+      "length": 148,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35474,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35512,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35770,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35803,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35956,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 36136,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36171,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39153,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39308,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39368,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 39445,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39626,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39660,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40000,
+      "length": 154,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 : )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40164,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 40258,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40314,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 40414,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40836,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40870,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40998,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45000,
+      "length": 154,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 ; )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46160,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46193,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46479,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46711,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46745,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46776,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49162,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49203,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49531,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49567,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49670,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50000,
+      "length": 160,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 ; i<nums)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53100,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53140,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53719,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53755,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53945,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53979,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54186,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54216,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54394,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54432,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54612,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54647,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54677,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55000,
+      "length": 167,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 ; i<nums.length)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56073,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56105,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56311,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56348,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56476,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56973,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57068,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57121,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57241,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57597,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57627,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57646,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60000,
+      "length": 170,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 ; i<nums.length ; )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73494,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73534,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73890,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74075,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74210,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74338,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74696,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 74815,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74845,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75000,
+      "length": 173,
+      "lines": 7,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n    }\n        for(int i=0 ; i<nums.length ; i++)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75094,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75131,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75359,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75396,
+      "key": "Shift"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 75396,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75495,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76485,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76522,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76740,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76843,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76878,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77002,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77037,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77303,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77334,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78506,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78538,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78752,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78788,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79072,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79421,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79892,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79928,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80000,
+      "length": 205,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put()\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 80094,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80438,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80585,
+      "key": "\"",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80621,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 80705,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81951,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82067,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83782,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83887,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83973,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84023,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84179,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85000,
+      "length": 209,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85654,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85697,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86100,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86678,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 86760,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87196,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87229,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87522,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87557,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88253,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 88342,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88645,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88676,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89786,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 89908,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89996,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90018,
+      "length": 215,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Boolean> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90111,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90277,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90385,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90719,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90822,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 90933,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 91034,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 91890,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 91931,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92091,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92563,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92640,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92676,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 92791,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92831,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93040,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93092,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93220,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 93270,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93418,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93464,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93576,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93836,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93900,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93977,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94047,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95000,
+      "length": 215,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,INteger> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95321,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95428,
+      "key": "Backspace",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95537,
+      "key": "Backspace"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95639,
+      "key": "Control"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95913,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96139,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96172,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 96314,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96399,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96432,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96654,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96685,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96837,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97076,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97110,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97265,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97392,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97422,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98808,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 98920,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99225,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 99358,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100000,
+      "length": 215,
+      "lines": 9,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100200,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100314,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100554,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100589,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100688,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104283,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104319,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104366,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104519,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104572,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104849,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105000,
+      "length": 227,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105123,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105158,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 105279,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105512,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105551,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105629,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105822,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105853,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106370,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106404,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110000,
+      "length": 234,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for(int i)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113837,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113876,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114102,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114133,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114878,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 114911,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115000,
+      "length": 237,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for(int i=0 )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115127,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115164,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115261,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115524,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115553,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116125,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116590,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118373,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118891,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118939,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 119125,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120000,
+      "length": 241,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for(int i=0 ; i<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123403,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123435,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123473,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123641,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123673,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123839,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123874,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124534,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124562,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124743,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124775,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124896,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125000,
+      "length": 248,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for(int i=0 ; i<nums.le)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125114,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125143,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125370,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125409,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125753,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125783,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126108,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127218,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127248,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127449,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127482,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127867,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127990,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128140,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128263,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128294,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128768,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128803,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129121,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129523,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129552,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129681,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 129805,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130000,
+      "length": 258,
+      "lines": 10,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n    }\n        for(int i=0 ; i<nums.length ; i++)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130228,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 130345,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130456,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130641,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130675,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 130821,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 130896,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 130951,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 131006,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132827,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132856,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132892,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135000,
+      "length": 284,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            hm\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138385,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 138467,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138562,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 138659,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139138,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139178,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139271,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139651,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139981,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140019,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140027,
+      "length": 286,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            if()\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 140182,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140590,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140622,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140666,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141432,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141465,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141671,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 141706,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141802,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141992,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142020,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142318,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142350,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142506,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142684,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 142717,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142809,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 142994,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143024,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143346,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143486,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143517,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 143562,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 143724,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 143753,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 144010,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 144041,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 144765,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145000,
+      "length": 300,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            if(hm.containsKey)\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145036,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145069,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 145294,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 150000,
+      "length": 302,
+      "lines": 12,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            if(hm.containsKey())\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 163799,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164299,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164331,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164361,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164392,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164422,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164453,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164484,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164515,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164545,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164576,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164606,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164637,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164668,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164699,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164762,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164785,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164810,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 164826,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 164997,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 165045,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 165712,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 165845,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167621,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 167654,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 167757,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 167914,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 168034,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 170000,
+      "length": 315,
+      "lines": 13,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            \n        }\n    }\n            if(hm.containsKey())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184903,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 184933,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 184953,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 185000,
+      "length": 317,
+      "lines": 13,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            in\n        }\n    }\n            if(hm.containsKey())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185036,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185138,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185175,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 185901,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 185930,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186096,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186267,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 186296,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186434,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186541,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 186569,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186730,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 186813,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 186845,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 190000,
+      "length": 326,
+      "lines": 13,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = \n        }\n    }\n            if(hm.containsKey())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 192263,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192431,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193074,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 193154,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193220,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 193331,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 208941,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 208978,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209148,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209292,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209322,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209545,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209575,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209714,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 209865,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 209895,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 210000,
+      "length": 332,
+      "lines": 13,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target\n        }\n    }\n            if(hm.containsKey())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 210963,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 210997,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211184,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 211278,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211289,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211598,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 211627,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211660,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 211839,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 211871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212019,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212437,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212471,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 212790,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 212822,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213571,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 213688,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213925,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214862,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214968,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 215000,
+      "length": 343,
+      "lines": 13,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n    }\n            if(hm.containsKey())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215910,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216126,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216156,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 216229,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216381,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216416,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 216508,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217097,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217214,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217407,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217907,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217938,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217969,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218000,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218032,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218063,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218094,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218125,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218156,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218188,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218218,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218252,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218305,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218324,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 220000,
+      "length": 375,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey()){\n                \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224781,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224822,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224851,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 225000,
+      "length": 361,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(nu)){\n\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225003,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 225032,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225129,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226635,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 226714,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226777,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 226936,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226937,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 227042,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227084,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 227190,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228034,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228063,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228164,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228307,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228335,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228451,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 230000,
+      "length": 363,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230425,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 230546,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230769,
+      "key": "Tab",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 230914,
+      "key": "Tab"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 235000,
+      "length": 379,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                \n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242332,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242369,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242416,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242606,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242635,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242799,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 242921,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 242960,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243047,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 243184,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 243212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244326,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 244365,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244520,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 244621,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 244654,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 245000,
+      "length": 389,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245182,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 245212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245712,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 245742,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245790,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 245889,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 246545,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 246580,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 246634,
+      "key": "]",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 247283,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 247954,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 247985,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 248145,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 250000,
+      "length": 397,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 251939,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 251969,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254269,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 254416,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255875,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 256104,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 256132,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 256563,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 256594,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 256993,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 257025,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257298,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 257418,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257447,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257658,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 257685,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 257787,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 258178,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 258520,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 258549,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 258788,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 260000,
+      "length": 405,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get()}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 264414,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 264444,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 264498,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 264687,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 264713,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 265000,
+      "length": 408,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(num)}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 265465,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 265493,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 266739,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 266769,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 270000,
+      "length": 411,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[])}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 280568,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 280603,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 282401,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 282535,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 283167,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 283317,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 283345,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 283514,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 283646,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 283678,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 285000,
+      "length": 415,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff])}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 287277,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 287441,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 288381,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 288408,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 288700,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 288729,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 290000,
+      "length": 417,
+      "lines": 15,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff],i)}\n            }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290295,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 290400,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 290495,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 290608,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291521,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 291550,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 292611,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 292627,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 292729,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293168,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293307,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293570,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 293601,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293698,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294059,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294085,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294174,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294413,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294445,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294563,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294728,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 294759,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294850,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 295000,
+      "length": 433,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff],i)};\n            }\n    }\n        return\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 295009,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 295041,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 299063,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 299093,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 299536,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 299564,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 299592,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 299734,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 300000,
+      "length": 438,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff],i)};\n            }\n    }\n        return new \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300108,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300202,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300326,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300358,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300830,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300869,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302364,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 302476,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302559,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302806,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 302844,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303014,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303488,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 303516,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303584,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303799,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 303828,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 304025,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 304057,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 304651,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 304743,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 304821,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 304914,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 305000,
+      "length": 449,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff],i)};\n            }\n    }\n        return new int[]{-1-1}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 305712,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 305740,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 306410,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 306497,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 306597,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 306674,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 306793,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 306906,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307409,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 307436,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307508,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307658,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 307835,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 310000,
+      "length": 451,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff],i)};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 315130,
+      "x": 1634,
+      "y": 241
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 315234,
+      "x": 1514,
+      "y": 277
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 315339,
+      "x": 1410,
+      "y": 282
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 315443,
+      "x": 1350,
+      "y": 277
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 316603,
+      "x": 1349,
+      "y": 280
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 316762,
+      "x": 1399,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 316873,
+      "x": 1402,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 316977,
+      "x": 1425,
+      "y": 288
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318005,
+      "x": 1430,
+      "y": 287
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318109,
+      "x": 1449,
+      "y": 288
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318256,
+      "x": 1458,
+      "y": 288
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318742,
+      "x": 1462,
+      "y": 289
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318846,
+      "x": 1454,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 318991,
+      "x": 1450,
+      "y": 297
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319095,
+      "x": 1437,
+      "y": 300
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319200,
+      "x": 1403,
+      "y": 301
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319304,
+      "x": 1384,
+      "y": 297
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319408,
+      "x": 1374,
+      "y": 291
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319512,
+      "x": 1375,
+      "y": 288
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319616,
+      "x": 1396,
+      "y": 282
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319811,
+      "x": 1404,
+      "y": 283
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 319922,
+      "x": 1408,
+      "y": 285
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320026,
+      "x": 1427,
+      "y": 287
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320193,
+      "x": 1437,
+      "y": 288
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320297,
+      "x": 1423,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320401,
+      "x": 1410,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320505,
+      "x": 1395,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320609,
+      "x": 1383,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320741,
+      "x": 1379,
+      "y": 296
+    },
+    {
+      "type": "click",
+      "timestamp": 320914,
+      "x": 1377,
+      "y": 294,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 320970,
+      "x": 1404,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 321075,
+      "x": 1510,
+      "y": 323
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321417,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 321746,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 321775,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 322044,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 323884,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 324045,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 324293,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 324762,
+      "x": 1523,
+      "y": 326
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 324867,
+      "x": 1482,
+      "y": 265
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 324971,
+      "x": 1438,
+      "y": 231
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 325000,
+      "length": 452,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff]),i)};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 329526,
+      "x": 1421,
+      "y": 231
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 329630,
+      "x": 1342,
+      "y": 260
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 329734,
+      "x": 1303,
+      "y": 262
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 329838,
+      "x": 1280,
+      "y": 274
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 329943,
+      "x": 1262,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330131,
+      "x": 1261,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330304,
+      "x": 1261,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330408,
+      "x": 1304,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330512,
+      "x": 1321,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330616,
+      "x": 1325,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330720,
+      "x": 1335,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 330950,
+      "x": 1336,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331054,
+      "x": 1315,
+      "y": 299
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331547,
+      "x": 1310,
+      "y": 299
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331651,
+      "x": 1342,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331755,
+      "x": 1347,
+      "y": 300
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331859,
+      "x": 1360,
+      "y": 305
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 331984,
+      "x": 1365,
+      "y": 306
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332172,
+      "x": 1370,
+      "y": 306
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332276,
+      "x": 1334,
+      "y": 302
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332387,
+      "x": 1327,
+      "y": 302
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332492,
+      "x": 1328,
+      "y": 301
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332595,
+      "x": 1394,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 332700,
+      "x": 1414,
+      "y": 291
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 333068,
+      "x": 1419,
+      "y": 291
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 333172,
+      "x": 1434,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 333290,
+      "x": 1436,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 333526,
+      "x": 1436,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 333991,
+      "x": 1442,
+      "y": 295
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334095,
+      "x": 1425,
+      "y": 301
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334199,
+      "x": 1412,
+      "y": 301
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334304,
+      "x": 1407,
+      "y": 301
+    },
+    {
+      "type": "click",
+      "timestamp": 334484,
+      "x": 1405,
+      "y": 295,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334540,
+      "x": 1409,
+      "y": 295
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334644,
+      "x": 1462,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 334748,
+      "x": 1480,
+      "y": 308
+    },
+    {
+      "type": "keydown",
+      "timestamp": 335333,
+      "key": "Delete",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 335425,
+      "key": "Delete"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 338081,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 338889,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 339293,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 340000,
+      "length": 451,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(nums[diff]),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 353996,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 354031,
+      "x": 1492,
+      "y": 309,
+      "target": "DIV"
+    },
+    {
+      "type": "click",
+      "timestamp": 354403,
+      "x": 1492,
+      "y": 309,
+      "target": "DIV"
+    },
+    {
+      "type": "click",
+      "timestamp": 354829,
+      "x": 1492,
+      "y": 309,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 354887,
+      "x": 1490,
+      "y": 309
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 354991,
+      "x": 1465,
+      "y": 307
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 355117,
+      "x": 1447,
+      "y": 302
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 355220,
+      "x": 1444,
+      "y": 302
+    },
+    {
+      "type": "click",
+      "timestamp": 355354,
+      "x": 1444,
+      "y": 302,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 366623,
+      "x": 1436,
+      "y": 300
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 366727,
+      "x": 1349,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 366831,
+      "x": 1273,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 366936,
+      "x": 1245,
+      "y": 290
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 367047,
+      "x": 1241,
+      "y": 290
+    },
+    {
+      "type": "click",
+      "timestamp": 367408,
+      "x": 1234,
+      "y": 290,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 367499,
+      "x": 1258,
+      "y": 310
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 367602,
+      "x": 1316,
+      "y": 372
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 367706,
+      "x": 1361,
+      "y": 401
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368269,
+      "x": 1363,
+      "y": 401
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368373,
+      "x": 1400,
+      "y": 388
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368477,
+      "x": 1443,
+      "y": 378
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368582,
+      "x": 1483,
+      "y": 338
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368686,
+      "x": 1499,
+      "y": 309
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 368901,
+      "x": 1500,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 369019,
+      "x": 1500,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 369262,
+      "x": 1500,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 369366,
+      "x": 1500,
+      "y": 300
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 369498,
+      "x": 1500,
+      "y": 295
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 369644,
+      "x": 1500,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 370874,
+      "x": 1499,
+      "y": 292
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 370977,
+      "x": 1478,
+      "y": 296
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371081,
+      "x": 1392,
+      "y": 295
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371186,
+      "x": 1357,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371297,
+      "x": 1350,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371491,
+      "x": 1337,
+      "y": 293
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371623,
+      "x": 1336,
+      "y": 293
+    },
+    {
+      "type": "click",
+      "timestamp": 371793,
+      "x": 1336,
+      "y": 293,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 371880,
+      "x": 1341,
+      "y": 294
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372112,
+      "x": 1533,
+      "y": 346
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372477,
+      "x": 1533,
+      "y": 346
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372581,
+      "x": 1490,
+      "y": 340
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372686,
+      "x": 1453,
+      "y": 329
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372845,
+      "x": 1435,
+      "y": 319
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 372949,
+      "x": 1420,
+      "y": 306
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373054,
+      "x": 1392,
+      "y": 290
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373158,
+      "x": 1387,
+      "y": 289
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373318,
+      "x": 1381,
+      "y": 289
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373429,
+      "x": 1378,
+      "y": 289
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373540,
+      "x": 1373,
+      "y": 290
+    },
+    {
+      "type": "click",
+      "timestamp": 373831,
+      "x": 1373,
+      "y": 290,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 373971,
+      "x": 1379,
+      "y": 291
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374074,
+      "x": 1461,
+      "y": 326
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374338,
+      "x": 1465,
+      "y": 328
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374442,
+      "x": 1418,
+      "y": 313
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374547,
+      "x": 1403,
+      "y": 308
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374672,
+      "x": 1399,
+      "y": 305
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 374776,
+      "x": 1454,
+      "y": 297
+    },
+    {
+      "type": "keydown",
+      "timestamp": 375480,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 375578,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 376405,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 376555,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 377518,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378018,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378049,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 378064,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378166,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 378290,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378455,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 378566,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378634,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 378722,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378779,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 378868,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 378923,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 379006,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 379280,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 379390,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 379533,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 379974,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 380011,
+      "length": 445,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff)){\n                return new int[]{hm.get(diff),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 380193,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 380846,
+      "x": 1519,
+      "y": 313
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 380950,
+      "x": 1414,
+      "y": 310
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 381054,
+      "x": 1380,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 381346,
+      "x": 1379,
+      "y": 304
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 381450,
+      "x": 1407,
+      "y": 285
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 382686,
+      "x": 1415,
+      "y": 283
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 382790,
+      "x": 1350,
+      "y": 279
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 382894,
+      "x": 1321,
+      "y": 267
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383193,
+      "x": 1309,
+      "y": 262
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383311,
+      "x": 1303,
+      "y": 258
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383526,
+      "x": 1302,
+      "y": 256
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383630,
+      "x": 1306,
+      "y": 249
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383825,
+      "x": 1313,
+      "y": 246
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 383926,
+      "x": 1318,
+      "y": 243
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384311,
+      "x": 1318,
+      "y": 243
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384415,
+      "x": 1333,
+      "y": 240
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384616,
+      "x": 1339,
+      "y": 240
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384721,
+      "x": 1336,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384825,
+      "x": 1316,
+      "y": 386
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 384931,
+      "x": 1296,
+      "y": 602
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 385519,
+      "x": 1293,
+      "y": 616
+    },
+    {
+      "type": "scroll",
+      "timestamp": 385785,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 386832,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 387109,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 387450,
+      "x": 1268,
+      "y": 810
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 387554,
+      "x": 1243,
+      "y": 777
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 387658,
+      "x": 1213,
+      "y": 735
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 387762,
+      "x": 1190,
+      "y": 675
+    },
+    {
+      "type": "click",
+      "timestamp": 387923,
+      "x": 1190,
+      "y": 675,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 387999,
+      "x": 1193,
+      "y": 691
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 388109,
+      "x": 1203,
+      "y": 710
+    },
+    {
+      "type": "click",
+      "timestamp": 388298,
+      "x": 1208,
+      "y": 724,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 388582,
+      "x": 1217,
+      "y": 737
+    },
+    {
+      "type": "scroll",
+      "timestamp": 388824,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 390026,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 390401,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 390526,
+      "x": 1273,
+      "y": 832
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 390727,
+      "x": 1263,
+      "y": 830
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 390838,
+      "x": 1161,
+      "y": 792
+    },
+    {
+      "type": "scroll",
+      "timestamp": 391005,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 391255,
+      "x": 1154,
+      "y": 783
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 391360,
+      "x": 1101,
+      "y": 722
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 391464,
+      "x": 1030,
+      "y": 702
+    },
+    {
+      "type": "click",
+      "timestamp": 391689,
+      "x": 1005,
+      "y": 701,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 391825,
+      "x": 1016,
+      "y": 705
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 391929,
+      "x": 1155,
+      "y": 758
+    },
+    {
+      "type": "scroll",
+      "timestamp": 392130,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 392346,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 392825,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393054,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393256,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393457,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393693,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 393894,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 394436,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 394637,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 395340,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 395547,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 395748,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 395888,
+      "x": 1166,
+      "y": 747
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 395991,
+      "x": 1294,
+      "y": 419
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 398387,
+      "x": 1317,
+      "y": 383
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 398491,
+      "x": 1273,
+      "y": 540
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 398595,
+      "x": 1269,
+      "y": 581
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 401970,
+      "x": 1271,
+      "y": 572
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 402075,
+      "x": 1329,
+      "y": 372
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 402179,
+      "x": 1339,
+      "y": 315
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 402290,
+      "x": 1338,
+      "y": 301
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 403470,
+      "x": 1337,
+      "y": 300
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 403574,
+      "x": 1306,
+      "y": 274
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 403678,
+      "x": 1293,
+      "y": 268
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 403783,
+      "x": 1277,
+      "y": 271
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 403936,
+      "x": 1268,
+      "y": 273
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 404047,
+      "x": 1263,
+      "y": 274
+    },
+    {
+      "type": "scroll",
+      "timestamp": 404150,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 404226,
+      "x": 1263,
+      "y": 274,
+      "target": "DIV"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 404360,
+      "x": 1269,
+      "y": 277
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 404505,
+      "x": 1311,
+      "y": 297
+    },
+    {
+      "type": "keydown",
+      "timestamp": 404762,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 404793,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 405000,
+      "length": 446,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff) ){\n                return new int[]{hm.get(diff),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 405156,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 405599,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 405629,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 405742,
+      "key": "&",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 405954,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 405975,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 406005,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 409386,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 409415,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 409626,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 409657,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 410000,
+      "length": 451,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff) && hm){\n                return new int[]{hm.get(diff),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 410479,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 410510,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 412698,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 412728,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 412941,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 412971,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413181,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413209,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413720,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 413956,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 413986,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 414130,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 414493,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 414525,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 414665,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 414950,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 414978,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 415000,
+      "length": 460,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff) && hm.get(dif)){\n                return new int[]{hm.get(diff),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 415102,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 415940,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 416076,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 416861,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 416888,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 417571,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 417774,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 417804,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 417870,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 418065,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 418094,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 418304,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 418334,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 418760,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 418790,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 420000,
+      "length": 466,
+      "lines": 16,
+      "code": "class Solution {\n    public int[] twoSum(int[] nums, int target) {\n        HashMap<Integer,Integer> hm = new HashMap<>();\n        for(int i=0 ; i<nums.length ; i++){\n            hm.put(nums[i],i);\n        }\n        for(int i=0 ; i<nums.length ; i++){\n            int diff = target = nums[i];\n        }\n            if(hm.containsKey(diff) && hm.get(diff) != i){\n                return new int[]{hm.get(diff),i};\n            }\n    }\n        return new int[]{-1,-1};\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 420245,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 420420,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 420664,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 421513,
+      "x": 1321,
+      "y": 298
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 421615,
+      "x": 1412,
+      "y": 334
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 421761,
+      "x": 1433,
+      "y": 343
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 422073,
+      "x": 1436,
+      "y": 344
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 422214,
+      "x": 1437,
+      "y": 344
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 424520,
+      "x": 1433,
+      "y": 360
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 424623,
+      "x": 1361,
+      "y": 674
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 424727,
+      "x": 1324,
+      "y": 801
+    },
+    {
+      "type": "scroll",
+      "timestamp": 424978,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 425180,
+      "scrollY": 0
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 426714,
+      "x": 1329,
+      "y": 789
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 426818,
+      "x": 1365,
+      "y": 570
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 426922,
+      "x": 1388,
+      "y": 485
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 427026,
+      "x": 1418,
+      "y": 410
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 430200,
+      "x": 1417,
+      "y": 410
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 430305,
+      "x": 1537,
+      "y": 38
+    },
+    {
+      "type": "blur",
+      "timestamp": 431468
+    }
+  ],
+  "eventCount": 1079
+}

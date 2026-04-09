@@ -1,0 +1,6128 @@
+{
+  "sessionId": "session_1775373335574_riq89uij9",
+  "startTime": "2026-01-21T08:48:41.467Z",
+  "duration": 344751,
+  "problemUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/submissions/1891968165/",
+  "problemTitle": "1004. Max Consecutive Ones III",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1105,
+      "url": "https://leetcode.com/problems/max-consecutive-ones-iii/description/",
+      "problemTitle": "1004. Max Consecutive Ones III"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1464,
+      "x": 1435,
+      "y": 274
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 1572,
+      "x": 1228,
+      "y": 222
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5407,
+      "length": 82,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 39877,
+      "x": 1188,
+      "y": 217
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 39987,
+      "x": 1172,
+      "y": 204
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 40222,
+      "x": 1175,
+      "y": 167
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40353,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 40622,
+      "x": 1170,
+      "y": 181,
+      "target": "DIV"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41274,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 41370,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41823,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41866,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41893,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41955,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42077,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42115,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 42272,
+      "length": 86,
+      "lines": 6,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42682,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42726,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43068,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43107,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43384,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43418,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43975,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44114,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44012,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44174,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 44278,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44526,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44644,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44762,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44794,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45387,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45419,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45648,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45681,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45791,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46244,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46351,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46392,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46528,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46859,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46891,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47108,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 47556,
+      "length": 105,
+      "lines": 7,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0\u00a0\u00a0\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47762,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47795,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47973,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 48097,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48250,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48414,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48472,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48501,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49325,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49353,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49383,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49494,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49631,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49662,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49694,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 49855,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 49885,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50100,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50134,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50241,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50539,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 50633,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50676,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 50790,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50839,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50916,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51126,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51154,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51722,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51886,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52044,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52294,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52322,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52520,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52551,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 52651,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 52840,
+      "length": 132,
+      "lines": 9,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53456,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53485,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53578,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53714,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53746,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53884,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53960,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53993,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54104,
+      "scrollY": 273
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54409,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 54559,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 54593,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 54710,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55789,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55819,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56022,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56309,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56340,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56437,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57143,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57175,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57269,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57436,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57474,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57564,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 58124,
+      "length": 147,
+      "lines": 9,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums)\u00a0\u00a0\u00a0\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58371,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58403,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58745,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58773,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58897,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59092,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59749,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59779,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60089,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60245,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61264,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 61380,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 61849,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62092,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62121,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62199,
+      "scrollY": 293
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62276,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62366,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62411,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 62482,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 63408,
+      "length": 171,
+      "lines": 11,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66675,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66708,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66800,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67284,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67497,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67523,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67730,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 68692,
+      "length": 176,
+      "lines": 11,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if ()\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68765,
+      "scrollY": 101
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70250,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70368,
+      "scrollY": 66
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70281,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70387,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70569,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70598,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70695,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72349,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72378,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72807,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72842,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73491,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 73601,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73711,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73738,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73897,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 73982,
+      "length": 186,
+      "lines": 11,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0=)\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74019,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74052,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74129,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74927,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 75820,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 75917,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76032,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76186,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76220,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76338,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76430,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76462,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 76542,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77828,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77857,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78128,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78296,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78327,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78463,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 78634,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 79260,
+      "length": 219,
+      "lines": 13,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79386,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79412,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79673,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79708,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 79814,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80350,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80377,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80483,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80785,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80839,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83056,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 83093,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83158,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83250,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83893,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83980,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84011,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84111,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84137,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84344,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84376,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84450,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 84544,
+      "length": 244,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Marh\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84846,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84940,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85255,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 85385,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85534,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85566,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85562,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85633,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86336,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86372,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86732,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86763,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86812,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87061,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87095,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87507,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87811,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87841,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 88019,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88761,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 88792,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 88842,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89179,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89232,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89669,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89701,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 89828,
+      "length": 255,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92273,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92358,
+      "scrollY": 248
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92301,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92416,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 92662,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 92689,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93063,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 93172,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93270,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93826,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 93963,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 93992,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94049,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94101,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95023,
+      "key": "Alt",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 95112,
+      "length": 263,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95220,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": true,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95294,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95610,
+      "key": "Alt"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100396,
+      "length": 262,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111894,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 111995,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112714,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 112856,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113433,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113469,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113613,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113746,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 113776,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 113817,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114721,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114796,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 114876,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 114971,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115611,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 115647,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115657,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 116248,
+      "length": 266,
+      "lines": 14,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116485,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116652,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116681,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116713,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116987,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117022,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 117127,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117957,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117993,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118136,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118420,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118527,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118559,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 118701,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119144,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119174,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119266,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119309,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119471,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119499,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119625,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121074,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 121336,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 121364,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 121470,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 121532,
+      "length": 301,
+      "lines": 16,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122459,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122493,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123210,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123252,
+      "scrollY": 207
+    },
+    {
+      "type": "keyup",
+      "timestamp": 123288,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123382,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123574,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123603,
+      "scrollY": 0
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123712,
+      "scrollY": 97
+    },
+    {
+      "type": "keyup",
+      "timestamp": 123771,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123892,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123925,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 123996,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 126816,
+      "length": 334,
+      "lines": 18,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 145904,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 145960,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146164,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146206,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146549,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146763,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146827,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 146804,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 146980,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 147954,
+      "length": 337,
+      "lines": 18,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if()\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149435,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 149469,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149553,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149568,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149752,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 149785,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 149887,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 150764,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 150796,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 151524,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 151558,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152551,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 152654,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 152890,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 152922,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 153238,
+      "length": 345,
+      "lines": 18,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153614,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153647,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153752,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 153895,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 153927,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 154804,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 154834,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155588,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 155687,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155798,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 155983,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156020,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 156208,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156332,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156365,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 156443,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156925,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 156957,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 156998,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157043,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157222,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157252,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157344,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 157504,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 157540,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 158521,
+      "length": 394,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 158971,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 161452,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161785,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 161816,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 161962,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 163805,
+      "length": 396,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 187951,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 188105,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 188426,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 188503,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 188602,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 188696,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190045,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 190204,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 190651,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 190779,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191246,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191411,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 191512,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 191720,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 191949,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 192035,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192259,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 192363,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192419,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 192534,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 192575,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193408,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193936,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 193970,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194005,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194040,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194068,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194104,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194133,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194178,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194205,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194234,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194266,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194298,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194331,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194361,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194391,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 194422,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 194513,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195042,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195075,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195109,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195142,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195174,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195208,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195328,
+      "scrollY": 157
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195240,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195270,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195303,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 195331,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195337,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195376,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195408,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195435,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195466,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 195509,
+      "length": 342,
+      "lines": 18,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (num\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195714,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195833,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 195889,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 195995,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196049,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196147,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196194,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196300,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196350,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196475,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 196520,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 196662,
+      "key": "Backspace"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 200793,
+      "length": 333,
+      "lines": 18,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213123,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213153,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213292,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213438,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213465,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213552,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 213697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 213725,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214144,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214346,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 214373,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 214501,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 214652,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215067,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215095,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 215353,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 215385,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 215522,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216163,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216190,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216611,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 216645,
+      "length": 361,
+      "lines": 19,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 216827,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 216852,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217015,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 217159,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 217693,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 217719,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 218556,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 218658,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219125,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219237,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219301,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219391,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219477,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219576,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 219700,
+      "scrollY": 287
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219709,
+      "key": "ArrowLeft",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 219801,
+      "key": "ArrowLeft"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 219985,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220036,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220478,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 220508,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220576,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 220706,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 220815,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 221929,
+      "length": 382,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222330,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 222361,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 222878,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 223004,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223241,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223409,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223438,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223659,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223690,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223829,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223912,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 223955,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 223979,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224075,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224313,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 224345,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224713,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224810,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 224819,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 224938,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 225003,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225076,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 225106,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225468,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 225496,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 225569,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226252,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 226280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226565,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 226593,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226654,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 226877,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 226905,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 227213,
+      "length": 397,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227229,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 227539,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 227568,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 227728,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228646,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 228673,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 228742,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229000,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229029,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 229353,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 229382,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 230884,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 230909,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231084,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 231863,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 231893,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 232497,
+      "length": 409,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232824,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 232940,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 232971,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233022,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233027,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 233913,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 233996,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 234231,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 234262,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236379,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 236538,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 236711,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 236835,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237276,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237308,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237426,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237520,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237549,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237556,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237766,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 237781,
+      "length": 416,
+      "lines": 20,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 237888,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 237924,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 237950,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 238198,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 238230,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 238365,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241291,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241319,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241358,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241631,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 241696,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 241725,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 241850,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 243065,
+      "length": 452,
+      "lines": 22,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if()\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252157,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252191,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252319,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252499,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 252526,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 252609,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253324,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 253355,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 253633,
+      "length": 461,
+      "lines": 22,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[])\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 253654,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 253684,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254523,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 254635,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254728,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 254761,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 254954,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 255002,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255091,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 255185,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 258739,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 258764,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 258917,
+      "length": 465,
+      "lines": 22,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a01)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 259033,
+      "scrollY": 94
+    },
+    {
+      "type": "keydown",
+      "timestamp": 261925,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 262078,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 262251,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 262504,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 262540,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 262664,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 262865,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 262894,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 263015,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 264201,
+      "length": 507,
+      "lines": 24,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[l]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 266989,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 267015,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 267559,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 267729,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 267760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 267989,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 268019,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 268167,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 269485,
+      "length": 507,
+      "lines": 24,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 273588,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 273746,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 273988,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 274099,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 274182,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 274295,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 274356,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 274486,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 274575,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 274711,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 274746,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 274888,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 275145,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 275264,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 275341,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 275442,
+      "key": "!",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 275469,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 275584,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 276623,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 276727,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 276862,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 276934,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 277150,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 277294,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 277396,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 277487,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 277538,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 277640,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 277697,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 277782,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 277830,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 277938,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278339,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278623,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 278776,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 278974,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 279130,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 279163,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 279369,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 279409,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 279432,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 280053,
+      "length": 507,
+      "lines": 24,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n}\n"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 280198,
+      "scrollY": 26
+    },
+    {
+      "type": "keydown",
+      "timestamp": 280604,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 280709,
+      "scrollY": 221
+    },
+    {
+      "type": "keyup",
+      "timestamp": 280750,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 282324,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 282363,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 282471,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 284337,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 284367,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 284484,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 284658,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 284682,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 284766,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 284956,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 285083,
+      "scrollY": 2
+    },
+    {
+      "type": "scroll",
+      "timestamp": 284982,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 285338,
+      "length": 533,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 285634,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 285666,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 285790,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 286711,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 286743,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 290622,
+      "length": 536,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 291739,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 291853,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 292743,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 292828,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 292879,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 292994,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293034,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293138,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293186,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293290,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293345,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293443,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293497,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293617,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293667,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293775,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 293863,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 293966,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294088,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 294224,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 294572,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 294677,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 295076,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 295198,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 295761,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 295794,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 295906,
+      "length": 529,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 295930,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 296736,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 296768,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 297084,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 297220,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 297248,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 297421,
+      "key": "+",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 297611,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 299223,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 299250,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300186,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 300361,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 300634,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 300648,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 300784,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 301190,
+      "length": 534,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 301227,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 301258,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 301372,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 302942,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303073,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303141,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303260,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303384,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303522,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 303836,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 303939,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 304124,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 304156,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 304282,
+      "key": "Enter"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 306474,
+      "length": 540,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 306727,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 306758,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 306840,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307053,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 307077,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307165,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307300,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 307410,
+      "scrollY": 103
+    },
+    {
+      "type": "scroll",
+      "timestamp": 307328,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307404,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307506,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 307893,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 307917,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 308015,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 308466,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 308492,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 308823,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 308850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 308992,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 309098,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 309235,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 311758,
+      "length": 549,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1)\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0best;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 314838,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315367,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315399,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315431,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315464,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315497,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315569,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315528,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315561,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315593,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315626,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315657,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 315687,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315721,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 315764,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 315954,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 316079,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 316156,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 316284,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 316332,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 316437,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 317175,
+      "key": "End",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 317254,
+      "key": "End"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 317736,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 317768,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319173,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 319207,
+      "scrollY": 224
+    },
+    {
+      "type": "keydown",
+      "timestamp": 319313,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 319470,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 322381,
+      "length": 553,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if (nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0best;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 325963,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 326082,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 326236,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 326345,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 326567,
+      "key": "ArrowUp",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 326686,
+      "key": "ArrowUp"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 326853,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 326893,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 326981,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 327337,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327365,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 327431,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 327466,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 327593,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 327621,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 327629,
+      "length": 555,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while (end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0best;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 328071,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 328182,
+      "scrollY": 197
+    },
+    {
+      "type": "scroll",
+      "timestamp": 328099,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 328412,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 328511,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 328623,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 328688,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 328713,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329264,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 329290,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329402,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329372,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329509,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 329536,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329656,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 329719,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 330521,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 330652,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 330809,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 330898,
+      "scrollY": 107
+    },
+    {
+      "type": "keyup",
+      "timestamp": 330930,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 331267,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 331297,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 331806,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 331840,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 332072,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 332099,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 332218,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 332455,
+      "key": "'",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 332652,
+      "key": "Control"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 332894,
+      "length": 563,
+      "lines": 25,
+      "code": "class\u00a0Solution\u00a0{\n\u00a0\u00a0\u00a0\u00a0public\u00a0int\u00a0longestOnes(int[]\u00a0nums,\u00a0int\u00a0k)\u00a0{\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0l=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0end=0;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0count\u00a0=\u00a00;\n\u00a0\u00a0\u00a0\u00a0\u00a0while(end<nums.length){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[end]\u00a0==\u00a01){\n\u00a0\u00a0\u00a0\u00a0\u00a0}\u00a0\u00a0\u00a0\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(count<k){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}else{\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0best\u00a0=\u00a0Math.best(best,end-l+1);\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0end++;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0if(nums[l]\u00a0==\u00a00){\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0}\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0count--;\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0l++;\n\u00a0\u00a0\u00a0\u00a0\u00a0return\u00a0best;\n\u00a0\u00a0\u00a0\u00a0\u00a0int\u00a0best\u00a0=\u00a00;\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 337121,
+      "key": "Control",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 337372,
+      "key": "Enter",
+      "ctrlKey": true,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 337489,
+      "key": "Enter"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 337605,
+      "key": "Control"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 343123,
+      "x": 1185,
+      "y": 176
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 343232,
+      "x": 1359,
+      "y": 45
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 343606,
+      "x": 1437,
+      "y": 27
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 343720,
+      "x": 1487,
+      "y": 16
+    },
+    {
+      "type": "blur",
+      "timestamp": 344751
+    }
+  ],
+  "eventCount": 847
+}

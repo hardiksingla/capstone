@@ -1,0 +1,4169 @@
+{
+  "sessionId": "session_1768662925145_vmx2qnp1k",
+  "startTime": "2026-01-17T15:15:26.114Z",
+  "duration": 153804,
+  "problemUrl": "https://leetcode.com/problems/group-anagrams/submissions/1887919387/",
+  "problemTitle": "49. Group Anagrams copied from chatgpt less backspaces",
+  "label": "suspicious",
+  "suspicionType": "memorized_solution",
+  "events": [
+    {
+      "type": "sessionStart",
+      "timestamp": 1010,
+      "url": "https://leetcode.com/problems/group-anagrams/description/",
+      "problemTitle": "49. Group Anagrams"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1031,
+      "scrollY": 0
+    },
+    {
+      "type": "click",
+      "timestamp": 1671,
+      "x": 794,
+      "y": 181,
+      "target": "DIV"
+    },
+    {
+      "type": "scroll",
+      "timestamp": 1673,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 3964,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 5003,
+      "length": 95,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5020,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5061,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 5266,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5604,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 5637,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 5766,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 6305,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 7490,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 7522,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 7574,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8033,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8307,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8346,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 8424,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8697,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8734,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 8925,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 8963,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9067,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9300,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 9336,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 9454,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 10001,
+      "length": 105,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10377,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 10419,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 10479,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12069,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12323,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12361,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 12424,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12555,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 12590,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 12724,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 13043,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 13085,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 14836,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 15002,
+      "length": 111,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15101,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15571,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15596,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 15701,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 15936,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 15975,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16147,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16193,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16261,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 16466,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 16495,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17050,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 17091,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 17585,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18045,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18084,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 18593,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 18629,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 19477,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 19694,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 19732,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 20002,
+      "length": 121,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> \n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20098,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20136,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20225,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20396,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20423,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20650,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20685,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 20912,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 20950,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 21016,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22569,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22611,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22671,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22767,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 22832,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 22850,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23261,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 23848,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 23884,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 23982,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24230,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24268,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24374,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 24645,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 24925,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 25003,
+      "length": 135,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new Hash\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25209,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25234,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 25332,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25480,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 25513,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 25633,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 26758,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27193,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27221,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 27756,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 27784,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 28907,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 28942,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 29449,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 30002,
+      "length": 142,
+      "lines": 6,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>()\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 30175,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 30197,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 30271,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31398,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31430,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 31733,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 31771,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 31824,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32093,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32130,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 32176,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32735,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32773,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32792,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32902,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 32978,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 32996,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34039,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34357,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 34394,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 34475,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 34719,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 35002,
+      "length": 159,
+      "lines": 8,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n    }\n\n        for ()\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35027,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35064,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 35179,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35376,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35414,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35563,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35683,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 35704,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35858,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 35991,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 36014,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37145,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37184,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37561,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 37599,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 37992,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 38163,
+      "key": ":",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 38198,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 38307,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39378,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39415,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39605,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39630,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 39920,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 39959,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 40001,
+      "length": 171,
+      "lines": 8,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n    }\n\n        for (String s: st)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40214,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40242,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 40520,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 40559,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41690,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41711,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 41820,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 41964,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 41999,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42270,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 42700,
+      "key": "{",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 42733,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 42787,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 43021,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 43055,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 43155,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44477,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44515,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44630,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 44716,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 44736,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 45002,
+      "length": 201,
+      "lines": 10,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            cha\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 45210,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 45249,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46016,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46054,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46654,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46675,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 46769,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 46826,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 46887,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47298,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47336,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47596,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 47634,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 47762,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48064,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48102,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48236,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 48324,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 48345,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 50003,
+      "length": 211,
+      "lines": 10,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = \n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50039,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50076,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50193,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50742,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 50778,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 50833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51152,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51464,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51499,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 51610,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51835,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 51878,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 51999,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52295,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52335,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52524,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 52800,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 52841,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 53042,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53328,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53367,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53487,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53721,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 53760,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 53918,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 55002,
+      "length": 224,
+      "lines": 10,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55219,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 55563,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 55600,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56080,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56113,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 56197,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 56715,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 56753,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57031,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 57529,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 57553,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 57677,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58325,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58365,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 58859,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 58903,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 58932,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59477,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 59780,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 59819,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 59922,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 60002,
+      "length": 241,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            A\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60160,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60198,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60275,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60452,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60478,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60630,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 60762,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 60785,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62329,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62367,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62668,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 62708,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62813,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 62988,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63011,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 63225,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 63260,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 64144,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 65001,
+      "length": 251,
+      "lines": 11,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort\n        }\n    }\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65260,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65290,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 65620,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 65902,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 65941,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66176,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 66212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 66320,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 67103,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 67122,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 67199,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68009,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 68040,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 68116,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 68255,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69393,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 69737,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 69777,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 69937,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 70002,
+      "length": 271,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            S\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70244,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70280,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70431,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70600,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70625,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70804,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 70833,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 70941,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 71667,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 71708,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72755,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 72789,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 72935,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 73260,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 73299,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74058,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74088,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74813,
+      "key": "=",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 74849,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 74941,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 75001,
+      "length": 283,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = \n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76500,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76530,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76634,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76700,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 76734,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 76854,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77352,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 77620,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 77657,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 77751,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78152,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78176,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78773,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 78804,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 78871,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keyup",
+      "timestamp": 78896,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79050,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79074,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79429,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79470,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 79635,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 79683,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 80002,
+      "length": 292,
+      "lines": 12,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new Strin\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 80510,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 80535,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81386,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81664,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81703,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 81774,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 81960,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 81997,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82232,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82267,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82396,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 82778,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 82797,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 82955,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 83973,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84011,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84141,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84220,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 84278,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84830,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 84867,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 84916,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 85002,
+      "length": 314,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            ma\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 85761,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 85798,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86072,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86110,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86602,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86640,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86668,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 86845,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 86871,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87089,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87126,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87403,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87438,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 87635,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 87674,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 89369,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 89404,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 90002,
+      "length": 323,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.compute\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 90667,
+      "key": "[",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 90701,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 94619,
+      "key": "Backspace",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 94652,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 94716,
+      "key": "Backspace"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95555,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 95786,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 95824,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 95933,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96075,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 96109,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 96493,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97219,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97241,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 97428,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 97736,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 97775,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98246,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98283,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98374,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98583,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 98615,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 98707,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99633,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 99892,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 99927,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 100002,
+      "length": 333,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent()\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 100045,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100386,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 100425,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100507,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 100970,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101010,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101738,
+      "key": ",",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 101775,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 101808,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102305,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102341,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 102702,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 102741,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103388,
+      "key": "-",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 103427,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 103755,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104023,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104061,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 104149,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 104385,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 104424,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 105002,
+      "length": 343,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> )\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105119,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105160,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105199,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105276,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 105840,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 105877,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106061,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106405,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106430,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 106607,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106815,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 106854,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 106958,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107158,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107187,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107353,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107391,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107647,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 107947,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 107980,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 108095,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108197,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108228,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108383,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 108628,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 108650,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109279,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 109723,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 109750,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 110003,
+      "length": 357,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 110032,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 110064,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 111930,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 111962,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 112536,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 112561,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 113269,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 115002,
+      "length": 360,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 115641,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 116128,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 116149,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 116680,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117095,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117129,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117322,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117356,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117622,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 117655,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 117816,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118660,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 118880,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 118906,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 119026,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119269,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119301,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 119932,
+      "key": "ArrowRight",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 119950,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 120001,
+      "length": 367,
+      "lines": 13,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s)\n}\n"
+    },
+    {
+      "type": "keyup",
+      "timestamp": 120044,
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 120613,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 120629,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122194,
+      "key": "ArrowDown",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122211,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 122319,
+      "key": "ArrowDown"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 122569,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 122610,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 122674,
+      "key": "Enter"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 123940,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 123978,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124017,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124583,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124614,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 124887,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 124922,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 125002,
+      "length": 381,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);\n        retu\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125041,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125188,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125212,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125391,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125423,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125836,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 125875,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 125932,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126004,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126092,
+      "key": " ",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126111,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126588,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 126854,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 126891,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 127025,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127188,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127222,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127344,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127497,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 127521,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127626,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 127841,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128088,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128125,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 128207,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128343,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 128371,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 128466,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 129716,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 129755,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 130002,
+      "length": 397,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);\n        return new ArrayList\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131036,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131255,
+      "key": "<",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131278,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 131480,
+      "key": ">",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 131517,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 132837,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 132867,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 133032,
+      "key": "Shift"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133225,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133254,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133286,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 133833,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 133863,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134174,
+      "key": ".",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134210,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134643,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134675,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134752,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 134920,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 134945,
+      "scrollY": 0
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 135002,
+      "length": 408,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);\n        return new ArrayList<>(map.val)\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135219,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135259,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135393,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 135491,
+      "key": "char",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 135511,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 136903,
+      "key": "Shift",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "keydown",
+      "timestamp": 137138,
+      "key": "(",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 137179,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 138013,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 138044,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 139374,
+      "key": ")",
+      "ctrlKey": false,
+      "shiftKey": true,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 139404,
+      "scrollY": 0
+    },
+    {
+      "type": "keyup",
+      "timestamp": 139856,
+      "key": "Shift"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 140003,
+      "length": 413,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);\n        return new ArrayList<>(map.values())\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 140254,
+      "key": ";",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": false
+    },
+    {
+      "type": "scroll",
+      "timestamp": 140292,
+      "scrollY": 0
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141434,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 141645,
+      "key": "'",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 142013,
+      "key": "Meta"
+    },
+    {
+      "type": "codeSnapshot",
+      "timestamp": 145002,
+      "length": 414,
+      "lines": 14,
+      "code": "class Solution {\n    public List<List<String>> groupAnagrams(String[] strs) {\n        Map<String, List<String>> map = new HashMap<>();\n\n        for (String s: strs) {\n            char[] arr = s.toCharArray();\n            Arrays.sort(arr);\n        }\n    }\n            String key = new String(arr);\n            map.computeIfAbsent(key, k -> new ArrayList<>()).add(s);\n        return new ArrayList<>(map.values());\n}\n"
+    },
+    {
+      "type": "keydown",
+      "timestamp": 146683,
+      "key": "Meta",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keydown",
+      "timestamp": 147286,
+      "key": "Enter",
+      "ctrlKey": false,
+      "shiftKey": false,
+      "altKey": false,
+      "metaKey": true
+    },
+    {
+      "type": "keyup",
+      "timestamp": 147547,
+      "key": "Meta"
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149787,
+      "x": 795,
+      "y": 181
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 149897,
+      "x": 983,
+      "y": 109
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 150004,
+      "x": 1258,
+      "y": 13
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 150111,
+      "x": 1276,
+      "y": 15
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 150212,
+      "x": 1215,
+      "y": 95
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 150320,
+      "x": 1134,
+      "y": 179
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 152591,
+      "x": 1122,
+      "y": 188
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 152699,
+      "x": 1121,
+      "y": 129
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 152808,
+      "x": 1121,
+      "y": 82
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 152916,
+      "x": 1132,
+      "y": 63
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 153024,
+      "x": 1141,
+      "y": 50
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 153129,
+      "x": 1145,
+      "y": 39
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 153232,
+      "x": 1153,
+      "y": 22
+    },
+    {
+      "type": "mousemove",
+      "timestamp": 153333,
+      "x": 1155,
+      "y": 7
+    },
+    {
+      "type": "blur",
+      "timestamp": 153804
+    }
+  ],
+  "eventCount": 585
+}
