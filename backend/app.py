@@ -21,6 +21,7 @@ detector = LinearTypingDetector(model_dir=MODEL_DIR)
 def analyze():
     if 'file' not in request.files:
         return jsonify({'error': 'No file uploaded'}), 400
+    print("Received file:", request.files['file'].filename)
 
     file = request.files['file']
     if file.filename == '':
