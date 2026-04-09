@@ -2,7 +2,7 @@ import { useState } from 'react'
 import UploadSection from './components/UploadSection.jsx'
 import ResultsDashboard from './components/ResultsDashboard.jsx'
 
-const API_URL = 'http://localhost:5000/api/analyze'
+const API_URL = 'https://capstone-nwee.vercel.app/api/analyze'
 
 function App() {
   const [result, setResult] = useState(null)

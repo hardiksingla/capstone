@@ -1,0 +1,75 @@
+{
+  "model_type": "Linear SVM",
+  "training_date": "2026-02-02T11:36:08.682517",
+  "n_features": 58,
+  "n_samples": 32,
+  "cv_folds": 5,
+  "cv_results": {
+    "Logistic Regression": {
+      "accuracy": {
+        "mean": 0.9666666666666666,
+        "std": 0.06666666666666665
+      },
+      "precision": {
+        "mean": 0.95,
+        "std": 0.09999999999999999
+      },
+      "recall": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "f1": {
+        "mean": 0.9714285714285713,
+        "std": 0.05714285714285716
+      },
+      "roc_auc": {
+        "mean": 1.0,
+        "std": 0.0
+      }
+    },
+    "Linear SVM": {
+      "accuracy": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "precision": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "recall": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "f1": {
+        "mean": 1.0,
+        "std": 0.0
+      },
+      "roc_auc": {
+        "mean": 1.0,
+        "std": 0.0
+      }
+    }
+  },
+  "best_model_metrics": {
+    "accuracy": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 1.0,
+      "std": 0.0
+    }
+  }
+}
